@@ -1,0 +1,6 @@
+{
+    "key": "enable_nanovolume",
+    "label": "Enable NanoVolume",
+    "category": "general",
+    "value": false
+}

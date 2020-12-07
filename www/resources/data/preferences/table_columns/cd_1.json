@@ -1,0 +1,13 @@
+{
+    "key": "cd_1",
+    "label": "Dye Conc.",
+    "category": "",
+    "style": "text-align: center;",
+    "width": 108,
+    "dynamic": "d_{index}",
+    "header": "Dye Conc. {index}",
+    "dataindex": "cd_{index}",
+    "format": "dc",
+    "group": "dye",
+    "translation":"text_DyeConc"
+}

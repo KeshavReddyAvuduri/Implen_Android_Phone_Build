@@ -1,0 +1,44 @@
+[{
+    "text": "mg/ml",
+    "value": "mgml"
+}, {
+    "text": "µg/ml",
+    "value": "ugml",
+    "base": "ugml"
+}, {
+    "text": "µg/µl",
+    "value": "ugul"
+}, {
+    "text": "µg/l",
+    "value": "ugl"
+}, {
+    "text": "pmol/µl",
+    "value": "pmolul"
+}, {
+    "text": "mmol/l",
+    "value": "mmoll"
+}, {
+    "text": "µmol/l",
+    "value": "umoll"
+}, {
+    "text": "g/l",
+    "value": "gl"
+}, {
+    "text": "mg/l",
+    "value": "mgl"
+}, {
+    "text": "U/l",
+    "value": "Ul"
+}, {
+    "text": "%",
+    "value": "percent"
+}, {
+    "text": "ppm",
+    "value": "ppm"
+}, {
+    "text": "conc.",
+    "value": "conc"
+}, {
+    "text": "none",
+    "value": "none"
+}]

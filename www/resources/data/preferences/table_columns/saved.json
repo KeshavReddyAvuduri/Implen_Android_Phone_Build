@@ -1,0 +1,9 @@
+{
+    "key": "saved",
+    "label": "Saved",
+    "category": "",
+    "short": "&nbsp;",
+    "width": 59,
+    "sortable": false,
+    "format": "saved"
+}

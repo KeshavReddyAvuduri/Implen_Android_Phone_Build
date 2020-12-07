@@ -1,0 +1,104 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "OligoLabel",
+        "value": "OligoLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "OligoLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "OligoLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "OligoLabel",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "OligoLabel",
+        "value": 33
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "OligoLabel",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "OligoLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "OligoLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "OligoLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "OligoLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "OligoLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "OligoLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "OligoLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "OligoLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "OligoLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "OligoLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "OligoLabel",
+        "value": "fast"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "ExtCoefficientLabel",
+        "value": "ExtCoefficientLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "ExtCoefficientLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "ExtCoefficientLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "ExtCoefficientLabel",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "ExtCoefficientLabel",
+        "value": "N/A"
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "ExtCoefficientLabel",
+        "value": "OD1"
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "ExtCoefficientLabel",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "ExtCoefficientLabel",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "ExtCoefficientLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "ExtCoefficientLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "ExtCoefficientLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "ExtCoefficientLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "ExtCoefficientLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "ExtCoefficientLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "ExtCoefficientLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "ExtCoefficientLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "ExtCoefficientLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "ExtCoefficientLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "ExtCoefficientLabel",
+        "value": "fast"
+    }
+]

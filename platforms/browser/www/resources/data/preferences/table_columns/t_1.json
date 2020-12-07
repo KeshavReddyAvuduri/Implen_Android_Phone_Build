@@ -1,0 +1,13 @@
+{
+  "key": "t_1",
+  "label": "%Trans. 1",
+  "category": "",
+  "width": 108,
+  "style": "text-align: right;",
+  "format": "float",
+  "decimal": 3,
+  "dynamic": "w_{index}",
+  "header": "%Trans {index}",
+  "dataindex": "t_{index}",
+  "group": "wavescan"
+}

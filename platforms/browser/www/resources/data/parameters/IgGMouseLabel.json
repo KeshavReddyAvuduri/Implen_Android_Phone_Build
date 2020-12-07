@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "IgGMouseLabel",
+        "value": "IgGMouseLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "IgGMouseLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "IgGMouseLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "IgGMouseLabel",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "IgGMouseLabel",
+        "value": 0.714
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "IgGMouseLabel",
+        "value": "IgGMouse"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "IgGMouseLabel",
+        "value": 160000
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "IgGMouseLabel",
+        "value": 224000
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "IgGMouseLabel",
+        "value": 1.4000
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "IgGMouseLabel",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "IgGMouseLabel",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "IgGMouseLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "IgGMouseLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "IgGMouseLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "IgGMouseLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "IgGMouseLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "IgGMouseLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "IgGMouseLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "IgGMouseLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "IgGMouseLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "IgGMouseLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "IgGMouseLabel",
+        "value": "fast"
+    }
+]

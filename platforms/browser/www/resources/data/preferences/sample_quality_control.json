@@ -1,0 +1,32 @@
+[{
+  "key": "nucleic_acids_a260_a230_lower_limit",
+  "label": "A260/A230 lower limit",
+  "category": "sample_quality_control",
+  "value": 1.8
+},{
+  "key": "nucleic_acids_a260_a230_upper_limit",
+  "label": "A260/A230 upper limit",
+  "category": "sample_quality_control",
+  "value": 3.0
+},{
+  "key": "nucleic_acids_a260_a280_lower_limit",
+  "label": "A260/A280 lower limit",
+  "category": "sample_quality_control",
+  "value": 1.65
+},{
+  "key": "nucleic_acids_a260_a280_upper_limit",
+  "label": "A260/A280 upper limit",
+  "category": "sample_quality_control",
+  "value": 2.5
+},{
+  "key": "proteins_a260_a280_upper_limit",
+  "label": "A260/A280 upper limit",
+  "category": "sample_quality_control",
+  "value": 0.7
+},{
+  "key": "sample_quality_control",
+  "label": "Sample Quality Control",
+  "category": "sample_quality_control",
+  "value": true
+}
+]

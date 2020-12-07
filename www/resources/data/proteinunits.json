@@ -1,0 +1,17 @@
+[{
+    "text": "ng/µl",
+    "value": "ngul",
+    "base": "ngul"
+}, {
+    "text": "µg/µl",
+    "value": "ugul",
+    "base": "ngul"
+}, {
+    "text": "µg/ml",
+    "value": "ugml",
+    "base": "ngul"
+}, {
+    "text": "mg/ml",
+    "value": "mgml",
+    "base": "ngul"
+}]

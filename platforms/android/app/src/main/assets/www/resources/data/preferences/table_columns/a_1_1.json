@@ -1,0 +1,14 @@
+{
+    "key": "a_1_1",
+    "label": "Abs. 1-1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}_1",
+    "header": "Abs. {index}-1",
+    "dataindex": "a_{index}_1",
+    "group": "absorbance_ratio",
+    "translation":"text_Abs1_1"
+}

@@ -1,0 +1,12 @@
+{
+    "key": "dold_1",
+    "label": "DOL",
+    "category": "",
+    "width": 108,
+    "dynamic": "d_{index}",
+    "header": "DOL {index}",
+    "dataindex": "dold_{index}",
+    "group": "dye",
+    "format": "float",
+    "decimal": 3
+}

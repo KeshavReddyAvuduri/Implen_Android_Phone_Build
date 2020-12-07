@@ -1,0 +1,26 @@
+[{
+  "key": "configure_wifi",
+  "label": "Configure WiFi",
+  "category": "wifi",
+  "value": "access_point"
+},{
+  "key": "current_ip_ddress",
+  "label": "Current IPv4 Address",
+  "category": "wifi",
+  "value": ""
+},{
+  "key": "mac_address",
+  "label": "MAC Address",
+  "category": "wifi",
+  "value": ""
+},{
+  "key": "password",
+  "label": "Password",
+  "category": "password",
+  "value": ""
+},{
+  "key": "wifi_network",
+  "label": "WiFi Network",
+  "category": "wifi",
+  "value": ""
+}]

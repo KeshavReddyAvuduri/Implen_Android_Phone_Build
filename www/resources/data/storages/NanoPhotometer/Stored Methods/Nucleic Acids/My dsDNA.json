@@ -1,0 +1,20 @@
+{
+    "key": "StoredMethods/NucleicAcids/MydsDNA",
+    "label": "My dsDNA.json",
+    "icon": "lib/resources/images/DNA_icon_114x.png",
+    "stem": "My dsDNA",
+    "scope": "Stored Methods/Nucleic Acids/My dsDNA.json",
+    "kind": "file",
+    "leaf": true,
+    "disclosure": false,
+    "model": "NucleicAcidParameters",
+    "method": "dsDNA",
+    "v": "0.9 µl – 2 µl",
+    "lf": 100,
+    "naf": 54,
+    "u": "ngml",
+    "bc": true,
+    "md": true,
+    "vs": 1.0,
+    "vd": 2.0
+}

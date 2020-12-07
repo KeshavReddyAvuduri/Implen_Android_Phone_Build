@@ -1,0 +1,122 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "ProteinFactor",
+        "value": "ProteinFactor"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "ProteinFactor",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "ProteinFactor",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "ProteinFactor",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "ProteinFactor",
+        "value": "N/A"
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "ProteinFactor",
+        "value": "OD1"
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "ProteinFactor",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "ProteinFactor",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "ProteinFactor",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "ProteinFactor",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "ProteinFactor",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "ProteinFactor",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "ProteinFactor",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "ProteinFactor",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "ProteinFactor",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "ProteinFactor",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "ProteinFactor",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "ProteinFactor",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "ProteinFactor",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "ProteinFactor",
+        "value": "fast"
+    }
+]

@@ -1,0 +1,6 @@
+{
+  "key": "a260_a280_lower_limit",
+  "label": "A260/A280 lower limit",
+  "category": "ngs_qc_conf",
+  "value": 1.65
+}

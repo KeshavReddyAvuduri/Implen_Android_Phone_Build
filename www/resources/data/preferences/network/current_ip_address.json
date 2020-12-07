@@ -1,0 +1,6 @@
+{
+  "key": "current_ip_address",
+  "label": "Current IPv4 Address",
+  "category": "network",
+  "value": ""
+}

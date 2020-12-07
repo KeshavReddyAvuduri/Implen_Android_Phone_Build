@@ -1,0 +1,10 @@
+{
+    "key": "created",
+    "label": "Date and Time",
+    "category": "",
+    "width": 200,
+    "dynamic": "cfr21",
+    "dataindex": "cfr21",
+    "group": "cfr21",
+    "translation": "dateAndTime"
+}

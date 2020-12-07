@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.implen.nanophotometer.nanogap" android-versionCode="26" version="4.3.15562" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>NanoPhotometer</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+      <preference name="DisallowOverscroll" value="true" />
+      <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+<preference name="AndroidExtraFilesystems" value="files,cache, sdcard, cache-external, files-external" />
+ <preference name="SplashScreen" value="screen"/>
+<!--<preference name="AutoHideSplashScreen" value="false"/>
+<preference name="SplashScreenDelay" value="60000"/> -->
+<feature name="SplashScreen">
+<param name="android-package"
+value="org.apache.cordova.splashscreen.SplashScreen" />
+</feature>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <preference name="Orientation" value="portrait" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+</widget>

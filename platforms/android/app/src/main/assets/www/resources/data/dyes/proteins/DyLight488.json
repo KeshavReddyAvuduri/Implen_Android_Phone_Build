@@ -1,0 +1,12 @@
+{
+    "key": "DyLight488",
+    "label": "DyLight 488",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 493,
+    "coe": 70000,
+    "cor": 0.15,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

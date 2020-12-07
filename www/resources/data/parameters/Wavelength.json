@@ -1,0 +1,175 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Wavelength",
+        "value": "Wavelength"
+    },
+    {
+        "key": "wavescan_mode",
+        "label": "Mode",
+        "category": "Wavelength",
+        "value": "absorbance"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "Wavelength",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Wavelength",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Wavelength",
+        "value": 50
+    },
+    {
+        "key": "w_1",
+        "label": "Wavelength 1",
+        "category": "Wavelength",
+        "value": 260
+    },
+    {
+        "key": "w_2",
+        "label": "Wavelength 2",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_3",
+        "label": "Wavelength 3",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_4",
+        "label": "Wavelength 4",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_5",
+        "label": "Wavelength 5",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_6",
+        "label": "Wavelength 6",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_7",
+        "label": "Wavelength 7",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_8",
+        "label": "Wavelength 8",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_9",
+        "label": "Wavelength 9",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_10",
+        "label": "Wavelength 10",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_11",
+        "label": "Wavelength 11",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_12",
+        "label": "Wavelength 12",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_13",
+        "label": "Wavelength 13",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_14",
+        "label": "Wavelength 14",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_15",
+        "label": "Wavelength 15",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_16",
+        "label": "Wavelength 16",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_17",
+        "label": "Wavelength 17",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_18",
+        "label": "Wavelength 18",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_19",
+        "label": "Wavelength 19",
+        "category": "Wavelength"
+    },
+    {
+        "key": "w_20",
+        "label": "Wavelength 20",
+        "category": "Wavelength"
+    },
+    {
+        "key": "baseline",
+        "label": "Baseline Correction",
+        "category": "Wavelength",
+        "value": 0
+    },
+    {
+      "key": "smoothing",
+      "label": "Smoothing",
+      "category": "Wavelength",
+      "value": 1
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "Wavelength",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "Wavelength",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "Wavelength",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "Wavelength",
+        "value": 1.0
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Wavelength",
+        "value": false
+    }
+]

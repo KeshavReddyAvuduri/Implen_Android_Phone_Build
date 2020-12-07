@@ -1,0 +1,19 @@
+{
+    "key"                : "StoredMethods/NucleicAcids/MyssDNA",
+    "label"              : "My ssDNA.json",
+    "stem"               : "My ssDNA",
+    "scope"              : "Stored Methods/Nucleic Acids/My ssDNA.json",
+    "kind"               : "File",
+    "leaf"               : true,
+    "disclosure"         : false,
+    "model"              : "NucleicAcidParameters",
+    "method"             : "ssDNA",
+    "volume"             : "0.9 µl – 2 µl",
+    "lidfactor"          : 100,
+    "nucleic_acid_factor": 45,
+    "units"              : "ugml",
+    "background"         : false,
+    "manual_dilution"    : false,
+    "volume_sample"      : 1.0,
+    "volume_diluent"     : 1.0
+}

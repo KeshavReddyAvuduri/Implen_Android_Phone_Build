@@ -1,0 +1,6 @@
+{
+    "key": "smtp_port",
+    "label": "SMTP Mail Server Port",
+    "category": "email",
+    "value": 25
+}

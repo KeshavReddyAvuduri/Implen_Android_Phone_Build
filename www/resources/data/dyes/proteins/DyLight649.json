@@ -1,0 +1,12 @@
+{
+    "key": "DyLight649",
+    "label": "DyLight 649",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 654,
+    "coe": 250000,
+    "cor": 0.04,
+    "show": true,
+    "device_classes": "C40, N60, NP80, N120"
+}

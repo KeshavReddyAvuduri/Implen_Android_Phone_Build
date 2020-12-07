@@ -1,0 +1,12 @@
+{
+    "mailto": {
+        "to": "support@implen.com",
+        "cc": "support@client.com",
+        "subject": "Requested%20Samples",
+        "body": "Hello%20Implen%20Support,...",
+        "format": "ids",
+        "attach": [
+            "http://<nanohotometer_host>:80/rest/storage/NanoPhotometer/A%20Sample.json"
+        ]
+    }
+}

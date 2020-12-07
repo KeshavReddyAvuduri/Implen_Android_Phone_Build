@@ -1,0 +1,9 @@
+{
+    "key": "dna_c",
+    "label": "[DNA]",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "dc",
+    "decimal": 4
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Concentration",
+        "value": "Concentration"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "Concentration",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Concentration",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Concentration",
+        "value": 50
+    },
+    {
+        "key": "w",
+        "label": "Wavelength",
+        "category": "Concentration",
+        "value": 260
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "Concentration",
+        "value": "mgml"
+    },
+    {
+        "key": "f",
+        "label": "Factor",
+        "category": "Concentration",
+        "value": 50
+    },
+    {
+        "key": "baseline",
+        "label": "Baseline Correction",
+        "category": "Concentration",
+        "value": 0
+    },
+    {
+        "key": "smoothing",
+        "label": "Smoothing",
+        "category": "Concentration",
+        "value": 1
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "Concentration",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "Concentration",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "Concentration",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "Concentration",
+        "value": 1.0
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Concentration",
+        "value": false
+    }
+]

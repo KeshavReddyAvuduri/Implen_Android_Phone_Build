@@ -1,0 +1,26 @@
+[
+    {
+      "defaultLabel": "WaveLength Shift",
+      "valueKey" : "wavelength_deviation",
+      "valueDisplayKey" : "timestamp",
+      "updateValue" : true
+    },
+    {
+      "defaultLabel": "Self-test",
+      "false" : "Failed",
+      "selftest_passed_field" : "true",
+      "true" : "Passed",
+      "valueKey" : "selftest_passed",
+      "valueDisplayKey" : "timestamp",
+      "updateValue" : true
+     
+    },{
+        "defaultLabel": "Date & time",
+        "valueKey" : "timestamp",
+        "valueDisplayKey" : "timestamp",
+        "updateValue" : true
+    }
+   
+  ]
+
+ 

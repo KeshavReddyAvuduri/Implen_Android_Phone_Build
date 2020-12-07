@@ -1,0 +1,6 @@
+{
+  "key": "nucleic_acids_a260_a280_lower_limit",
+  "label": "A260/A280 lower limit",
+  "category": "sample_quality_control",
+  "value": 1.65
+}

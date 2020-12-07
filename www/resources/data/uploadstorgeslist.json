@@ -1,0 +1,21 @@
+[{
+    "key": "Delete",
+    "label": "text_DeleteFolder",//"Delete Folder...",
+    "disclose": false
+}, {
+    "key": "Rename",
+    "label": "text_RenameFolder",//"Rename Folder...",
+    "disclose": false
+}, {
+    "key": "CopyTo",
+    "label": "text_COPY_TO",//"Copy To...",
+    "disclose": false
+}, {
+    "key": "MoveTo",
+    "label": "text_MOVE_TO",//"Move To...",
+    "disclose": false
+}, {
+    "key": "DeleteAutosaveArchiveFiles",
+    "label": "text_DeleteAutosaveArchiveFiles",//"Delete Autosave Archive Files...",
+    "disclose": false
+}]

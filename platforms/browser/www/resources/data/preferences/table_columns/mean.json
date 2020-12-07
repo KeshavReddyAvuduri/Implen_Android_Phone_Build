@@ -1,0 +1,8 @@
+{
+    "key": "mean",
+    "label": "Mean",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}

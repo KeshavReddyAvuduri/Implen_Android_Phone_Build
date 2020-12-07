@@ -1,0 +1,9 @@
+{
+    "key": "od",
+    "label": "OD",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "float",
+    "decimal": 3
+}

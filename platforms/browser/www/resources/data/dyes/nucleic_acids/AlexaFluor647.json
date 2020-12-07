@@ -1,0 +1,12 @@
+{
+    "key": "AlexaFluor647",
+    "label": "Alexa Fluor 647",
+    "category": "nucleic_acids",
+    "custom": false,
+    "lock": true,
+    "w": 650,
+    "coe": 239000,
+    "cor": 0.00,
+    "show": true,
+    "device_classes": "C40, N60, NP80, N120"
+}

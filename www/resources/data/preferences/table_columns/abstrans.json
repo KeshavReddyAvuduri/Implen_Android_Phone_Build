@@ -1,0 +1,9 @@
+{
+    "key": "abstrans",
+    "label": "Abs./% Trans.",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3
+}

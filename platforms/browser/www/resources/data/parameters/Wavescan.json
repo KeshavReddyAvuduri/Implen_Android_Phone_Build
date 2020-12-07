@@ -1,0 +1,92 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Wavescan",
+        "value": "Wavescan"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "Wavescan",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Wavescan",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Wavescan",
+        "value": 50
+    },
+    {
+        "key": "wb",
+        "label": "Start Wavelength",
+        "category": "Wavescan",
+        "value": 200
+    },
+    {
+        "key": "we",
+        "label": "End Wavelength",
+        "category": "Wavescan",
+        "value": 900
+    },
+    {
+      "key": "baseline",
+      "label": "Baseline Correction",
+      "category": "Wavescan",
+      "value": 0
+    },
+    {
+        "key": "smoothing",
+        "label": "Smoothing",
+        "category": "Wavescan",
+        "value": 1
+    },
+    {
+        "key": "derivatives",
+        "label": "Derivatives",
+        "category": "Wavescan",
+        "value": false
+    },
+    {
+        "key": "wavescan_mode",
+        "label": "Mode",
+        "category": "Wavescan",
+        "value": "absorbance"
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "Wavescan",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "Wavescan",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "Wavescan",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "Wavescan",
+        "value": 1.0
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Wavescan",
+        "value": false
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "dsDNALabel",
+        "value": "dsDNALabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "dsDNALabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "dsDNALabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "dsDNALabel",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "dsDNALabel",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "dsDNALabel",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "dsDNALabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "dsDNALabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "dsDNALabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "dsDNALabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "dsDNALabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "dsDNALabel",
+        "value": true
+    },
+    {
+        "key": "d_1",
+        "label": "Label 1",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_2",
+        "label": "Label 2",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_3",
+        "label": "Label 3",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_4",
+        "label": "Label 4",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_5",
+        "label": "Label 5",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_6",
+        "label": "Label 6",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_7",
+        "label": "Label 7",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_8",
+        "label": "Label 8",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_9",
+        "label": "Label 9",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_10",
+        "label": "Label 10",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_11",
+        "label": "Label 11",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_12",
+        "label": "Label 12",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_13",
+        "label": "Label 13",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_14",
+        "label": "Label 14",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_15",
+        "label": "Label 15",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_16",
+        "label": "Label 16",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_17",
+        "label": "Label 17",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_18",
+        "label": "Label 18",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_19",
+        "label": "Label 19",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "d_20",
+        "label": "Label 20",
+        "category": "dsDNALabel",
+        "value": null
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "dsDNALabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "dsDNALabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "dsDNALabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "dsDNALabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "dsDNALabel",
+        "value": "fast"
+    }
+]

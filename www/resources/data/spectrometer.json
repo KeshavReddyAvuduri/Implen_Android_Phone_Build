@@ -1,0 +1,17 @@
+{
+    "lidfactor": 10.0,
+    "nonlinearity_correction_coefficient": 0,
+    "trigger_mode": 0,
+    "integration_time": 100,
+    "continuous_strobe_period": 10,
+    "nonlinearity_correction_mode": 0,
+    "scans_to_average": 0,
+    "electric_dark_correction_mode": 0,
+    "boxcar_mode": 0,
+    "integration_clock_to_gpio": 0,
+    "minimum_wavelength": 200,
+    "maximum_wavelength": 1050,
+    "averaged_count": 10,
+    "averaged_lead": 2,
+    "averaged_trail": 2
+}

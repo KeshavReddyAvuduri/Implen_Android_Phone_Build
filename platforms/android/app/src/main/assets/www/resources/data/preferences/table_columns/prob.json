@@ -1,0 +1,8 @@
+{
+    "key": "prob",
+    "label": "% Probability",
+    "category": "",
+    "width": 120,
+    "style": "text-align: right;",
+    "format": "float"
+}

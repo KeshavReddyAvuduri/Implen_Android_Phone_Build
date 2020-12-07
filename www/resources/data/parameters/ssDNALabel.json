@@ -1,0 +1,104 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "ssDNALabel",
+        "value": "ssDNALabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "ssDNALabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "ssDNALabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "ssDNALabel",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "ssDNALabel",
+        "value": 37
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "ssDNALabel",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "ssDNALabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "ssDNALabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "ssDNALabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "ssDNALabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "ssDNALabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "ssDNALabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "ssDNALabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "ssDNALabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "ssDNALabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "ssDNALabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "ssDNALabel",
+        "value": "fast"
+    }
+]

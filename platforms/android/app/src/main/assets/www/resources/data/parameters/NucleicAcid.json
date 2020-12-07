@@ -1,0 +1,110 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "NucleicAcid",
+        "value": "NucleicAcid"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "NucleicAcid",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "NucleicAcid",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "NucleicAcid",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "NucleicAcid",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "NucleicAcid",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "NucleicAcid",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "NucleicAcid",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "NucleicAcid",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "NucleicAcid",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "NucleicAcid",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "NucleicAcid",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "NucleicAcid",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "NucleicAcid",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "NucleicAcid",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "NucleicAcid",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "NucleicAcid",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "NucleicAcid",
+        "value": "fast"
+    }
+]

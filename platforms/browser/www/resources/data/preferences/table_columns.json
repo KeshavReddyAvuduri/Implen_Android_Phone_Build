@@ -1,0 +1,717 @@
+[{
+    "key": "a",
+    "label": "Abs.",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "float",
+    "decimal": 3,
+    "translation":"text_Abs"
+
+}
+,{
+    "key": "a230",
+    "label": "A230",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 85,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "a260",
+    "label": "A260",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 85,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "a260_a230",
+    "label": "A260/A230",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "a260_a280",
+    "label": "A260/A280",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 140,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "a280",
+    "label": "A280",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 85,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "a320",
+    "label": "A320",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "a_1",
+    "label": "Abs. 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}",
+    "header": "Abs. {index}",
+    "dataindex": "a_{index}",
+    "group": "wavescan",
+    "translation":"text_Abs1"
+}
+,{
+    "key": "a_1_1",
+    "label": "Abs. 1-1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}_1",
+    "header": "Abs. {index}-1",
+    "dataindex": "a_{index}_1",
+    "group": "absorbance_ratio",
+    "translation":"text_Abs1_1"
+}
+,{
+    "key": "a_1_2",
+    "label": "Abs. 1-2",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}_1",
+    "header": "Abs. {index}-2",
+    "dataindex": "a_{index}_2",
+    "group": "absorbance_ratio",
+    "translation":"text_Abs1_2"
+}
+,{
+    "key": "abstrans",
+    "label": "Abs./% Trans.",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "abstrans1",
+    "label": "Abs. 1/% Trans. 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}",
+    "header": "Abs. {index}/% Trans. {index}",
+    "dataindex": "w_{index}",
+    "group": "wavescan"
+}
+,{
+    "key": "action",
+    "label": "Action",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "ad_1",
+    "label": "Dye Abs. (max)",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 101,
+    "dynamic": "d_{index}",
+    "header": "Dye Abs. {index} (max)",
+    "translation":"text_DyeAbs",
+    "dataindex": "ad_{index}",
+    "group": "dye",
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "an",
+    "label": "An",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "ao",
+    "label": "Ao",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "author",
+    "label": "Author",
+    "category": "",
+    "width": 200,
+    "dynamic": "cfr21",
+    "dataindex": "cfr21",
+    "group": "cfr21",
+    "translation": "text_Author"
+}
+,{
+    "key": "bc",
+    "label": "Background",
+    "category": "",
+    "width": 101
+}
+,{
+    "key": "c",
+    "label": "Conc.",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "cn",
+    "decimal": 4,
+    "translation":"concentration_Index"
+}
+,{
+    "key": "category",
+    "label": "Category",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "cclass",
+    "label": "N50",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "cd_1",
+    "label": "Dye Conc.",
+    "category": "",
+    "style": "text-align: center;",
+    "width": 108,
+    "dynamic": "d_{index}",
+    "header": "Dye Conc. {index}",
+    "dataindex": "cd_{index}",
+    "format": "dc",
+    "group": "dye",
+    "translation":"text_DyeConc"
+}
+,{
+    "key": "cells_ml",
+    "label": "cells/ml",
+    "category": "",
+    "width": 144,
+    "dynamic": "cells",
+    "header": "cells/ml",
+    "style": "text-align: center;",
+    "dataindex": "cells_ml",
+    "group": "cells",
+    "placeholder": null,
+    "translation":"cells"
+}
+,{
+    "key": "cor",
+    "label": "Correction",
+    "category": "",
+    "width": 150,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "created",
+    "label": "Date and Time",
+    "category": "",
+    "width": 200,
+    "dynamic": "cfr21",
+    "dataindex": "cfr21",
+    "group": "cfr21",
+    "translation": "dateAndTime"
+}
+,{
+    "key": "curve_fit",
+    "label": "Curve Fit",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "d_1",
+    "label": "Dye",
+    "category": "",
+    "width": 108,
+    "dynamic": "d_{index}",
+    "header": "Dye {index}",
+    "dataindex": "d_{index}",
+    "group": "dye"
+}
+,{
+    "key": "da",
+    "label": "dA",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "date_time",
+    "label": "Date/Time",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "details",
+    "label": "Details",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "dna",
+    "label": "%DNA",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "float",
+    "decimal": 3
+},{
+    "key": "dna_c",
+    "label": "[DNA]",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "dc",
+    "decimal": 4
+},{
+    "key": "dold_1",
+    "label": "DOL",
+    "category": "",
+    "width": 108,
+    "dynamic": "d_{index}",
+    "header": "DOL {index}",
+    "dataindex": "dold_{index}",
+    "group": "dye",
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "du",
+    "label": "Dye Units",
+    "category": "",
+    "style": "text-align: center;",
+    "width": 85,
+    "dynamic": "d_{index}",
+    "header": "Dye Units",
+    "dataindex": "du",
+    "group": "dye",
+    "format": "du",
+    "translation":"text_Dye_Units"
+}
+,{
+    "key": "ec",
+    "label": "Ext. Coeff.",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 101,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "finalA",
+    "label": "Final A",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "foid_1",
+    "label": "FOI",
+    "category": "",
+    "style": "text-align: center;",
+    "width": 85,
+    "dynamic": "d_{index}",
+    "header": "FOI {index}",
+    "dataindex": "foid_{index}",
+    "group": "dye",
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "fval_1",
+    "label": "Formula 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "fval_{index}",
+    "header": "Formula {index}",
+    "dataindex": "fval_{index}",
+    "group": "formula",
+    "translation":"text_Formula1"
+}
+,{
+    "key": "guanine_and_cytosine",
+    "label": "% Guanine and Cytosine",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "id",
+    "label": "ID",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "label",
+    "label": "Sample Name",
+    "category": "",
+    "short": "Name",
+    "translation":"text_Name",
+    "width": 108,
+    "editable": true
+}
+,{
+    "key": "lid",
+    "label": "Lid",
+    "category": "",
+    "width": 57,
+    "dynamic": "lid",
+    "header": "Lid",
+    "style": "text-align: center;",
+    "dataindex": "lid",
+    "group": "lid",
+    "placeholder": null
+},{
+    "key": "match",
+    "label": "Analyzed Result",
+    "category": "",
+    "width": 475
+},{
+    "key": "md",
+    "label": "Manual Dilution",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "mean",
+    "label": "Mean",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "mec",
+    "label": "Mol. Ext. Coeff.",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "method",
+    "label": "Method",
+    "category": "",
+    "translation":"text_Method",
+    "width": 108,
+    "order": 4.1
+}
+,{
+    "key": "model_number",
+    "label": "Model Number",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "mw",
+    "label": "MW",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 85,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "n",
+    "label": "Sample Number",
+    "category": "",
+    "short": "#",
+    "width": 57
+}
+,{
+    "key": "naf",
+    "label": "1/Ɛ",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 57,
+    "format": "float",
+    "decimal": 3,
+    "order": 4.2
+}
+,{
+    "key": "number_of_bases_in_sequence",
+    "label": "Number of Bases in Sequence",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108
+}
+,{
+    "key": "od",
+    "label": "OD",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "os",
+    "label": "Oligo Sequence",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "pathlength",
+    "label": "Pathlength",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108
+}
+,{
+    "key": "pclass_cuvette",
+    "label": "NP80 Cuvette (NanoVolume and Only)",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "pf",
+    "label": "1/Ɛ",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 57,
+    "format": "float",
+    "decimal": 3,
+    "order": 4.2
+}
+,{
+    "key": "prob",
+    "label": "% Probability",
+    "category": "",
+    "width": 120,
+    "style": "text-align: right;",
+    "format": "float"
+},{
+    "key": "R2",
+    "label": "R<sup>2</sup>",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "r_1",
+    "label": "Ratio 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}_1",
+    "header": "Ratio {index}",
+    "dataindex": "r_{index}",
+    "group": "absorbance_ratio",
+    "translation":"text_Ratio1"
+}
+,{
+    "key": "rna",
+    "label": "%RNA",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "float",
+    "decimal": 3
+},{
+    "key": "rna_c",
+    "label": "[RNA]",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "dc",
+    "decimal": 4
+},{
+    "key": "rp_1_1",
+    "label": "Replicate 1",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "rp_1_2",
+    "label": "Replicate 2",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "rp_1_3",
+    "label": "Replicate 3",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "saved",
+    "label": "Saved",
+    "category": "",
+    "short": "&nbsp;",
+    "width": 59,
+    "sortable": false,
+    "format": "saved"
+}
+,{
+    "key": "serial_number",
+    "label": "Serial Number",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "p_2",
+    "label": "Slope",
+    "category": "",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "software_version",
+    "label": "Software Version",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "standard1",
+    "label": "Standard 1",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "t",
+    "label": "Time",
+    "category": "",
+    "width": 108,
+    "translation":"Time"
+},{
+  "key": "t_1",
+  "label": "%Trans. 1",
+  "category": "",
+  "width": 108,
+  "style": "text-align: right;",
+  "format": "float",
+  "decimal": 3,
+  "dynamic": "w_{index}",
+  "header": "%Trans {index}",
+  "dataindex": "t_{index}",
+  "group": "wavescan"
+}
+,{
+    "key": "u",
+    "label": "Units",
+    "category": "",
+    "width": 85,
+    "format": "u",
+    "editable": true,
+    "translation":"Units"
+}
+,{
+    "key": "user",
+    "label": "Login Name",
+    "category": "",
+    "width": 108
+}
+,{
+    "key": "vdf",
+    "label": "Dilution",
+    "category": "",
+    "width": 100,
+    "dynamic": "vdf",
+    "header": "Vdf",
+    "style": "text-align: center;",
+    "dataindex": "vdf",
+    "group": "vdf",
+    "placeholder": null,
+    "translation":"Dilution"
+},{
+    "key": "w",
+    "label": "λ",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;"
+}
+,{
+    "key": "w320",
+    "label": "W320",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 85,
+    "format": "float",
+    "decimal": 3
+}
+,{
+    "key": "w_1",
+    "label": "λ 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "dynamic": "w_{index}",
+    "header": "λ {index}",
+    "dataindex": "w_{index}",
+    "group": "wavescan"
+}
+,{
+    "key": "w_1_1",
+    "label": "λ 1-1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "dynamic": "w_{index}_1",
+    "header": "λ {index}-1",
+    "dataindex": "w_{index}_1",
+    "group": "absorbance_ratio"
+}
+,{
+    "key": "w_1_2",
+    "label": "λ 1-2",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "dynamic": "w_{index}_1",
+    "header": "λ {index}-2",
+    "dataindex": "w_{index}_2",
+    "group": "absorbance_ratio"
+}
+]

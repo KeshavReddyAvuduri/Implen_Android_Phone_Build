@@ -1,0 +1,140 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "IgEHuman",
+        "value": "IgEHuman"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "IgEHuman",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "IgEHuman",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "IgEHuman",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "IgEHuman",
+        "value": 0.654
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "IgEHuman",
+        "value": "IgEHuman"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "IgEHuman",
+        "value": 190000
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "IgEHuman",
+        "value": 290700
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "IgEHuman",
+        "value": 1.5300
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "IgEHuman",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "IgEHuman",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "IgEHuman",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "IgEHuman",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "IgEHuman",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "IgEHuman",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "IgEHuman",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "IgEHuman",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "IgEHuman",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "IgEHuman",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "IgEHuman",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "IgEHuman",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "IgEHuman",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "IgEHuman",
+        "value": "fast"
+    }
+]

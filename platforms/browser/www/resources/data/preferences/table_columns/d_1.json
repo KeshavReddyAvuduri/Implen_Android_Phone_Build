@@ -1,0 +1,10 @@
+{
+    "key": "d_1",
+    "label": "Dye",
+    "category": "",
+    "width": 108,
+    "dynamic": "d_{index}",
+    "header": "Dye {index}",
+    "dataindex": "d_{index}",
+    "group": "dye"
+}

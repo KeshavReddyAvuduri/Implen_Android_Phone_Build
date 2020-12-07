@@ -1,0 +1,9 @@
+{
+    "key": "mec",
+    "label": "Mol. Ext. Coeff.",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}

@@ -1,0 +1,285 @@
+[{
+    "key": "AbsorbanceRatio",
+    "label": "Absorbance Ratio",
+    "category": ""
+}
+,{
+  "key": "Audit",
+  "label": "Audit",
+  "category": ""
+},{
+    "key": "BCA",
+    "label": "BCA",
+    "category": ""
+}
+,{
+    "key": "BSA",
+    "label": "BSA",
+    "category": ""
+}
+,{
+    "key": "BSALabel",
+    "label": "BSA Label",
+    "category": ""
+}
+,{
+    "key": "Biuret",
+    "label": "Biuret",
+    "category": ""
+}
+,{
+    "key": "Bradford",
+    "label": "Bradford",
+    "category": ""
+}
+,{
+    "key": "Concentration",
+    "label": "Concentration",
+    "category": ""
+}
+,{
+    "key": "CreateStandardCurve",
+    "label": "Create Standard Curve",
+    "category": ""
+}
+,{
+    "key": "DbMatching",
+    "label": "Cognito",
+    "category": ""
+}
+,{
+    "key": "ExtCoefficient",
+    "label": "Ext. Coefficient",
+    "category": ""
+}
+,{
+    "key": "ExtCoefficientLabel",
+    "label": "Ext. Coefficient Label",
+    "category": ""
+}
+,{
+    "key": "IgEHuman",
+    "label": "IgEHuman",
+    "category": ""
+}
+,{
+    "key": "IgEHumanLabel",
+    "label": "IgE Human Label",
+    "category": ""
+}
+,{
+    "key": "IgGHuman",
+    "label": "IgGHuman",
+    "category": ""
+}
+,{
+    "key": "IgGHumanLabel",
+    "label": "IgG Human Label",
+    "category": ""
+}
+,{
+    "key": "IgGMouse",
+    "label": "IgGMouse",
+    "category": ""
+}
+,{
+    "key": "IgGMouseLabel",
+    "label": "IgG Mouse Label",
+    "category": ""
+}
+,{
+    "key": "IgYAvian",
+    "label": "IgYAvian",
+    "category": ""
+}
+,{
+    "key": "IgYAvianLabel",
+    "label": "IgYAvianLabel",
+    "category": ""
+}
+,{
+    "key": "Kinetics",
+    "label": "Kinetics",
+    "category": ""
+}
+,{
+    "key": "Lowry",
+    "label": "Lowry",
+    "category": ""
+}
+,{
+    "key": "Lysozyme",
+    "label": "Lysozyme",
+    "category": ""
+}
+,{
+    "key": "LysozymeLabel",
+    "label": "LysozymeLabel",
+    "category": ""
+}
+,{
+    "key": "MolExtCoefficient",
+    "label": "Mol. Ext. Coefficients",
+    "category": ""
+}
+,{
+    "key": "MolExtCoefficientLabel",
+    "label": "Mol. Ext. Coefficients Label",
+    "category": ""
+}
+,{
+    "key": "NgsQcCustom",
+    "label": "Ngs Qc Custom",
+    "category": ""
+}
+,{
+    "key": "NgsQcDsDNA",
+    "label": "Ngs Qc DsDNA",
+    "category": ""
+}
+,{
+    "key": "NucleicAcid",
+    "label": "NucleicAcid",
+    "category": ""
+}
+,{
+    "key": "NucleicAcidLabel",
+    "label": "NucleicAcid Label",
+    "category": ""
+}
+,{
+    "key": "OD1",
+    "label": "OD1",
+    "category": ""
+}
+,{
+    "key": "OD1Label",
+    "label": "OD1Label",
+    "category": ""
+}
+,{
+    "key": "OD600",
+    "label": "OD600",
+    "category": ""
+}
+,{
+    "key": "Oligo",
+    "label": "Oligo",
+    "category": ""
+}
+,{
+    "key": "OligoLabel",
+    "label": "Oligo Label",
+    "category": ""
+}
+,{
+    "key": "Oligosequence",
+    "label": "Oligo (sequence)",
+    "category": ""
+}
+,{
+    "key": "OligosequenceLabel",
+    "label": "Oligo Label(sequence)",
+    "category": ""
+}
+,{
+    "key": "ProteinFactor",
+    "label": "Protein Factor",
+    "category": ""
+}
+,{
+    "key": "ProteinFactorLabel",
+    "label": "Protein Factor Label",
+    "category": ""
+}
+,{
+    "key": "RNA",
+    "label": "RNA",
+    "category": ""
+}
+,{
+    "key": "RNALabel",
+    "label": "RNA Label",
+    "category": ""
+}
+,{
+    "key": "SAHuman",
+    "label": "SAHuman",
+    "category": ""
+}
+,{
+    "key": "SAHumanLabel",
+    "label": "SA Human Label",
+    "category": ""
+}
+,{
+    "key": "SAMouse",
+    "label": "SAMouse",
+    "category": ""
+}
+,{
+    "key": "SAMouseLabel",
+    "label": "SA Mouse Label",
+    "category": ""
+}
+,{
+    "key": "Wavelength",
+    "label": "Wavelength",
+    "category": ""
+}
+,{
+  "key": "WavelengthT",
+  "label": "Wavelength",
+  "category": ""
+}
+,{
+    "key": "Wavescan",
+    "label": "Wavescan",
+    "category": ""
+}
+,{
+  "key": "WavescanT",
+  "label": "Wavescan",
+  "category": ""
+}
+,{
+    "key": "dsDNA",
+    "label": "dsDNA",
+    "category": ""
+}
+,{
+    "key": "dsDNALabel",
+    "label": "dsDNA Label",
+    "category": ""
+}
+,{
+    "key": "miRNA",
+    "label": "miRNA",
+    "category": ""
+}
+,{
+    "key": "miRNALabel",
+    "label": "miRNA Label",
+    "category": ""
+}
+,{
+    "key": "miRNAsequence",
+    "label": "miRNA (sequence)",
+    "category": ""
+}
+,{
+    "key": "miRNAsequenceLabel",
+    "label": "miRNA Label(sequence)",
+    "category": ""
+}
+,{
+    "key": "ssDNA",
+    "label": "ssDNA",
+    "category": ""
+}
+,{
+    "key": "ssDNALabel",
+    "label": "ssDNA Label",
+    "category": ""
+}
+]

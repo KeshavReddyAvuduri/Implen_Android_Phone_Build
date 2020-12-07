@@ -1,0 +1,140 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "BSA",
+        "value": "BSA"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "BSA",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "BSA",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "BSA",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "BSA",
+        "value": 1.499
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "BSA",
+        "value": "BSA"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "BSA",
+        "value": 66400
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "BSA",
+        "value": 44289
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "BSA",
+        "value": 0.6670
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "BSA",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "BSA",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "BSA",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "BSA",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "BSA",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "BSA",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "BSA",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "BSA",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "BSA",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "BSA",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "BSA",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "BSA",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "BSA",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "BSA",
+        "value": "fast"
+    }
+]

@@ -1,0 +1,26 @@
+  [
+    {
+      "label": "General",
+      "key":0
+    },
+    {
+      "label": "Dyes",
+      "key":1
+    },
+    {
+      "label": "WarningMessages",
+      "key":2
+    },
+    {
+      "label": "Network",
+      "key":3,
+      "save":false
+    },
+    {
+      "label": "Printer",
+      "key":4,
+      "save":false
+    }
+
+  ]
+

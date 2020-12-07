@@ -1,0 +1,13 @@
+[{
+    "key": "blank_control",
+    "label": "Blank Control",
+    "category": "warning_messages",
+    "value": true
+}
+,{
+    "key": "measurement_quality_control",
+    "label": "Measurement Quality Control",
+    "category": "warning_messages",
+    "value": true
+}
+]

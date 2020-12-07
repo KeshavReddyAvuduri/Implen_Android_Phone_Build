@@ -1,0 +1,122 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "MolExtCoefficient",
+        "value": "MolExtCoefficient"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "MolExtCoefficient",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "MolExtCoefficient",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "MolExtCoefficient",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "MolExtCoefficient",
+        "value": "N/A"
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "MolExtCoefficient",
+        "value": "OD1"
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "MolExtCoefficient",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "MolExtCoefficient",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "MolExtCoefficient",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "MolExtCoefficient",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "MolExtCoefficient",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "MolExtCoefficient",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "MolExtCoefficient",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "MolExtCoefficient",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "MolExtCoefficient",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "MolExtCoefficient",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "MolExtCoefficient",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "MolExtCoefficient",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "MolExtCoefficient",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "MolExtCoefficient",
+        "value": "fast"
+    }
+]

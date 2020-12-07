@@ -1,0 +1,122 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "OD600",
+        "value": "OD600"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "OD600",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "OD600",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "OD600",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "OD600",
+        "value": "mgml"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "OD600",
+        "value": "10"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength",
+        "category": "OD600",
+        "value": 600
+    },
+    {
+        "key": "ht37",
+        "label": "HeatTo37",
+        "category": "OD600",
+        "value": false
+    },
+    {
+        "key": "cells",
+        "label": "cells/ml",
+        "category": "OD600",
+        "value": false
+    },
+    {
+        "key": "f",
+        "label": "Factor",
+        "category": "OD600",
+        "value": 5
+    },
+    {
+        "key": "multi",
+        "label": "Multiplier",
+        "category": "OD600",
+        "value": 100000000
+    },
+    {
+        "key": "cor",
+        "label": "Correction",
+        "category": "OD600",
+        "value": 1
+    },
+    {
+        "key": "smoothing",
+        "label": "Smoothing",
+        "category": "OD600",
+        "value": 1
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "OD600",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "OD600",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "OD600",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "OD600",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "OD600",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "OD600",
+        "value": "pmolul"
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "OD600",
+        "value": false
+    }
+]

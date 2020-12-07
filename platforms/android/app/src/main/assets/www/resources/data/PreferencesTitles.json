@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Nucleic Acid",
+    "key":0
+  },
+  {
+    "label": "Protines",
+    "key":1
+  },
+  {
+    "label": "+",
+    "key":2
+  }
+
+]
+

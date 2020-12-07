@@ -1,0 +1,6150 @@
+{"spectrometers": [
+    {
+        "dark": [
+            {
+                "index": 1,
+                "value": 1498,
+                "wavelength": 159.956,
+                "dark_value": 1498
+            },
+            {
+                "index": 2,
+                "value": 1498,
+                "wavelength": 160.415,
+                "dark_value": 1498
+            },
+            {
+                "index": 3,
+                "value": 1500,
+                "wavelength": 160.874,
+                "dark_value": 1500
+            },
+            {
+                "index": 4,
+                "value": 1503,
+                "wavelength": 161.333,
+                "dark_value": 1503
+            },
+            {
+                "index": 5,
+                "value": 1498,
+                "wavelength": 161.792,
+                "dark_value": 1498
+            },
+            {
+                "index": 6,
+                "value": 1496,
+                "wavelength": 162.251,
+                "dark_value": 1496
+            },
+            {
+                "index": 7,
+                "value": 1501,
+                "wavelength": 162.709,
+                "dark_value": 1501
+            },
+            {
+                "index": 8,
+                "value": 1502,
+                "wavelength": 163.168,
+                "dark_value": 1502
+            },
+            {
+                "index": 9,
+                "value": 1499,
+                "wavelength": 163.627,
+                "dark_value": 1499
+            },
+            {
+                "index": 10,
+                "value": 1495,
+                "wavelength": 164.086,
+                "dark_value": 1495
+            },
+            {
+                "index": 11,
+                "value": 1500,
+                "wavelength": 164.545,
+                "dark_value": 1500
+            },
+            {
+                "index": 12,
+                "value": 1505,
+                "wavelength": 165.004,
+                "dark_value": 1505
+            },
+            {
+                "index": 13,
+                "value": 1501,
+                "wavelength": 165.463,
+                "dark_value": 1501
+            },
+            {
+                "index": 14,
+                "value": 1497,
+                "wavelength": 165.922,
+                "dark_value": 1497
+            },
+            {
+                "index": 15,
+                "value": 1502,
+                "wavelength": 166.381,
+                "dark_value": 1502
+            },
+            {
+                "index": 16,
+                "value": 1499,
+                "wavelength": 166.84,
+                "dark_value": 1499
+            },
+            {
+                "index": 17,
+                "value": 1507,
+                "wavelength": 167.299,
+                "dark_value": 1507
+            },
+            {
+                "index": 18,
+                "value": 1499,
+                "wavelength": 167.758,
+                "dark_value": 1499
+            },
+            {
+                "index": 19,
+                "value": 1497,
+                "wavelength": 168.216,
+                "dark_value": 1497
+            },
+            {
+                "index": 20,
+                "value": 1500,
+                "wavelength": 168.675,
+                "dark_value": 1500
+            },
+            {
+                "index": 21,
+                "value": 1504,
+                "wavelength": 169.134,
+                "dark_value": 1504
+            },
+            {
+                "index": 22,
+                "value": 1502,
+                "wavelength": 169.593,
+                "dark_value": 1502
+            },
+            {
+                "index": 23,
+                "value": 1502,
+                "wavelength": 170.052,
+                "dark_value": 1502
+            },
+            {
+                "index": 24,
+                "value": 1503,
+                "wavelength": 170.511,
+                "dark_value": 1503
+            },
+            {
+                "index": 25,
+                "value": 1507,
+                "wavelength": 170.97,
+                "dark_value": 1507
+            },
+            {
+                "index": 26,
+                "value": 1501,
+                "wavelength": 171.428,
+                "dark_value": 1501
+            },
+            {
+                "index": 27,
+                "value": 1503,
+                "wavelength": 171.887,
+                "dark_value": 1503
+            },
+            {
+                "index": 28,
+                "value": 1502,
+                "wavelength": 172.346,
+                "dark_value": 1502
+            },
+            {
+                "index": 29,
+                "value": 1496,
+                "wavelength": 172.805,
+                "dark_value": 1496
+            },
+            {
+                "index": 30,
+                "value": 1500,
+                "wavelength": 173.264,
+                "dark_value": 1500
+            },
+            {
+                "index": 31,
+                "value": 1498,
+                "wavelength": 173.722,
+                "dark_value": 1498
+            },
+            {
+                "index": 32,
+                "value": 1501,
+                "wavelength": 174.181,
+                "dark_value": 1501
+            },
+            {
+                "index": 33,
+                "value": 1497,
+                "wavelength": 174.64,
+                "dark_value": 1497
+            },
+            {
+                "index": 34,
+                "value": 1504,
+                "wavelength": 175.099,
+                "dark_value": 1504
+            },
+            {
+                "index": 35,
+                "value": 1504,
+                "wavelength": 175.557,
+                "dark_value": 1504
+            },
+            {
+                "index": 36,
+                "value": 1497,
+                "wavelength": 176.016,
+                "dark_value": 1497
+            },
+            {
+                "index": 37,
+                "value": 1500,
+                "wavelength": 176.475,
+                "dark_value": 1500
+            },
+            {
+                "index": 38,
+                "value": 1497,
+                "wavelength": 176.934,
+                "dark_value": 1497
+            },
+            {
+                "index": 39,
+                "value": 1499,
+                "wavelength": 177.392,
+                "dark_value": 1499
+            },
+            {
+                "index": 40,
+                "value": 1501,
+                "wavelength": 177.851,
+                "dark_value": 1501
+            },
+            {
+                "index": 41,
+                "value": 1501,
+                "wavelength": 178.31,
+                "dark_value": 1501
+            },
+            {
+                "index": 42,
+                "value": 1503,
+                "wavelength": 178.769,
+                "dark_value": 1503
+            },
+            {
+                "index": 43,
+                "value": 1500,
+                "wavelength": 179.227,
+                "dark_value": 1500
+            },
+            {
+                "index": 44,
+                "value": 1497,
+                "wavelength": 179.686,
+                "dark_value": 1497
+            },
+            {
+                "index": 45,
+                "value": 1497,
+                "wavelength": 180.145,
+                "dark_value": 1497
+            },
+            {
+                "index": 46,
+                "value": 1503,
+                "wavelength": 180.604,
+                "dark_value": 1503
+            },
+            {
+                "index": 47,
+                "value": 1501,
+                "wavelength": 181.062,
+                "dark_value": 1501
+            },
+            {
+                "index": 48,
+                "value": 1503,
+                "wavelength": 181.521,
+                "dark_value": 1503
+            },
+            {
+                "index": 49,
+                "value": 1499,
+                "wavelength": 181.98,
+                "dark_value": 1499
+            },
+            {
+                "index": 50,
+                "value": 1506,
+                "wavelength": 182.438,
+                "dark_value": 1506
+            },
+            {
+                "index": 51,
+                "value": 1499,
+                "wavelength": 182.897,
+                "dark_value": 1499
+            },
+            {
+                "index": 52,
+                "value": 1498,
+                "wavelength": 183.356,
+                "dark_value": 1498
+            },
+            {
+                "index": 53,
+                "value": 1502,
+                "wavelength": 183.814,
+                "dark_value": 1502
+            },
+            {
+                "index": 54,
+                "value": 1505,
+                "wavelength": 184.273,
+                "dark_value": 1505
+            },
+            {
+                "index": 55,
+                "value": 1502,
+                "wavelength": 184.732,
+                "dark_value": 1502
+            },
+            {
+                "index": 56,
+                "value": 1503,
+                "wavelength": 185.19,
+                "dark_value": 1503
+            },
+            {
+                "index": 57,
+                "value": 1499,
+                "wavelength": 185.649,
+                "dark_value": 1499
+            },
+            {
+                "index": 58,
+                "value": 1503,
+                "wavelength": 186.108,
+                "dark_value": 1503
+            },
+            {
+                "index": 59,
+                "value": 1504,
+                "wavelength": 186.566,
+                "dark_value": 1504
+            },
+            {
+                "index": 60,
+                "value": 1502,
+                "wavelength": 187.025,
+                "dark_value": 1502
+            },
+            {
+                "index": 61,
+                "value": 1500,
+                "wavelength": 187.484,
+                "dark_value": 1500
+            },
+            {
+                "index": 62,
+                "value": 1503,
+                "wavelength": 187.942,
+                "dark_value": 1503
+            },
+            {
+                "index": 63,
+                "value": 1497,
+                "wavelength": 188.401,
+                "dark_value": 1497
+            },
+            {
+                "index": 64,
+                "value": 1499,
+                "wavelength": 188.86,
+                "dark_value": 1499
+            },
+            {
+                "index": 65,
+                "value": 1502,
+                "wavelength": 189.318,
+                "dark_value": 1502
+            },
+            {
+                "index": 66,
+                "value": 1500,
+                "wavelength": 189.777,
+                "dark_value": 1500
+            },
+            {
+                "index": 67,
+                "value": 1498,
+                "wavelength": 190.236,
+                "dark_value": 1498
+            },
+            {
+                "index": 68,
+                "value": 1496,
+                "wavelength": 190.694,
+                "dark_value": 1496
+            },
+            {
+                "index": 69,
+                "value": 1498,
+                "wavelength": 191.153,
+                "dark_value": 1498
+            },
+            {
+                "index": 70,
+                "value": 1504,
+                "wavelength": 191.612,
+                "dark_value": 1504
+            },
+            {
+                "index": 71,
+                "value": 1505,
+                "wavelength": 192.07,
+                "dark_value": 1505
+            },
+            {
+                "index": 72,
+                "value": 1501,
+                "wavelength": 192.529,
+                "dark_value": 1501
+            },
+            {
+                "index": 73,
+                "value": 1499,
+                "wavelength": 192.988,
+                "dark_value": 1499
+            },
+            {
+                "index": 74,
+                "value": 1498,
+                "wavelength": 193.446,
+                "dark_value": 1498
+            },
+            {
+                "index": 75,
+                "value": 1504,
+                "wavelength": 193.905,
+                "dark_value": 1504
+            },
+            {
+                "index": 76,
+                "value": 1504,
+                "wavelength": 194.363,
+                "dark_value": 1504
+            },
+            {
+                "index": 77,
+                "value": 1501,
+                "wavelength": 194.822,
+                "dark_value": 1501
+            },
+            {
+                "index": 78,
+                "value": 1502,
+                "wavelength": 195.281,
+                "dark_value": 1502
+            },
+            {
+                "index": 79,
+                "value": 1502,
+                "wavelength": 195.739,
+                "dark_value": 1502
+            },
+            {
+                "index": 80,
+                "value": 1502,
+                "wavelength": 196.198,
+                "dark_value": 1502
+            },
+            {
+                "index": 81,
+                "value": 1498,
+                "wavelength": 196.657,
+                "dark_value": 1498
+            },
+            {
+                "index": 82,
+                "value": 1499,
+                "wavelength": 197.115,
+                "dark_value": 1499
+            },
+            {
+                "index": 83,
+                "value": 1502,
+                "wavelength": 197.574,
+                "dark_value": 1502
+            },
+            {
+                "index": 84,
+                "value": 1498,
+                "wavelength": 198.032,
+                "dark_value": 1498
+            },
+            {
+                "index": 85,
+                "value": 1501,
+                "wavelength": 198.491,
+                "dark_value": 1501
+            },
+            {
+                "index": 86,
+                "value": 1504,
+                "wavelength": 198.95,
+                "dark_value": 1504
+            },
+            {
+                "index": 87,
+                "value": 1499,
+                "wavelength": 199.408,
+                "dark_value": 1499
+            },
+            {
+                "index": 88,
+                "value": 1496,
+                "wavelength": 199.867,
+                "dark_value": 1496
+            },
+            {
+                "index": 89,
+                "value": 1498,
+                "wavelength": 200.325,
+                "dark_value": 1498
+            },
+            {
+                "index": 90,
+                "value": 1500,
+                "wavelength": 200.784,
+                "dark_value": 1500
+            },
+            {
+                "index": 91,
+                "value": 1505,
+                "wavelength": 201.243,
+                "dark_value": 1505
+            },
+            {
+                "index": 92,
+                "value": 1498,
+                "wavelength": 201.701,
+                "dark_value": 1498
+            },
+            {
+                "index": 93,
+                "value": 1499,
+                "wavelength": 202.16,
+                "dark_value": 1499
+            },
+            {
+                "index": 94,
+                "value": 1499,
+                "wavelength": 202.619,
+                "dark_value": 1499
+            },
+            {
+                "index": 95,
+                "value": 1499,
+                "wavelength": 203.077,
+                "dark_value": 1499
+            },
+            {
+                "index": 96,
+                "value": 1497,
+                "wavelength": 203.536,
+                "dark_value": 1497
+            },
+            {
+                "index": 97,
+                "value": 1504,
+                "wavelength": 203.994,
+                "dark_value": 1504
+            },
+            {
+                "index": 98,
+                "value": 1503,
+                "wavelength": 204.453,
+                "dark_value": 1503
+            },
+            {
+                "index": 99,
+                "value": 1499,
+                "wavelength": 204.912,
+                "dark_value": 1499
+            },
+            {
+                "index": 100,
+                "value": 1500,
+                "wavelength": 205.37,
+                "dark_value": 1500
+            },
+            {
+                "index": 101,
+                "value": 1500,
+                "wavelength": 205.829,
+                "dark_value": 1500
+            },
+            {
+                "index": 102,
+                "value": 1495,
+                "wavelength": 206.288,
+                "dark_value": 1495
+            },
+            {
+                "index": 103,
+                "value": 1502,
+                "wavelength": 206.746,
+                "dark_value": 1502
+            },
+            {
+                "index": 104,
+                "value": 1500,
+                "wavelength": 207.205,
+                "dark_value": 1500
+            },
+            {
+                "index": 105,
+                "value": 1500,
+                "wavelength": 207.663,
+                "dark_value": 1500
+            },
+            {
+                "index": 106,
+                "value": 1503,
+                "wavelength": 208.122,
+                "dark_value": 1503
+            },
+            {
+                "index": 107,
+                "value": 1504,
+                "wavelength": 208.581,
+                "dark_value": 1504
+            },
+            {
+                "index": 108,
+                "value": 1501,
+                "wavelength": 209.039,
+                "dark_value": 1501
+            },
+            {
+                "index": 109,
+                "value": 1501,
+                "wavelength": 209.498,
+                "dark_value": 1501
+            },
+            {
+                "index": 110,
+                "value": 1506,
+                "wavelength": 209.957,
+                "dark_value": 1506
+            },
+            {
+                "index": 111,
+                "value": 1501,
+                "wavelength": 210.415,
+                "dark_value": 1501
+            },
+            {
+                "index": 112,
+                "value": 1500,
+                "wavelength": 210.874,
+                "dark_value": 1500
+            },
+            {
+                "index": 113,
+                "value": 1498,
+                "wavelength": 211.333,
+                "dark_value": 1498
+            },
+            {
+                "index": 114,
+                "value": 1501,
+                "wavelength": 211.791,
+                "dark_value": 1501
+            },
+            {
+                "index": 115,
+                "value": 1498,
+                "wavelength": 212.25,
+                "dark_value": 1498
+            },
+            {
+                "index": 116,
+                "value": 1495,
+                "wavelength": 212.709,
+                "dark_value": 1495
+            },
+            {
+                "index": 117,
+                "value": 1501,
+                "wavelength": 213.167,
+                "dark_value": 1501
+            },
+            {
+                "index": 118,
+                "value": 1504,
+                "wavelength": 213.626,
+                "dark_value": 1504
+            },
+            {
+                "index": 119,
+                "value": 1501,
+                "wavelength": 214.085,
+                "dark_value": 1501
+            },
+            {
+                "index": 120,
+                "value": 1498,
+                "wavelength": 214.543,
+                "dark_value": 1498
+            },
+            {
+                "index": 121,
+                "value": 1505,
+                "wavelength": 215.002,
+                "dark_value": 1505
+            },
+            {
+                "index": 122,
+                "value": 1499,
+                "wavelength": 215.461,
+                "dark_value": 1499
+            },
+            {
+                "index": 123,
+                "value": 1502,
+                "wavelength": 215.919,
+                "dark_value": 1502
+            },
+            {
+                "index": 124,
+                "value": 1500,
+                "wavelength": 216.378,
+                "dark_value": 1500
+            },
+            {
+                "index": 125,
+                "value": 1505,
+                "wavelength": 216.837,
+                "dark_value": 1505
+            },
+            {
+                "index": 126,
+                "value": 1501,
+                "wavelength": 217.295,
+                "dark_value": 1501
+            },
+            {
+                "index": 127,
+                "value": 1493,
+                "wavelength": 217.754,
+                "dark_value": 1493
+            },
+            {
+                "index": 128,
+                "value": 1498,
+                "wavelength": 218.213,
+                "dark_value": 1498
+            },
+            {
+                "index": 129,
+                "value": 1503,
+                "wavelength": 218.671,
+                "dark_value": 1503
+            },
+            {
+                "index": 130,
+                "value": 1500,
+                "wavelength": 219.13,
+                "dark_value": 1500
+            },
+            {
+                "index": 131,
+                "value": 1503,
+                "wavelength": 219.589,
+                "dark_value": 1503
+            },
+            {
+                "index": 132,
+                "value": 1499,
+                "wavelength": 220.048,
+                "dark_value": 1499
+            },
+            {
+                "index": 133,
+                "value": 1500,
+                "wavelength": 220.506,
+                "dark_value": 1500
+            },
+            {
+                "index": 134,
+                "value": 1503,
+                "wavelength": 220.965,
+                "dark_value": 1503
+            },
+            {
+                "index": 135,
+                "value": 1505,
+                "wavelength": 221.424,
+                "dark_value": 1505
+            },
+            {
+                "index": 136,
+                "value": 1506,
+                "wavelength": 221.882,
+                "dark_value": 1506
+            },
+            {
+                "index": 137,
+                "value": 1503,
+                "wavelength": 222.341,
+                "dark_value": 1503
+            },
+            {
+                "index": 138,
+                "value": 1501,
+                "wavelength": 222.8,
+                "dark_value": 1501
+            },
+            {
+                "index": 139,
+                "value": 1503,
+                "wavelength": 223.259,
+                "dark_value": 1503
+            },
+            {
+                "index": 140,
+                "value": 1498,
+                "wavelength": 223.717,
+                "dark_value": 1498
+            },
+            {
+                "index": 141,
+                "value": 1501,
+                "wavelength": 224.176,
+                "dark_value": 1501
+            },
+            {
+                "index": 142,
+                "value": 1504,
+                "wavelength": 224.635,
+                "dark_value": 1504
+            },
+            {
+                "index": 143,
+                "value": 1502,
+                "wavelength": 225.094,
+                "dark_value": 1502
+            },
+            {
+                "index": 144,
+                "value": 1502,
+                "wavelength": 225.553,
+                "dark_value": 1502
+            },
+            {
+                "index": 145,
+                "value": 1502,
+                "wavelength": 226.011,
+                "dark_value": 1502
+            },
+            {
+                "index": 146,
+                "value": 1502,
+                "wavelength": 226.47,
+                "dark_value": 1502
+            },
+            {
+                "index": 147,
+                "value": 1499,
+                "wavelength": 226.929,
+                "dark_value": 1499
+            },
+            {
+                "index": 148,
+                "value": 1500,
+                "wavelength": 227.388,
+                "dark_value": 1500
+            },
+            {
+                "index": 149,
+                "value": 1500,
+                "wavelength": 227.847,
+                "dark_value": 1500
+            },
+            {
+                "index": 150,
+                "value": 1500,
+                "wavelength": 228.305,
+                "dark_value": 1500
+            },
+            {
+                "index": 151,
+                "value": 1503,
+                "wavelength": 228.764,
+                "dark_value": 1503
+            },
+            {
+                "index": 152,
+                "value": 1499,
+                "wavelength": 229.223,
+                "dark_value": 1499
+            },
+            {
+                "index": 153,
+                "value": 1500,
+                "wavelength": 229.682,
+                "dark_value": 1500
+            },
+            {
+                "index": 154,
+                "value": 1499,
+                "wavelength": 230.141,
+                "dark_value": 1499
+            },
+            {
+                "index": 155,
+                "value": 1501,
+                "wavelength": 230.6,
+                "dark_value": 1501
+            },
+            {
+                "index": 156,
+                "value": 1500,
+                "wavelength": 231.058,
+                "dark_value": 1500
+            },
+            {
+                "index": 157,
+                "value": 1500,
+                "wavelength": 231.517,
+                "dark_value": 1500
+            },
+            {
+                "index": 158,
+                "value": 1501,
+                "wavelength": 231.976,
+                "dark_value": 1501
+            },
+            {
+                "index": 159,
+                "value": 1499,
+                "wavelength": 232.435,
+                "dark_value": 1499
+            },
+            {
+                "index": 160,
+                "value": 1502,
+                "wavelength": 232.894,
+                "dark_value": 1502
+            },
+            {
+                "index": 161,
+                "value": 1502,
+                "wavelength": 233.353,
+                "dark_value": 1502
+            },
+            {
+                "index": 162,
+                "value": 1503,
+                "wavelength": 233.812,
+                "dark_value": 1503
+            },
+            {
+                "index": 163,
+                "value": 1501,
+                "wavelength": 234.271,
+                "dark_value": 1501
+            },
+            {
+                "index": 164,
+                "value": 1504,
+                "wavelength": 234.729,
+                "dark_value": 1504
+            },
+            {
+                "index": 165,
+                "value": 1498,
+                "wavelength": 235.188,
+                "dark_value": 1498
+            },
+            {
+                "index": 166,
+                "value": 1507,
+                "wavelength": 235.647,
+                "dark_value": 1507
+            },
+            {
+                "index": 167,
+                "value": 1504,
+                "wavelength": 236.106,
+                "dark_value": 1504
+            },
+            {
+                "index": 168,
+                "value": 1503,
+                "wavelength": 236.565,
+                "dark_value": 1503
+            },
+            {
+                "index": 169,
+                "value": 1500,
+                "wavelength": 237.024,
+                "dark_value": 1500
+            },
+            {
+                "index": 170,
+                "value": 1490,
+                "wavelength": 237.483,
+                "dark_value": 1490
+            },
+            {
+                "index": 171,
+                "value": 1501,
+                "wavelength": 237.942,
+                "dark_value": 1501
+            },
+            {
+                "index": 172,
+                "value": 1500,
+                "wavelength": 238.401,
+                "dark_value": 1500
+            },
+            {
+                "index": 173,
+                "value": 1498,
+                "wavelength": 238.86,
+                "dark_value": 1498
+            },
+            {
+                "index": 174,
+                "value": 1499,
+                "wavelength": 239.319,
+                "dark_value": 1499
+            },
+            {
+                "index": 175,
+                "value": 1501,
+                "wavelength": 239.778,
+                "dark_value": 1501
+            },
+            {
+                "index": 176,
+                "value": 1506,
+                "wavelength": 240.237,
+                "dark_value": 1506
+            },
+            {
+                "index": 177,
+                "value": 1498,
+                "wavelength": 240.696,
+                "dark_value": 1498
+            },
+            {
+                "index": 178,
+                "value": 1501,
+                "wavelength": 241.155,
+                "dark_value": 1501
+            },
+            {
+                "index": 179,
+                "value": 1504,
+                "wavelength": 241.614,
+                "dark_value": 1504
+            },
+            {
+                "index": 180,
+                "value": 1502,
+                "wavelength": 242.073,
+                "dark_value": 1502
+            },
+            {
+                "index": 181,
+                "value": 1501,
+                "wavelength": 242.532,
+                "dark_value": 1501
+            },
+            {
+                "index": 182,
+                "value": 1499,
+                "wavelength": 242.991,
+                "dark_value": 1499
+            },
+            {
+                "index": 183,
+                "value": 1501,
+                "wavelength": 243.45,
+                "dark_value": 1501
+            },
+            {
+                "index": 184,
+                "value": 1494,
+                "wavelength": 243.91,
+                "dark_value": 1494
+            },
+            {
+                "index": 185,
+                "value": 1498,
+                "wavelength": 244.369,
+                "dark_value": 1498
+            },
+            {
+                "index": 186,
+                "value": 1502,
+                "wavelength": 244.828,
+                "dark_value": 1502
+            },
+            {
+                "index": 187,
+                "value": 1501,
+                "wavelength": 245.287,
+                "dark_value": 1501
+            },
+            {
+                "index": 188,
+                "value": 1499,
+                "wavelength": 245.746,
+                "dark_value": 1499
+            },
+            {
+                "index": 189,
+                "value": 1503,
+                "wavelength": 246.205,
+                "dark_value": 1503
+            },
+            {
+                "index": 190,
+                "value": 1501,
+                "wavelength": 246.664,
+                "dark_value": 1501
+            },
+            {
+                "index": 191,
+                "value": 1499,
+                "wavelength": 247.124,
+                "dark_value": 1499
+            },
+            {
+                "index": 192,
+                "value": 1499,
+                "wavelength": 247.583,
+                "dark_value": 1499
+            },
+            {
+                "index": 193,
+                "value": 1504,
+                "wavelength": 248.042,
+                "dark_value": 1504
+            },
+            {
+                "index": 194,
+                "value": 1499,
+                "wavelength": 248.501,
+                "dark_value": 1499
+            },
+            {
+                "index": 195,
+                "value": 1500,
+                "wavelength": 248.96,
+                "dark_value": 1500
+            },
+            {
+                "index": 196,
+                "value": 1503,
+                "wavelength": 249.42,
+                "dark_value": 1503
+            },
+            {
+                "index": 197,
+                "value": 1501,
+                "wavelength": 249.879,
+                "dark_value": 1501
+            },
+            {
+                "index": 198,
+                "value": 1506,
+                "wavelength": 250.338,
+                "dark_value": 1506
+            },
+            {
+                "index": 199,
+                "value": 1501,
+                "wavelength": 250.797,
+                "dark_value": 1501
+            },
+            {
+                "index": 200,
+                "value": 1499,
+                "wavelength": 251.256,
+                "dark_value": 1499
+            },
+            {
+                "index": 201,
+                "value": 1497,
+                "wavelength": 251.716,
+                "dark_value": 1497
+            },
+            {
+                "index": 202,
+                "value": 1501,
+                "wavelength": 252.175,
+                "dark_value": 1501
+            },
+            {
+                "index": 203,
+                "value": 1500,
+                "wavelength": 252.634,
+                "dark_value": 1500
+            },
+            {
+                "index": 204,
+                "value": 1502,
+                "wavelength": 253.094,
+                "dark_value": 1502
+            },
+            {
+                "index": 205,
+                "value": 1498,
+                "wavelength": 253.553,
+                "dark_value": 1498
+            },
+            {
+                "index": 206,
+                "value": 1499,
+                "wavelength": 254.012,
+                "dark_value": 1499
+            },
+            {
+                "index": 207,
+                "value": 1495,
+                "wavelength": 254.472,
+                "dark_value": 1495
+            },
+            {
+                "index": 208,
+                "value": 1500,
+                "wavelength": 254.931,
+                "dark_value": 1500
+            },
+            {
+                "index": 209,
+                "value": 1504,
+                "wavelength": 255.39,
+                "dark_value": 1504
+            },
+            {
+                "index": 210,
+                "value": 1505,
+                "wavelength": 255.85,
+                "dark_value": 1505
+            },
+            {
+                "index": 211,
+                "value": 1500,
+                "wavelength": 256.309,
+                "dark_value": 1500
+            },
+            {
+                "index": 212,
+                "value": 1504,
+                "wavelength": 256.769,
+                "dark_value": 1504
+            },
+            {
+                "index": 213,
+                "value": 1498,
+                "wavelength": 257.228,
+                "dark_value": 1498
+            },
+            {
+                "index": 214,
+                "value": 1500,
+                "wavelength": 257.687,
+                "dark_value": 1500
+            },
+            {
+                "index": 215,
+                "value": 1495,
+                "wavelength": 258.147,
+                "dark_value": 1495
+            },
+            {
+                "index": 216,
+                "value": 1504,
+                "wavelength": 258.606,
+                "dark_value": 1504
+            },
+            {
+                "index": 217,
+                "value": 1499,
+                "wavelength": 259.066,
+                "dark_value": 1499
+            },
+            {
+                "index": 218,
+                "value": 1498,
+                "wavelength": 259.525,
+                "dark_value": 1498
+            },
+            {
+                "index": 219,
+                "value": 1503,
+                "wavelength": 259.985,
+                "dark_value": 1503
+            },
+            {
+                "index": 220,
+                "value": 1501,
+                "wavelength": 260.444,
+                "dark_value": 1501
+            },
+            {
+                "index": 221,
+                "value": 1498,
+                "wavelength": 260.904,
+                "dark_value": 1498
+            },
+            {
+                "index": 222,
+                "value": 1503,
+                "wavelength": 261.363,
+                "dark_value": 1503
+            },
+            {
+                "index": 223,
+                "value": 1502,
+                "wavelength": 261.823,
+                "dark_value": 1502
+            },
+            {
+                "index": 224,
+                "value": 1497,
+                "wavelength": 262.283,
+                "dark_value": 1497
+            },
+            {
+                "index": 225,
+                "value": 1503,
+                "wavelength": 262.742,
+                "dark_value": 1503
+            },
+            {
+                "index": 226,
+                "value": 1502,
+                "wavelength": 263.202,
+                "dark_value": 1502
+            },
+            {
+                "index": 227,
+                "value": 1503,
+                "wavelength": 263.661,
+                "dark_value": 1503
+            },
+            {
+                "index": 228,
+                "value": 1500,
+                "wavelength": 264.121,
+                "dark_value": 1500
+            },
+            {
+                "index": 229,
+                "value": 1501,
+                "wavelength": 264.581,
+                "dark_value": 1501
+            },
+            {
+                "index": 230,
+                "value": 1500,
+                "wavelength": 265.04,
+                "dark_value": 1500
+            },
+            {
+                "index": 231,
+                "value": 1500,
+                "wavelength": 265.5,
+                "dark_value": 1500
+            },
+            {
+                "index": 232,
+                "value": 1498,
+                "wavelength": 265.96,
+                "dark_value": 1498
+            },
+            {
+                "index": 233,
+                "value": 1501,
+                "wavelength": 266.419,
+                "dark_value": 1501
+            },
+            {
+                "index": 234,
+                "value": 1504,
+                "wavelength": 266.879,
+                "dark_value": 1504
+            },
+            {
+                "index": 235,
+                "value": 1499,
+                "wavelength": 267.339,
+                "dark_value": 1499
+            },
+            {
+                "index": 236,
+                "value": 1499,
+                "wavelength": 267.799,
+                "dark_value": 1499
+            },
+            {
+                "index": 237,
+                "value": 1494,
+                "wavelength": 268.258,
+                "dark_value": 1494
+            },
+            {
+                "index": 238,
+                "value": 1501,
+                "wavelength": 268.718,
+                "dark_value": 1501
+            },
+            {
+                "index": 239,
+                "value": 1504,
+                "wavelength": 269.178,
+                "dark_value": 1504
+            },
+            {
+                "index": 240,
+                "value": 1502,
+                "wavelength": 269.638,
+                "dark_value": 1502
+            },
+            {
+                "index": 241,
+                "value": 1502,
+                "wavelength": 270.098,
+                "dark_value": 1502
+            },
+            {
+                "index": 242,
+                "value": 1502,
+                "wavelength": 270.557,
+                "dark_value": 1502
+            },
+            {
+                "index": 243,
+                "value": 1504,
+                "wavelength": 271.017,
+                "dark_value": 1504
+            },
+            {
+                "index": 244,
+                "value": 1499,
+                "wavelength": 271.477,
+                "dark_value": 1499
+            },
+            {
+                "index": 245,
+                "value": 1496,
+                "wavelength": 271.937,
+                "dark_value": 1496
+            },
+            {
+                "index": 246,
+                "value": 1505,
+                "wavelength": 272.397,
+                "dark_value": 1505
+            },
+            {
+                "index": 247,
+                "value": 1505,
+                "wavelength": 272.857,
+                "dark_value": 1505
+            },
+            {
+                "index": 248,
+                "value": 1502,
+                "wavelength": 273.317,
+                "dark_value": 1502
+            },
+            {
+                "index": 249,
+                "value": 1496,
+                "wavelength": 273.777,
+                "dark_value": 1496
+            },
+            {
+                "index": 250,
+                "value": 1499,
+                "wavelength": 274.237,
+                "dark_value": 1499
+            },
+            {
+                "index": 251,
+                "value": 1496,
+                "wavelength": 274.697,
+                "dark_value": 1496
+            },
+            {
+                "index": 252,
+                "value": 1504,
+                "wavelength": 275.157,
+                "dark_value": 1504
+            },
+            {
+                "index": 253,
+                "value": 1501,
+                "wavelength": 275.617,
+                "dark_value": 1501
+            },
+            {
+                "index": 254,
+                "value": 1502,
+                "wavelength": 276.077,
+                "dark_value": 1502
+            },
+            {
+                "index": 255,
+                "value": 1501,
+                "wavelength": 276.537,
+                "dark_value": 1501
+            },
+            {
+                "index": 256,
+                "value": 1499,
+                "wavelength": 276.997,
+                "dark_value": 1499
+            },
+            {
+                "index": 257,
+                "value": 1505,
+                "wavelength": 277.457,
+                "dark_value": 1505
+            },
+            {
+                "index": 258,
+                "value": 1505,
+                "wavelength": 277.917,
+                "dark_value": 1505
+            },
+            {
+                "index": 259,
+                "value": 1497,
+                "wavelength": 278.377,
+                "dark_value": 1497
+            },
+            {
+                "index": 260,
+                "value": 1501,
+                "wavelength": 278.837,
+                "dark_value": 1501
+            },
+            {
+                "index": 261,
+                "value": 1485,
+                "wavelength": 279.298,
+                "dark_value": 1485
+            },
+            {
+                "index": 262,
+                "value": 1505,
+                "wavelength": 279.758,
+                "dark_value": 1505
+            },
+            {
+                "index": 263,
+                "value": 1502,
+                "wavelength": 280.218,
+                "dark_value": 1502
+            },
+            {
+                "index": 264,
+                "value": 1500,
+                "wavelength": 280.678,
+                "dark_value": 1500
+            },
+            {
+                "index": 265,
+                "value": 1499,
+                "wavelength": 281.138,
+                "dark_value": 1499
+            },
+            {
+                "index": 266,
+                "value": 1501,
+                "wavelength": 281.599,
+                "dark_value": 1501
+            },
+            {
+                "index": 267,
+                "value": 1504,
+                "wavelength": 282.059,
+                "dark_value": 1504
+            },
+            {
+                "index": 268,
+                "value": 1500,
+                "wavelength": 282.519,
+                "dark_value": 1500
+            },
+            {
+                "index": 269,
+                "value": 1498,
+                "wavelength": 282.98,
+                "dark_value": 1498
+            },
+            {
+                "index": 270,
+                "value": 1497,
+                "wavelength": 283.44,
+                "dark_value": 1497
+            },
+            {
+                "index": 271,
+                "value": 1504,
+                "wavelength": 283.9,
+                "dark_value": 1504
+            },
+            {
+                "index": 272,
+                "value": 1498,
+                "wavelength": 284.361,
+                "dark_value": 1498
+            },
+            {
+                "index": 273,
+                "value": 1501,
+                "wavelength": 284.821,
+                "dark_value": 1501
+            },
+            {
+                "index": 274,
+                "value": 1504,
+                "wavelength": 285.281,
+                "dark_value": 1504
+            },
+            {
+                "index": 275,
+                "value": 1504,
+                "wavelength": 285.742,
+                "dark_value": 1504
+            },
+            {
+                "index": 276,
+                "value": 1500,
+                "wavelength": 286.202,
+                "dark_value": 1500
+            },
+            {
+                "index": 277,
+                "value": 1501,
+                "wavelength": 286.663,
+                "dark_value": 1501
+            },
+            {
+                "index": 278,
+                "value": 1506,
+                "wavelength": 287.123,
+                "dark_value": 1506
+            },
+            {
+                "index": 279,
+                "value": 1498,
+                "wavelength": 287.584,
+                "dark_value": 1498
+            },
+            {
+                "index": 280,
+                "value": 1500,
+                "wavelength": 288.044,
+                "dark_value": 1500
+            },
+            {
+                "index": 281,
+                "value": 1504,
+                "wavelength": 288.505,
+                "dark_value": 1504
+            },
+            {
+                "index": 282,
+                "value": 1499,
+                "wavelength": 288.965,
+                "dark_value": 1499
+            },
+            {
+                "index": 283,
+                "value": 1499,
+                "wavelength": 289.426,
+                "dark_value": 1499
+            },
+            {
+                "index": 284,
+                "value": 1499,
+                "wavelength": 289.887,
+                "dark_value": 1499
+            },
+            {
+                "index": 285,
+                "value": 1498,
+                "wavelength": 290.347,
+                "dark_value": 1498
+            },
+            {
+                "index": 286,
+                "value": 1496,
+                "wavelength": 290.808,
+                "dark_value": 1496
+            },
+            {
+                "index": 287,
+                "value": 1501,
+                "wavelength": 291.268,
+                "dark_value": 1501
+            },
+            {
+                "index": 288,
+                "value": 1499,
+                "wavelength": 291.729,
+                "dark_value": 1499
+            },
+            {
+                "index": 289,
+                "value": 1501,
+                "wavelength": 292.19,
+                "dark_value": 1501
+            },
+            {
+                "index": 290,
+                "value": 1495,
+                "wavelength": 292.651,
+                "dark_value": 1495
+            },
+            {
+                "index": 291,
+                "value": 1498,
+                "wavelength": 293.111,
+                "dark_value": 1498
+            },
+            {
+                "index": 292,
+                "value": 1502,
+                "wavelength": 293.572,
+                "dark_value": 1502
+            },
+            {
+                "index": 293,
+                "value": 1499,
+                "wavelength": 294.033,
+                "dark_value": 1499
+            },
+            {
+                "index": 294,
+                "value": 1495,
+                "wavelength": 294.494,
+                "dark_value": 1495
+            },
+            {
+                "index": 295,
+                "value": 1496,
+                "wavelength": 294.955,
+                "dark_value": 1496
+            },
+            {
+                "index": 296,
+                "value": 1504,
+                "wavelength": 295.415,
+                "dark_value": 1504
+            },
+            {
+                "index": 297,
+                "value": 1500,
+                "wavelength": 295.876,
+                "dark_value": 1500
+            },
+            {
+                "index": 298,
+                "value": 1495,
+                "wavelength": 296.337,
+                "dark_value": 1495
+            },
+            {
+                "index": 299,
+                "value": 1497,
+                "wavelength": 296.798,
+                "dark_value": 1497
+            },
+            {
+                "index": 300,
+                "value": 1501,
+                "wavelength": 297.259,
+                "dark_value": 1501
+            },
+            {
+                "index": 301,
+                "value": 1507,
+                "wavelength": 297.72,
+                "dark_value": 1507
+            },
+            {
+                "index": 302,
+                "value": 1501,
+                "wavelength": 298.181,
+                "dark_value": 1501
+            },
+            {
+                "index": 303,
+                "value": 1499,
+                "wavelength": 298.642,
+                "dark_value": 1499
+            },
+            {
+                "index": 304,
+                "value": 1504,
+                "wavelength": 299.103,
+                "dark_value": 1504
+            },
+            {
+                "index": 305,
+                "value": 1503,
+                "wavelength": 299.564,
+                "dark_value": 1503
+            },
+            {
+                "index": 306,
+                "value": 1505,
+                "wavelength": 300.025,
+                "dark_value": 1505
+            },
+            {
+                "index": 307,
+                "value": 1500,
+                "wavelength": 300.486,
+                "dark_value": 1500
+            },
+            {
+                "index": 308,
+                "value": 1500,
+                "wavelength": 300.947,
+                "dark_value": 1500
+            },
+            {
+                "index": 309,
+                "value": 1501,
+                "wavelength": 301.409,
+                "dark_value": 1501
+            },
+            {
+                "index": 310,
+                "value": 1501,
+                "wavelength": 301.87,
+                "dark_value": 1501
+            },
+            {
+                "index": 311,
+                "value": 1499,
+                "wavelength": 302.331,
+                "dark_value": 1499
+            },
+            {
+                "index": 312,
+                "value": 1504,
+                "wavelength": 302.792,
+                "dark_value": 1504
+            },
+            {
+                "index": 313,
+                "value": 1504,
+                "wavelength": 303.253,
+                "dark_value": 1504
+            },
+            {
+                "index": 314,
+                "value": 1503,
+                "wavelength": 303.715,
+                "dark_value": 1503
+            },
+            {
+                "index": 315,
+                "value": 1499,
+                "wavelength": 304.176,
+                "dark_value": 1499
+            },
+            {
+                "index": 316,
+                "value": 1502,
+                "wavelength": 304.637,
+                "dark_value": 1502
+            },
+            {
+                "index": 317,
+                "value": 1501,
+                "wavelength": 305.099,
+                "dark_value": 1501
+            },
+            {
+                "index": 318,
+                "value": 1496,
+                "wavelength": 305.56,
+                "dark_value": 1496
+            },
+            {
+                "index": 319,
+                "value": 1504,
+                "wavelength": 306.021,
+                "dark_value": 1504
+            },
+            {
+                "index": 320,
+                "value": 1503,
+                "wavelength": 306.483,
+                "dark_value": 1503
+            },
+            {
+                "index": 321,
+                "value": 1502,
+                "wavelength": 306.944,
+                "dark_value": 1502
+            },
+            {
+                "index": 322,
+                "value": 1504,
+                "wavelength": 307.406,
+                "dark_value": 1504
+            },
+            {
+                "index": 323,
+                "value": 1496,
+                "wavelength": 307.867,
+                "dark_value": 1496
+            },
+            {
+                "index": 324,
+                "value": 1500,
+                "wavelength": 308.329,
+                "dark_value": 1500
+            },
+            {
+                "index": 325,
+                "value": 1502,
+                "wavelength": 308.79,
+                "dark_value": 1502
+            },
+            {
+                "index": 326,
+                "value": 1497,
+                "wavelength": 309.252,
+                "dark_value": 1497
+            },
+            {
+                "index": 327,
+                "value": 1500,
+                "wavelength": 309.713,
+                "dark_value": 1500
+            },
+            {
+                "index": 328,
+                "value": 1499,
+                "wavelength": 310.175,
+                "dark_value": 1499
+            },
+            {
+                "index": 329,
+                "value": 1501,
+                "wavelength": 310.636,
+                "dark_value": 1501
+            },
+            {
+                "index": 330,
+                "value": 1505,
+                "wavelength": 311.098,
+                "dark_value": 1505
+            },
+            {
+                "index": 331,
+                "value": 1495,
+                "wavelength": 311.56,
+                "dark_value": 1495
+            },
+            {
+                "index": 332,
+                "value": 1503,
+                "wavelength": 312.021,
+                "dark_value": 1503
+            },
+            {
+                "index": 333,
+                "value": 1498,
+                "wavelength": 312.483,
+                "dark_value": 1498
+            },
+            {
+                "index": 334,
+                "value": 1500,
+                "wavelength": 312.945,
+                "dark_value": 1500
+            },
+            {
+                "index": 335,
+                "value": 1500,
+                "wavelength": 313.407,
+                "dark_value": 1500
+            },
+            {
+                "index": 336,
+                "value": 1505,
+                "wavelength": 313.869,
+                "dark_value": 1505
+            },
+            {
+                "index": 337,
+                "value": 1500,
+                "wavelength": 314.33,
+                "dark_value": 1500
+            },
+            {
+                "index": 338,
+                "value": 1501,
+                "wavelength": 314.792,
+                "dark_value": 1501
+            },
+            {
+                "index": 339,
+                "value": 1501,
+                "wavelength": 315.254,
+                "dark_value": 1501
+            },
+            {
+                "index": 340,
+                "value": 1500,
+                "wavelength": 315.716,
+                "dark_value": 1500
+            },
+            {
+                "index": 341,
+                "value": 1501,
+                "wavelength": 316.178,
+                "dark_value": 1501
+            },
+            {
+                "index": 342,
+                "value": 1500,
+                "wavelength": 316.64,
+                "dark_value": 1500
+            },
+            {
+                "index": 343,
+                "value": 1501,
+                "wavelength": 317.102,
+                "dark_value": 1501
+            },
+            {
+                "index": 344,
+                "value": 1501,
+                "wavelength": 317.564,
+                "dark_value": 1501
+            },
+            {
+                "index": 345,
+                "value": 1499,
+                "wavelength": 318.026,
+                "dark_value": 1499
+            },
+            {
+                "index": 346,
+                "value": 1497,
+                "wavelength": 318.488,
+                "dark_value": 1497
+            },
+            {
+                "index": 347,
+                "value": 1503,
+                "wavelength": 318.95,
+                "dark_value": 1503
+            },
+            {
+                "index": 348,
+                "value": 1505,
+                "wavelength": 319.412,
+                "dark_value": 1505
+            },
+            {
+                "index": 349,
+                "value": 1499,
+                "wavelength": 319.874,
+                "dark_value": 1499
+            },
+            {
+                "index": 350,
+                "value": 1498,
+                "wavelength": 320.337,
+                "dark_value": 1498
+            },
+            {
+                "index": 351,
+                "value": 1497,
+                "wavelength": 320.799,
+                "dark_value": 1497
+            },
+            {
+                "index": 352,
+                "value": 1500,
+                "wavelength": 321.261,
+                "dark_value": 1500
+            },
+            {
+                "index": 353,
+                "value": 1500,
+                "wavelength": 321.723,
+                "dark_value": 1500
+            },
+            {
+                "index": 354,
+                "value": 1502,
+                "wavelength": 322.185,
+                "dark_value": 1502
+            },
+            {
+                "index": 355,
+                "value": 1501,
+                "wavelength": 322.648,
+                "dark_value": 1501
+            },
+            {
+                "index": 356,
+                "value": 1502,
+                "wavelength": 323.11,
+                "dark_value": 1502
+            },
+            {
+                "index": 357,
+                "value": 1504,
+                "wavelength": 323.572,
+                "dark_value": 1504
+            },
+            {
+                "index": 358,
+                "value": 1499,
+                "wavelength": 324.035,
+                "dark_value": 1499
+            },
+            {
+                "index": 359,
+                "value": 1498,
+                "wavelength": 324.497,
+                "dark_value": 1498
+            },
+            {
+                "index": 360,
+                "value": 1501,
+                "wavelength": 324.96,
+                "dark_value": 1501
+            },
+            {
+                "index": 361,
+                "value": 1500,
+                "wavelength": 325.422,
+                "dark_value": 1500
+            },
+            {
+                "index": 362,
+                "value": 1502,
+                "wavelength": 325.885,
+                "dark_value": 1502
+            },
+            {
+                "index": 363,
+                "value": 1500,
+                "wavelength": 326.347,
+                "dark_value": 1500
+            },
+            {
+                "index": 364,
+                "value": 1503,
+                "wavelength": 326.81,
+                "dark_value": 1503
+            },
+            {
+                "index": 365,
+                "value": 1496,
+                "wavelength": 327.272,
+                "dark_value": 1496
+            },
+            {
+                "index": 366,
+                "value": 1498,
+                "wavelength": 327.735,
+                "dark_value": 1498
+            },
+            {
+                "index": 367,
+                "value": 1503,
+                "wavelength": 328.198,
+                "dark_value": 1503
+            },
+            {
+                "index": 368,
+                "value": 1500,
+                "wavelength": 328.66,
+                "dark_value": 1500
+            },
+            {
+                "index": 369,
+                "value": 1502,
+                "wavelength": 329.123,
+                "dark_value": 1502
+            },
+            {
+                "index": 370,
+                "value": 1497,
+                "wavelength": 329.586,
+                "dark_value": 1497
+            },
+            {
+                "index": 371,
+                "value": 1505,
+                "wavelength": 330.049,
+                "dark_value": 1505
+            },
+            {
+                "index": 372,
+                "value": 1503,
+                "wavelength": 330.511,
+                "dark_value": 1503
+            },
+            {
+                "index": 373,
+                "value": 1501,
+                "wavelength": 330.974,
+                "dark_value": 1501
+            },
+            {
+                "index": 374,
+                "value": 1498,
+                "wavelength": 331.437,
+                "dark_value": 1498
+            },
+            {
+                "index": 375,
+                "value": 1499,
+                "wavelength": 331.9,
+                "dark_value": 1499
+            },
+            {
+                "index": 376,
+                "value": 1502,
+                "wavelength": 332.363,
+                "dark_value": 1502
+            },
+            {
+                "index": 377,
+                "value": 1502,
+                "wavelength": 332.826,
+                "dark_value": 1502
+            },
+            {
+                "index": 378,
+                "value": 1502,
+                "wavelength": 333.289,
+                "dark_value": 1502
+            },
+            {
+                "index": 379,
+                "value": 1494,
+                "wavelength": 333.752,
+                "dark_value": 1494
+            },
+            {
+                "index": 380,
+                "value": 1497,
+                "wavelength": 334.215,
+                "dark_value": 1497
+            },
+            {
+                "index": 381,
+                "value": 1503,
+                "wavelength": 334.678,
+                "dark_value": 1503
+            },
+            {
+                "index": 382,
+                "value": 1505,
+                "wavelength": 335.141,
+                "dark_value": 1505
+            },
+            {
+                "index": 383,
+                "value": 1501,
+                "wavelength": 335.604,
+                "dark_value": 1501
+            },
+            {
+                "index": 384,
+                "value": 1499,
+                "wavelength": 336.067,
+                "dark_value": 1499
+            },
+            {
+                "index": 385,
+                "value": 1503,
+                "wavelength": 336.53,
+                "dark_value": 1503
+            },
+            {
+                "index": 386,
+                "value": 1501,
+                "wavelength": 336.994,
+                "dark_value": 1501
+            },
+            {
+                "index": 387,
+                "value": 1499,
+                "wavelength": 337.457,
+                "dark_value": 1499
+            },
+            {
+                "index": 388,
+                "value": 1502,
+                "wavelength": 337.92,
+                "dark_value": 1502
+            },
+            {
+                "index": 389,
+                "value": 1503,
+                "wavelength": 338.384,
+                "dark_value": 1503
+            },
+            {
+                "index": 390,
+                "value": 1502,
+                "wavelength": 338.847,
+                "dark_value": 1502
+            },
+            {
+                "index": 391,
+                "value": 1496,
+                "wavelength": 339.31,
+                "dark_value": 1496
+            },
+            {
+                "index": 392,
+                "value": 1498,
+                "wavelength": 339.774,
+                "dark_value": 1498
+            },
+            {
+                "index": 393,
+                "value": 1501,
+                "wavelength": 340.237,
+                "dark_value": 1501
+            },
+            {
+                "index": 394,
+                "value": 1496,
+                "wavelength": 340.701,
+                "dark_value": 1496
+            },
+            {
+                "index": 395,
+                "value": 1499,
+                "wavelength": 341.164,
+                "dark_value": 1499
+            },
+            {
+                "index": 396,
+                "value": 1502,
+                "wavelength": 341.628,
+                "dark_value": 1502
+            },
+            {
+                "index": 397,
+                "value": 1499,
+                "wavelength": 342.091,
+                "dark_value": 1499
+            },
+            {
+                "index": 398,
+                "value": 1501,
+                "wavelength": 342.555,
+                "dark_value": 1501
+            },
+            {
+                "index": 399,
+                "value": 1502,
+                "wavelength": 343.018,
+                "dark_value": 1502
+            },
+            {
+                "index": 400,
+                "value": 1496,
+                "wavelength": 343.482,
+                "dark_value": 1496
+            },
+            {
+                "index": 401,
+                "value": 1501,
+                "wavelength": 343.946,
+                "dark_value": 1501
+            },
+            {
+                "index": 402,
+                "value": 1504,
+                "wavelength": 344.409,
+                "dark_value": 1504
+            },
+            {
+                "index": 403,
+                "value": 1495,
+                "wavelength": 344.873,
+                "dark_value": 1495
+            },
+            {
+                "index": 404,
+                "value": 1501,
+                "wavelength": 345.337,
+                "dark_value": 1501
+            },
+            {
+                "index": 405,
+                "value": 1497,
+                "wavelength": 345.801,
+                "dark_value": 1497
+            },
+            {
+                "index": 406,
+                "value": 1501,
+                "wavelength": 346.265,
+                "dark_value": 1501
+            },
+            {
+                "index": 407,
+                "value": 1501,
+                "wavelength": 346.729,
+                "dark_value": 1501
+            },
+            {
+                "index": 408,
+                "value": 1501,
+                "wavelength": 347.193,
+                "dark_value": 1501
+            },
+            {
+                "index": 409,
+                "value": 1493,
+                "wavelength": 347.657,
+                "dark_value": 1493
+            },
+            {
+                "index": 410,
+                "value": 1509,
+                "wavelength": 348.12,
+                "dark_value": 1509
+            },
+            {
+                "index": 411,
+                "value": 1499,
+                "wavelength": 348.585,
+                "dark_value": 1499
+            },
+            {
+                "index": 412,
+                "value": 1500,
+                "wavelength": 349.049,
+                "dark_value": 1500
+            },
+            {
+                "index": 413,
+                "value": 1503,
+                "wavelength": 349.513,
+                "dark_value": 1503
+            },
+            {
+                "index": 414,
+                "value": 1494,
+                "wavelength": 349.977,
+                "dark_value": 1494
+            },
+            {
+                "index": 415,
+                "value": 1500,
+                "wavelength": 350.441,
+                "dark_value": 1500
+            },
+            {
+                "index": 416,
+                "value": 1499,
+                "wavelength": 350.905,
+                "dark_value": 1499
+            },
+            {
+                "index": 417,
+                "value": 1504,
+                "wavelength": 351.369,
+                "dark_value": 1504
+            },
+            {
+                "index": 418,
+                "value": 1500,
+                "wavelength": 351.834,
+                "dark_value": 1500
+            },
+            {
+                "index": 419,
+                "value": 1498,
+                "wavelength": 352.298,
+                "dark_value": 1498
+            },
+            {
+                "index": 420,
+                "value": 1499,
+                "wavelength": 352.762,
+                "dark_value": 1499
+            },
+            {
+                "index": 421,
+                "value": 1501,
+                "wavelength": 353.227,
+                "dark_value": 1501
+            },
+            {
+                "index": 422,
+                "value": 1499,
+                "wavelength": 353.691,
+                "dark_value": 1499
+            },
+            {
+                "index": 423,
+                "value": 1502,
+                "wavelength": 354.155,
+                "dark_value": 1502
+            },
+            {
+                "index": 424,
+                "value": 1505,
+                "wavelength": 354.62,
+                "dark_value": 1505
+            },
+            {
+                "index": 425,
+                "value": 1501,
+                "wavelength": 355.084,
+                "dark_value": 1501
+            },
+            {
+                "index": 426,
+                "value": 1496,
+                "wavelength": 355.549,
+                "dark_value": 1496
+            },
+            {
+                "index": 427,
+                "value": 1499,
+                "wavelength": 356.014,
+                "dark_value": 1499
+            },
+            {
+                "index": 428,
+                "value": 1505,
+                "wavelength": 356.478,
+                "dark_value": 1505
+            },
+            {
+                "index": 429,
+                "value": 1503,
+                "wavelength": 356.943,
+                "dark_value": 1503
+            },
+            {
+                "index": 430,
+                "value": 1501,
+                "wavelength": 357.408,
+                "dark_value": 1501
+            },
+            {
+                "index": 431,
+                "value": 1504,
+                "wavelength": 357.872,
+                "dark_value": 1504
+            },
+            {
+                "index": 432,
+                "value": 1500,
+                "wavelength": 358.337,
+                "dark_value": 1500
+            },
+            {
+                "index": 433,
+                "value": 1497,
+                "wavelength": 358.802,
+                "dark_value": 1497
+            },
+            {
+                "index": 434,
+                "value": 1500,
+                "wavelength": 359.267,
+                "dark_value": 1500
+            },
+            {
+                "index": 435,
+                "value": 1507,
+                "wavelength": 359.731,
+                "dark_value": 1507
+            },
+            {
+                "index": 436,
+                "value": 1502,
+                "wavelength": 360.196,
+                "dark_value": 1502
+            },
+            {
+                "index": 437,
+                "value": 1502,
+                "wavelength": 360.661,
+                "dark_value": 1502
+            },
+            {
+                "index": 438,
+                "value": 1503,
+                "wavelength": 361.126,
+                "dark_value": 1503
+            },
+            {
+                "index": 439,
+                "value": 1504,
+                "wavelength": 361.591,
+                "dark_value": 1504
+            },
+            {
+                "index": 440,
+                "value": 1501,
+                "wavelength": 362.056,
+                "dark_value": 1501
+            },
+            {
+                "index": 441,
+                "value": 1499,
+                "wavelength": 362.521,
+                "dark_value": 1499
+            },
+            {
+                "index": 442,
+                "value": 1501,
+                "wavelength": 362.986,
+                "dark_value": 1501
+            },
+            {
+                "index": 443,
+                "value": 1503,
+                "wavelength": 363.452,
+                "dark_value": 1503
+            },
+            {
+                "index": 444,
+                "value": 1505,
+                "wavelength": 363.917,
+                "dark_value": 1505
+            },
+            {
+                "index": 445,
+                "value": 1501,
+                "wavelength": 364.382,
+                "dark_value": 1501
+            },
+            {
+                "index": 446,
+                "value": 1497,
+                "wavelength": 364.847,
+                "dark_value": 1497
+            },
+            {
+                "index": 447,
+                "value": 1500,
+                "wavelength": 365.313,
+                "dark_value": 1500
+            },
+            {
+                "index": 448,
+                "value": 1501,
+                "wavelength": 365.778,
+                "dark_value": 1501
+            },
+            {
+                "index": 449,
+                "value": 1503,
+                "wavelength": 366.243,
+                "dark_value": 1503
+            },
+            {
+                "index": 450,
+                "value": 1500,
+                "wavelength": 366.709,
+                "dark_value": 1500
+            },
+            {
+                "index": 451,
+                "value": 1506,
+                "wavelength": 367.174,
+                "dark_value": 1506
+            },
+            {
+                "index": 452,
+                "value": 1504,
+                "wavelength": 367.64,
+                "dark_value": 1504
+            },
+            {
+                "index": 453,
+                "value": 1501,
+                "wavelength": 368.105,
+                "dark_value": 1501
+            },
+            {
+                "index": 454,
+                "value": 1499,
+                "wavelength": 368.571,
+                "dark_value": 1499
+            },
+            {
+                "index": 455,
+                "value": 1500,
+                "wavelength": 369.036,
+                "dark_value": 1500
+            },
+            {
+                "index": 456,
+                "value": 1501,
+                "wavelength": 369.502,
+                "dark_value": 1501
+            },
+            {
+                "index": 457,
+                "value": 1503,
+                "wavelength": 369.968,
+                "dark_value": 1503
+            },
+            {
+                "index": 458,
+                "value": 1505,
+                "wavelength": 370.433,
+                "dark_value": 1505
+            },
+            {
+                "index": 459,
+                "value": 1499,
+                "wavelength": 370.899,
+                "dark_value": 1499
+            },
+            {
+                "index": 460,
+                "value": 1500,
+                "wavelength": 371.365,
+                "dark_value": 1500
+            },
+            {
+                "index": 461,
+                "value": 1504,
+                "wavelength": 371.831,
+                "dark_value": 1504
+            },
+            {
+                "index": 462,
+                "value": 1504,
+                "wavelength": 372.297,
+                "dark_value": 1504
+            },
+            {
+                "index": 463,
+                "value": 1499,
+                "wavelength": 372.763,
+                "dark_value": 1499
+            },
+            {
+                "index": 464,
+                "value": 1502,
+                "wavelength": 373.229,
+                "dark_value": 1502
+            },
+            {
+                "index": 465,
+                "value": 1500,
+                "wavelength": 373.694,
+                "dark_value": 1500
+            },
+            {
+                "index": 466,
+                "value": 1504,
+                "wavelength": 374.161,
+                "dark_value": 1504
+            },
+            {
+                "index": 467,
+                "value": 1503,
+                "wavelength": 374.627,
+                "dark_value": 1503
+            },
+            {
+                "index": 468,
+                "value": 1502,
+                "wavelength": 375.093,
+                "dark_value": 1502
+            },
+            {
+                "index": 469,
+                "value": 1500,
+                "wavelength": 375.559,
+                "dark_value": 1500
+            },
+            {
+                "index": 470,
+                "value": 1501,
+                "wavelength": 376.025,
+                "dark_value": 1501
+            },
+            {
+                "index": 471,
+                "value": 1502,
+                "wavelength": 376.491,
+                "dark_value": 1502
+            },
+            {
+                "index": 472,
+                "value": 1500,
+                "wavelength": 376.958,
+                "dark_value": 1500
+            },
+            {
+                "index": 473,
+                "value": 1503,
+                "wavelength": 377.424,
+                "dark_value": 1503
+            },
+            {
+                "index": 474,
+                "value": 1505,
+                "wavelength": 377.89,
+                "dark_value": 1505
+            },
+            {
+                "index": 475,
+                "value": 1505,
+                "wavelength": 378.357,
+                "dark_value": 1505
+            },
+            {
+                "index": 476,
+                "value": 1509,
+                "wavelength": 378.823,
+                "dark_value": 1509
+            },
+            {
+                "index": 477,
+                "value": 1498,
+                "wavelength": 379.289,
+                "dark_value": 1498
+            },
+            {
+                "index": 478,
+                "value": 1500,
+                "wavelength": 379.756,
+                "dark_value": 1500
+            },
+            {
+                "index": 479,
+                "value": 1501,
+                "wavelength": 380.222,
+                "dark_value": 1501
+            },
+            {
+                "index": 480,
+                "value": 1500,
+                "wavelength": 380.689,
+                "dark_value": 1500
+            },
+            {
+                "index": 481,
+                "value": 1500,
+                "wavelength": 381.156,
+                "dark_value": 1500
+            },
+            {
+                "index": 482,
+                "value": 1503,
+                "wavelength": 381.622,
+                "dark_value": 1503
+            },
+            {
+                "index": 483,
+                "value": 1496,
+                "wavelength": 382.089,
+                "dark_value": 1496
+            },
+            {
+                "index": 484,
+                "value": 1501,
+                "wavelength": 382.556,
+                "dark_value": 1501
+            },
+            {
+                "index": 485,
+                "value": 1498,
+                "wavelength": 383.023,
+                "dark_value": 1498
+            },
+            {
+                "index": 486,
+                "value": 1501,
+                "wavelength": 383.489,
+                "dark_value": 1501
+            },
+            {
+                "index": 487,
+                "value": 1502,
+                "wavelength": 383.956,
+                "dark_value": 1502
+            },
+            {
+                "index": 488,
+                "value": 1502,
+                "wavelength": 384.423,
+                "dark_value": 1502
+            },
+            {
+                "index": 489,
+                "value": 1498,
+                "wavelength": 384.89,
+                "dark_value": 1498
+            },
+            {
+                "index": 490,
+                "value": 1498,
+                "wavelength": 385.357,
+                "dark_value": 1498
+            },
+            {
+                "index": 491,
+                "value": 1504,
+                "wavelength": 385.824,
+                "dark_value": 1504
+            },
+            {
+                "index": 492,
+                "value": 1500,
+                "wavelength": 386.291,
+                "dark_value": 1500
+            },
+            {
+                "index": 493,
+                "value": 1499,
+                "wavelength": 386.758,
+                "dark_value": 1499
+            },
+            {
+                "index": 494,
+                "value": 1505,
+                "wavelength": 387.226,
+                "dark_value": 1505
+            },
+            {
+                "index": 495,
+                "value": 1493,
+                "wavelength": 387.693,
+                "dark_value": 1493
+            },
+            {
+                "index": 496,
+                "value": 1499,
+                "wavelength": 388.16,
+                "dark_value": 1499
+            },
+            {
+                "index": 497,
+                "value": 1498,
+                "wavelength": 388.627,
+                "dark_value": 1498
+            },
+            {
+                "index": 498,
+                "value": 1498,
+                "wavelength": 389.095,
+                "dark_value": 1498
+            },
+            {
+                "index": 499,
+                "value": 1504,
+                "wavelength": 389.562,
+                "dark_value": 1504
+            },
+            {
+                "index": 500,
+                "value": 1499,
+                "wavelength": 390.03,
+                "dark_value": 1499
+            },
+            {
+                "index": 501,
+                "value": 1506,
+                "wavelength": 390.497,
+                "dark_value": 1506
+            },
+            {
+                "index": 502,
+                "value": 1502,
+                "wavelength": 390.964,
+                "dark_value": 1502
+            },
+            {
+                "index": 503,
+                "value": 1497,
+                "wavelength": 391.432,
+                "dark_value": 1497
+            },
+            {
+                "index": 504,
+                "value": 1502,
+                "wavelength": 391.9,
+                "dark_value": 1502
+            },
+            {
+                "index": 505,
+                "value": 1504,
+                "wavelength": 392.367,
+                "dark_value": 1504
+            },
+            {
+                "index": 506,
+                "value": 1502,
+                "wavelength": 392.835,
+                "dark_value": 1502
+            },
+            {
+                "index": 507,
+                "value": 1500,
+                "wavelength": 393.303,
+                "dark_value": 1500
+            },
+            {
+                "index": 508,
+                "value": 1498,
+                "wavelength": 393.77,
+                "dark_value": 1498
+            },
+            {
+                "index": 509,
+                "value": 1501,
+                "wavelength": 394.238,
+                "dark_value": 1501
+            },
+            {
+                "index": 510,
+                "value": 1499,
+                "wavelength": 394.706,
+                "dark_value": 1499
+            },
+            {
+                "index": 511,
+                "value": 1504,
+                "wavelength": 395.174,
+                "dark_value": 1504
+            },
+            {
+                "index": 512,
+                "value": 1500,
+                "wavelength": 395.642,
+                "dark_value": 1500
+            },
+            {
+                "index": 513,
+                "value": 1499,
+                "wavelength": 396.11,
+                "dark_value": 1499
+            },
+            {
+                "index": 514,
+                "value": 1502,
+                "wavelength": 396.578,
+                "dark_value": 1502
+            },
+            {
+                "index": 515,
+                "value": 1506,
+                "wavelength": 397.046,
+                "dark_value": 1506
+            },
+            {
+                "index": 516,
+                "value": 1501,
+                "wavelength": 397.514,
+                "dark_value": 1501
+            },
+            {
+                "index": 517,
+                "value": 1500,
+                "wavelength": 397.982,
+                "dark_value": 1500
+            },
+            {
+                "index": 518,
+                "value": 1502,
+                "wavelength": 398.451,
+                "dark_value": 1502
+            },
+            {
+                "index": 519,
+                "value": 1502,
+                "wavelength": 398.919,
+                "dark_value": 1502
+            },
+            {
+                "index": 520,
+                "value": 1501,
+                "wavelength": 399.387,
+                "dark_value": 1501
+            },
+            {
+                "index": 521,
+                "value": 1497,
+                "wavelength": 399.855,
+                "dark_value": 1497
+            },
+            {
+                "index": 522,
+                "value": 1501,
+                "wavelength": 400.324,
+                "dark_value": 1501
+            },
+            {
+                "index": 523,
+                "value": 1505,
+                "wavelength": 400.792,
+                "dark_value": 1505
+            },
+            {
+                "index": 524,
+                "value": 1503,
+                "wavelength": 401.261,
+                "dark_value": 1503
+            },
+            {
+                "index": 525,
+                "value": 1496,
+                "wavelength": 401.729,
+                "dark_value": 1496
+            },
+            {
+                "index": 526,
+                "value": 1494,
+                "wavelength": 402.198,
+                "dark_value": 1494
+            },
+            {
+                "index": 527,
+                "value": 1495,
+                "wavelength": 402.666,
+                "dark_value": 1495
+            },
+            {
+                "index": 528,
+                "value": 1501,
+                "wavelength": 403.135,
+                "dark_value": 1501
+            },
+            {
+                "index": 529,
+                "value": 1501,
+                "wavelength": 403.604,
+                "dark_value": 1501
+            },
+            {
+                "index": 530,
+                "value": 1503,
+                "wavelength": 404.073,
+                "dark_value": 1503
+            },
+            {
+                "index": 531,
+                "value": 1501,
+                "wavelength": 404.541,
+                "dark_value": 1501
+            },
+            {
+                "index": 532,
+                "value": 1501,
+                "wavelength": 405.01,
+                "dark_value": 1501
+            },
+            {
+                "index": 533,
+                "value": 1506,
+                "wavelength": 405.479,
+                "dark_value": 1506
+            },
+            {
+                "index": 534,
+                "value": 1499,
+                "wavelength": 405.948,
+                "dark_value": 1499
+            },
+            {
+                "index": 535,
+                "value": 1498,
+                "wavelength": 406.417,
+                "dark_value": 1498
+            },
+            {
+                "index": 536,
+                "value": 1498,
+                "wavelength": 406.886,
+                "dark_value": 1498
+            },
+            {
+                "index": 537,
+                "value": 1502,
+                "wavelength": 407.355,
+                "dark_value": 1502
+            },
+            {
+                "index": 538,
+                "value": 1503,
+                "wavelength": 407.824,
+                "dark_value": 1503
+            },
+            {
+                "index": 539,
+                "value": 1497,
+                "wavelength": 408.293,
+                "dark_value": 1497
+            },
+            {
+                "index": 540,
+                "value": 1503,
+                "wavelength": 408.763,
+                "dark_value": 1503
+            },
+            {
+                "index": 541,
+                "value": 1498,
+                "wavelength": 409.232,
+                "dark_value": 1498
+            },
+            {
+                "index": 542,
+                "value": 1500,
+                "wavelength": 409.701,
+                "dark_value": 1500
+            },
+            {
+                "index": 543,
+                "value": 1495,
+                "wavelength": 410.171,
+                "dark_value": 1495
+            },
+            {
+                "index": 544,
+                "value": 1501,
+                "wavelength": 410.64,
+                "dark_value": 1501
+            },
+            {
+                "index": 545,
+                "value": 1501,
+                "wavelength": 411.109,
+                "dark_value": 1501
+            },
+            {
+                "index": 546,
+                "value": 1502,
+                "wavelength": 411.579,
+                "dark_value": 1502
+            },
+            {
+                "index": 547,
+                "value": 1497,
+                "wavelength": 412.048,
+                "dark_value": 1497
+            },
+            {
+                "index": 548,
+                "value": 1499,
+                "wavelength": 412.518,
+                "dark_value": 1499
+            },
+            {
+                "index": 549,
+                "value": 1499,
+                "wavelength": 412.988,
+                "dark_value": 1499
+            },
+            {
+                "index": 550,
+                "value": 1500,
+                "wavelength": 413.457,
+                "dark_value": 1500
+            },
+            {
+                "index": 551,
+                "value": 1498,
+                "wavelength": 413.927,
+                "dark_value": 1498
+            },
+            {
+                "index": 552,
+                "value": 1494,
+                "wavelength": 414.397,
+                "dark_value": 1494
+            },
+            {
+                "index": 553,
+                "value": 1505,
+                "wavelength": 414.867,
+                "dark_value": 1505
+            },
+            {
+                "index": 554,
+                "value": 1503,
+                "wavelength": 415.337,
+                "dark_value": 1503
+            },
+            {
+                "index": 555,
+                "value": 1499,
+                "wavelength": 415.807,
+                "dark_value": 1499
+            },
+            {
+                "index": 556,
+                "value": 1501,
+                "wavelength": 416.277,
+                "dark_value": 1501
+            },
+            {
+                "index": 557,
+                "value": 1504,
+                "wavelength": 416.747,
+                "dark_value": 1504
+            },
+            {
+                "index": 558,
+                "value": 1507,
+                "wavelength": 417.217,
+                "dark_value": 1507
+            },
+            {
+                "index": 559,
+                "value": 1500,
+                "wavelength": 417.687,
+                "dark_value": 1500
+            },
+            {
+                "index": 560,
+                "value": 1498,
+                "wavelength": 418.157,
+                "dark_value": 1498
+            },
+            {
+                "index": 561,
+                "value": 1502,
+                "wavelength": 418.627,
+                "dark_value": 1502
+            },
+            {
+                "index": 562,
+                "value": 1504,
+                "wavelength": 419.097,
+                "dark_value": 1504
+            },
+            {
+                "index": 563,
+                "value": 1502,
+                "wavelength": 419.568,
+                "dark_value": 1502
+            },
+            {
+                "index": 564,
+                "value": 1497,
+                "wavelength": 420.038,
+                "dark_value": 1497
+            },
+            {
+                "index": 565,
+                "value": 1502,
+                "wavelength": 420.509,
+                "dark_value": 1502
+            },
+            {
+                "index": 566,
+                "value": 1499,
+                "wavelength": 420.979,
+                "dark_value": 1499
+            },
+            {
+                "index": 567,
+                "value": 1504,
+                "wavelength": 421.45,
+                "dark_value": 1504
+            },
+            {
+                "index": 568,
+                "value": 1499,
+                "wavelength": 421.92,
+                "dark_value": 1499
+            },
+            {
+                "index": 569,
+                "value": 1503,
+                "wavelength": 422.391,
+                "dark_value": 1503
+            },
+            {
+                "index": 570,
+                "value": 1505,
+                "wavelength": 422.861,
+                "dark_value": 1505
+            },
+            {
+                "index": 571,
+                "value": 1499,
+                "wavelength": 423.332,
+                "dark_value": 1499
+            },
+            {
+                "index": 572,
+                "value": 1502,
+                "wavelength": 423.803,
+                "dark_value": 1502
+            },
+            {
+                "index": 573,
+                "value": 1495,
+                "wavelength": 424.274,
+                "dark_value": 1495
+            },
+            {
+                "index": 574,
+                "value": 1503,
+                "wavelength": 424.745,
+                "dark_value": 1503
+            },
+            {
+                "index": 575,
+                "value": 1504,
+                "wavelength": 425.216,
+                "dark_value": 1504
+            },
+            {
+                "index": 576,
+                "value": 1500,
+                "wavelength": 425.687,
+                "dark_value": 1500
+            },
+            {
+                "index": 577,
+                "value": 1495,
+                "wavelength": 426.158,
+                "dark_value": 1495
+            },
+            {
+                "index": 578,
+                "value": 1498,
+                "wavelength": 426.629,
+                "dark_value": 1498
+            },
+            {
+                "index": 579,
+                "value": 1499,
+                "wavelength": 427.1,
+                "dark_value": 1499
+            },
+            {
+                "index": 580,
+                "value": 1497,
+                "wavelength": 427.571,
+                "dark_value": 1497
+            },
+            {
+                "index": 581,
+                "value": 1501,
+                "wavelength": 428.042,
+                "dark_value": 1501
+            },
+            {
+                "index": 582,
+                "value": 1504,
+                "wavelength": 428.513,
+                "dark_value": 1504
+            },
+            {
+                "index": 583,
+                "value": 1497,
+                "wavelength": 428.985,
+                "dark_value": 1497
+            },
+            {
+                "index": 584,
+                "value": 1498,
+                "wavelength": 429.456,
+                "dark_value": 1498
+            },
+            {
+                "index": 585,
+                "value": 1499,
+                "wavelength": 429.928,
+                "dark_value": 1499
+            },
+            {
+                "index": 586,
+                "value": 1499,
+                "wavelength": 430.399,
+                "dark_value": 1499
+            },
+            {
+                "index": 587,
+                "value": 1496,
+                "wavelength": 430.871,
+                "dark_value": 1496
+            },
+            {
+                "index": 588,
+                "value": 1498,
+                "wavelength": 431.342,
+                "dark_value": 1498
+            },
+            {
+                "index": 589,
+                "value": 1498,
+                "wavelength": 431.814,
+                "dark_value": 1498
+            },
+            {
+                "index": 590,
+                "value": 1505,
+                "wavelength": 432.286,
+                "dark_value": 1505
+            },
+            {
+                "index": 591,
+                "value": 1499,
+                "wavelength": 432.757,
+                "dark_value": 1499
+            },
+            {
+                "index": 592,
+                "value": 1501,
+                "wavelength": 433.229,
+                "dark_value": 1501
+            },
+            {
+                "index": 593,
+                "value": 1498,
+                "wavelength": 433.701,
+                "dark_value": 1498
+            },
+            {
+                "index": 594,
+                "value": 1500,
+                "wavelength": 434.173,
+                "dark_value": 1500
+            },
+            {
+                "index": 595,
+                "value": 1502,
+                "wavelength": 434.645,
+                "dark_value": 1502
+            },
+            {
+                "index": 596,
+                "value": 1499,
+                "wavelength": 435.117,
+                "dark_value": 1499
+            },
+            {
+                "index": 597,
+                "value": 1502,
+                "wavelength": 435.589,
+                "dark_value": 1502
+            },
+            {
+                "index": 598,
+                "value": 1503,
+                "wavelength": 436.061,
+                "dark_value": 1503
+            },
+            {
+                "index": 599,
+                "value": 1504,
+                "wavelength": 436.533,
+                "dark_value": 1504
+            },
+            {
+                "index": 600,
+                "value": 1502,
+                "wavelength": 437.005,
+                "dark_value": 1502
+            },
+            {
+                "index": 601,
+                "value": 1502,
+                "wavelength": 437.478,
+                "dark_value": 1502
+            },
+            {
+                "index": 602,
+                "value": 1503,
+                "wavelength": 437.95,
+                "dark_value": 1503
+            },
+            {
+                "index": 603,
+                "value": 1504,
+                "wavelength": 438.422,
+                "dark_value": 1504
+            },
+            {
+                "index": 604,
+                "value": 1503,
+                "wavelength": 438.895,
+                "dark_value": 1503
+            },
+            {
+                "index": 605,
+                "value": 1502,
+                "wavelength": 439.367,
+                "dark_value": 1502
+            },
+            {
+                "index": 606,
+                "value": 1504,
+                "wavelength": 439.84,
+                "dark_value": 1504
+            },
+            {
+                "index": 607,
+                "value": 1503,
+                "wavelength": 440.312,
+                "dark_value": 1503
+            },
+            {
+                "index": 608,
+                "value": 1502,
+                "wavelength": 440.785,
+                "dark_value": 1502
+            },
+            {
+                "index": 609,
+                "value": 1504,
+                "wavelength": 441.258,
+                "dark_value": 1504
+            },
+            {
+                "index": 610,
+                "value": 1500,
+                "wavelength": 441.731,
+                "dark_value": 1500
+            },
+            {
+                "index": 611,
+                "value": 1505,
+                "wavelength": 442.203,
+                "dark_value": 1505
+            },
+            {
+                "index": 612,
+                "value": 1501,
+                "wavelength": 442.676,
+                "dark_value": 1501
+            },
+            {
+                "index": 613,
+                "value": 1503,
+                "wavelength": 443.149,
+                "dark_value": 1503
+            },
+            {
+                "index": 614,
+                "value": 1497,
+                "wavelength": 443.622,
+                "dark_value": 1497
+            },
+            {
+                "index": 615,
+                "value": 1500,
+                "wavelength": 444.095,
+                "dark_value": 1500
+            },
+            {
+                "index": 616,
+                "value": 1501,
+                "wavelength": 444.568,
+                "dark_value": 1501
+            },
+            {
+                "index": 617,
+                "value": 1501,
+                "wavelength": 445.041,
+                "dark_value": 1501
+            },
+            {
+                "index": 618,
+                "value": 1502,
+                "wavelength": 445.515,
+                "dark_value": 1502
+            },
+            {
+                "index": 619,
+                "value": 1505,
+                "wavelength": 445.988,
+                "dark_value": 1505
+            },
+            {
+                "index": 620,
+                "value": 1498,
+                "wavelength": 446.461,
+                "dark_value": 1498
+            },
+            {
+                "index": 621,
+                "value": 1499,
+                "wavelength": 446.934,
+                "dark_value": 1499
+            },
+            {
+                "index": 622,
+                "value": 1500,
+                "wavelength": 447.408,
+                "dark_value": 1500
+            },
+            {
+                "index": 623,
+                "value": 1506,
+                "wavelength": 447.881,
+                "dark_value": 1506
+            },
+            {
+                "index": 624,
+                "value": 1499,
+                "wavelength": 448.355,
+                "dark_value": 1499
+            },
+            {
+                "index": 625,
+                "value": 1503,
+                "wavelength": 448.828,
+                "dark_value": 1503
+            },
+            {
+                "index": 626,
+                "value": 1499,
+                "wavelength": 449.302,
+                "dark_value": 1499
+            },
+            {
+                "index": 627,
+                "value": 1503,
+                "wavelength": 449.776,
+                "dark_value": 1503
+            },
+            {
+                "index": 628,
+                "value": 1502,
+                "wavelength": 450.25,
+                "dark_value": 1502
+            },
+            {
+                "index": 629,
+                "value": 1498,
+                "wavelength": 450.723,
+                "dark_value": 1498
+            },
+            {
+                "index": 630,
+                "value": 1501,
+                "wavelength": 451.197,
+                "dark_value": 1501
+            },
+            {
+                "index": 631,
+                "value": 1503,
+                "wavelength": 451.671,
+                "dark_value": 1503
+            },
+            {
+                "index": 632,
+                "value": 1506,
+                "wavelength": 452.145,
+                "dark_value": 1506
+            },
+            {
+                "index": 633,
+                "value": 1499,
+                "wavelength": 452.619,
+                "dark_value": 1499
+            },
+            {
+                "index": 634,
+                "value": 1497,
+                "wavelength": 453.093,
+                "dark_value": 1497
+            },
+            {
+                "index": 635,
+                "value": 1496,
+                "wavelength": 453.567,
+                "dark_value": 1496
+            },
+            {
+                "index": 636,
+                "value": 1500,
+                "wavelength": 454.042,
+                "dark_value": 1500
+            },
+            {
+                "index": 637,
+                "value": 1503,
+                "wavelength": 454.516,
+                "dark_value": 1503
+            },
+            {
+                "index": 638,
+                "value": 1503,
+                "wavelength": 454.99,
+                "dark_value": 1503
+            },
+            {
+                "index": 639,
+                "value": 1501,
+                "wavelength": 455.465,
+                "dark_value": 1501
+            },
+            {
+                "index": 640,
+                "value": 1501,
+                "wavelength": 455.939,
+                "dark_value": 1501
+            },
+            {
+                "index": 641,
+                "value": 1506,
+                "wavelength": 456.413,
+                "dark_value": 1506
+            },
+            {
+                "index": 642,
+                "value": 1501,
+                "wavelength": 456.888,
+                "dark_value": 1501
+            },
+            {
+                "index": 643,
+                "value": 1497,
+                "wavelength": 457.363,
+                "dark_value": 1497
+            },
+            {
+                "index": 644,
+                "value": 1501,
+                "wavelength": 457.837,
+                "dark_value": 1501
+            },
+            {
+                "index": 645,
+                "value": 1499,
+                "wavelength": 458.312,
+                "dark_value": 1499
+            },
+            {
+                "index": 646,
+                "value": 1501,
+                "wavelength": 458.787,
+                "dark_value": 1501
+            },
+            {
+                "index": 647,
+                "value": 1500,
+                "wavelength": 459.262,
+                "dark_value": 1500
+            },
+            {
+                "index": 648,
+                "value": 1500,
+                "wavelength": 459.737,
+                "dark_value": 1500
+            },
+            {
+                "index": 649,
+                "value": 1506,
+                "wavelength": 460.211,
+                "dark_value": 1506
+            },
+            {
+                "index": 650,
+                "value": 1499,
+                "wavelength": 460.686,
+                "dark_value": 1499
+            },
+            {
+                "index": 651,
+                "value": 1503,
+                "wavelength": 461.162,
+                "dark_value": 1503
+            },
+            {
+                "index": 652,
+                "value": 1499,
+                "wavelength": 461.637,
+                "dark_value": 1499
+            },
+            {
+                "index": 653,
+                "value": 1505,
+                "wavelength": 462.112,
+                "dark_value": 1505
+            },
+            {
+                "index": 654,
+                "value": 1499,
+                "wavelength": 462.587,
+                "dark_value": 1499
+            },
+            {
+                "index": 655,
+                "value": 1499,
+                "wavelength": 463.062,
+                "dark_value": 1499
+            },
+            {
+                "index": 656,
+                "value": 1495,
+                "wavelength": 463.538,
+                "dark_value": 1495
+            },
+            {
+                "index": 657,
+                "value": 1505,
+                "wavelength": 464.013,
+                "dark_value": 1505
+            },
+            {
+                "index": 658,
+                "value": 1501,
+                "wavelength": 464.489,
+                "dark_value": 1501
+            },
+            {
+                "index": 659,
+                "value": 1503,
+                "wavelength": 464.964,
+                "dark_value": 1503
+            },
+            {
+                "index": 660,
+                "value": 1499,
+                "wavelength": 465.44,
+                "dark_value": 1499
+            },
+            {
+                "index": 661,
+                "value": 1498,
+                "wavelength": 465.915,
+                "dark_value": 1498
+            },
+            {
+                "index": 662,
+                "value": 1504,
+                "wavelength": 466.391,
+                "dark_value": 1504
+            },
+            {
+                "index": 663,
+                "value": 1506,
+                "wavelength": 466.867,
+                "dark_value": 1506
+            },
+            {
+                "index": 664,
+                "value": 1500,
+                "wavelength": 467.343,
+                "dark_value": 1500
+            },
+            {
+                "index": 665,
+                "value": 1497,
+                "wavelength": 467.819,
+                "dark_value": 1497
+            },
+            {
+                "index": 666,
+                "value": 1505,
+                "wavelength": 468.295,
+                "dark_value": 1505
+            },
+            {
+                "index": 667,
+                "value": 1503,
+                "wavelength": 468.771,
+                "dark_value": 1503
+            },
+            {
+                "index": 668,
+                "value": 1503,
+                "wavelength": 469.247,
+                "dark_value": 1503
+            },
+            {
+                "index": 669,
+                "value": 1503,
+                "wavelength": 469.723,
+                "dark_value": 1503
+            },
+            {
+                "index": 670,
+                "value": 1500,
+                "wavelength": 470.199,
+                "dark_value": 1500
+            },
+            {
+                "index": 671,
+                "value": 1504,
+                "wavelength": 470.675,
+                "dark_value": 1504
+            },
+            {
+                "index": 672,
+                "value": 1498,
+                "wavelength": 471.152,
+                "dark_value": 1498
+            },
+            {
+                "index": 673,
+                "value": 1497,
+                "wavelength": 471.628,
+                "dark_value": 1497
+            },
+            {
+                "index": 674,
+                "value": 1503,
+                "wavelength": 472.105,
+                "dark_value": 1503
+            },
+            {
+                "index": 675,
+                "value": 1503,
+                "wavelength": 472.581,
+                "dark_value": 1503
+            },
+            {
+                "index": 676,
+                "value": 1500,
+                "wavelength": 473.058,
+                "dark_value": 1500
+            },
+            {
+                "index": 677,
+                "value": 1500,
+                "wavelength": 473.534,
+                "dark_value": 1500
+            },
+            {
+                "index": 678,
+                "value": 1500,
+                "wavelength": 474.011,
+                "dark_value": 1500
+            },
+            {
+                "index": 679,
+                "value": 1498,
+                "wavelength": 474.488,
+                "dark_value": 1498
+            },
+            {
+                "index": 680,
+                "value": 1499,
+                "wavelength": 474.964,
+                "dark_value": 1499
+            },
+            {
+                "index": 681,
+                "value": 1503,
+                "wavelength": 475.441,
+                "dark_value": 1503
+            },
+            {
+                "index": 682,
+                "value": 1499,
+                "wavelength": 475.918,
+                "dark_value": 1499
+            },
+            {
+                "index": 683,
+                "value": 1502,
+                "wavelength": 476.395,
+                "dark_value": 1502
+            },
+            {
+                "index": 684,
+                "value": 1501,
+                "wavelength": 476.872,
+                "dark_value": 1501
+            },
+            {
+                "index": 685,
+                "value": 1500,
+                "wavelength": 477.349,
+                "dark_value": 1500
+            },
+            {
+                "index": 686,
+                "value": 1501,
+                "wavelength": 477.827,
+                "dark_value": 1501
+            },
+            {
+                "index": 687,
+                "value": 1502,
+                "wavelength": 478.304,
+                "dark_value": 1502
+            },
+            {
+                "index": 688,
+                "value": 1500,
+                "wavelength": 478.781,
+                "dark_value": 1500
+            },
+            {
+                "index": 689,
+                "value": 1498,
+                "wavelength": 479.259,
+                "dark_value": 1498
+            },
+            {
+                "index": 690,
+                "value": 1499,
+                "wavelength": 479.736,
+                "dark_value": 1499
+            },
+            {
+                "index": 691,
+                "value": 1501,
+                "wavelength": 480.213,
+                "dark_value": 1501
+            },
+            {
+                "index": 692,
+                "value": 1499,
+                "wavelength": 480.691,
+                "dark_value": 1499
+            },
+            {
+                "index": 693,
+                "value": 1500,
+                "wavelength": 481.169,
+                "dark_value": 1500
+            },
+            {
+                "index": 694,
+                "value": 1502,
+                "wavelength": 481.646,
+                "dark_value": 1502
+            },
+            {
+                "index": 695,
+                "value": 1504,
+                "wavelength": 482.124,
+                "dark_value": 1504
+            },
+            {
+                "index": 696,
+                "value": 1502,
+                "wavelength": 482.602,
+                "dark_value": 1502
+            },
+            {
+                "index": 697,
+                "value": 1498,
+                "wavelength": 483.08,
+                "dark_value": 1498
+            },
+            {
+                "index": 698,
+                "value": 1504,
+                "wavelength": 483.558,
+                "dark_value": 1504
+            },
+            {
+                "index": 699,
+                "value": 1500,
+                "wavelength": 484.036,
+                "dark_value": 1500
+            },
+            {
+                "index": 700,
+                "value": 1501,
+                "wavelength": 484.514,
+                "dark_value": 1501
+            },
+            {
+                "index": 701,
+                "value": 1500,
+                "wavelength": 484.992,
+                "dark_value": 1500
+            },
+            {
+                "index": 702,
+                "value": 1507,
+                "wavelength": 485.47,
+                "dark_value": 1507
+            },
+            {
+                "index": 703,
+                "value": 1503,
+                "wavelength": 485.948,
+                "dark_value": 1503
+            },
+            {
+                "index": 704,
+                "value": 1502,
+                "wavelength": 486.427,
+                "dark_value": 1502
+            },
+            {
+                "index": 705,
+                "value": 1503,
+                "wavelength": 486.905,
+                "dark_value": 1503
+            },
+            {
+                "index": 706,
+                "value": 1503,
+                "wavelength": 487.383,
+                "dark_value": 1503
+            },
+            {
+                "index": 707,
+                "value": 1502,
+                "wavelength": 487.862,
+                "dark_value": 1502
+            },
+            {
+                "index": 708,
+                "value": 1505,
+                "wavelength": 488.341,
+                "dark_value": 1505
+            },
+            {
+                "index": 709,
+                "value": 1499,
+                "wavelength": 488.819,
+                "dark_value": 1499
+            },
+            {
+                "index": 710,
+                "value": 1501,
+                "wavelength": 489.298,
+                "dark_value": 1501
+            },
+            {
+                "index": 711,
+                "value": 1501,
+                "wavelength": 489.777,
+                "dark_value": 1501
+            },
+            {
+                "index": 712,
+                "value": 1505,
+                "wavelength": 490.255,
+                "dark_value": 1505
+            },
+            {
+                "index": 713,
+                "value": 1499,
+                "wavelength": 490.734,
+                "dark_value": 1499
+            },
+            {
+                "index": 714,
+                "value": 1505,
+                "wavelength": 491.213,
+                "dark_value": 1505
+            },
+            {
+                "index": 715,
+                "value": 1502,
+                "wavelength": 491.692,
+                "dark_value": 1502
+            },
+            {
+                "index": 716,
+                "value": 1499,
+                "wavelength": 492.171,
+                "dark_value": 1499
+            },
+            {
+                "index": 717,
+                "value": 1504,
+                "wavelength": 492.651,
+                "dark_value": 1504
+            },
+            {
+                "index": 718,
+                "value": 1501,
+                "wavelength": 493.13,
+                "dark_value": 1501
+            },
+            {
+                "index": 719,
+                "value": 1499,
+                "wavelength": 493.609,
+                "dark_value": 1499
+            },
+            {
+                "index": 720,
+                "value": 1502,
+                "wavelength": 494.088,
+                "dark_value": 1502
+            },
+            {
+                "index": 721,
+                "value": 1501,
+                "wavelength": 494.568,
+                "dark_value": 1501
+            },
+            {
+                "index": 722,
+                "value": 1497,
+                "wavelength": 495.047,
+                "dark_value": 1497
+            },
+            {
+                "index": 723,
+                "value": 1501,
+                "wavelength": 495.527,
+                "dark_value": 1501
+            },
+            {
+                "index": 724,
+                "value": 1497,
+                "wavelength": 496.007,
+                "dark_value": 1497
+            },
+            {
+                "index": 725,
+                "value": 1500,
+                "wavelength": 496.486,
+                "dark_value": 1500
+            },
+            {
+                "index": 726,
+                "value": 1499,
+                "wavelength": 496.966,
+                "dark_value": 1499
+            },
+            {
+                "index": 727,
+                "value": 1505,
+                "wavelength": 497.446,
+                "dark_value": 1505
+            },
+            {
+                "index": 728,
+                "value": 1502,
+                "wavelength": 497.926,
+                "dark_value": 1502
+            },
+            {
+                "index": 729,
+                "value": 1499,
+                "wavelength": 498.406,
+                "dark_value": 1499
+            },
+            {
+                "index": 730,
+                "value": 1502,
+                "wavelength": 498.886,
+                "dark_value": 1502
+            },
+            {
+                "index": 731,
+                "value": 1501,
+                "wavelength": 499.366,
+                "dark_value": 1501
+            },
+            {
+                "index": 732,
+                "value": 1498,
+                "wavelength": 499.846,
+                "dark_value": 1498
+            },
+            {
+                "index": 733,
+                "value": 1502,
+                "wavelength": 500.326,
+                "dark_value": 1502
+            },
+            {
+                "index": 734,
+                "value": 1501,
+                "wavelength": 500.806,
+                "dark_value": 1501
+            },
+            {
+                "index": 735,
+                "value": 1498,
+                "wavelength": 501.287,
+                "dark_value": 1498
+            },
+            {
+                "index": 736,
+                "value": 1501,
+                "wavelength": 501.767,
+                "dark_value": 1501
+            },
+            {
+                "index": 737,
+                "value": 1502,
+                "wavelength": 502.248,
+                "dark_value": 1502
+            },
+            {
+                "index": 738,
+                "value": 1502,
+                "wavelength": 502.728,
+                "dark_value": 1502
+            },
+            {
+                "index": 739,
+                "value": 1499,
+                "wavelength": 503.209,
+                "dark_value": 1499
+            },
+            {
+                "index": 740,
+                "value": 1500,
+                "wavelength": 503.689,
+                "dark_value": 1500
+            },
+            {
+                "index": 741,
+                "value": 1501,
+                "wavelength": 504.17,
+                "dark_value": 1501
+            },
+            {
+                "index": 742,
+                "value": 1500,
+                "wavelength": 504.651,
+                "dark_value": 1500
+            },
+            {
+                "index": 743,
+                "value": 1505,
+                "wavelength": 505.132,
+                "dark_value": 1505
+            },
+            {
+                "index": 744,
+                "value": 1499,
+                "wavelength": 505.613,
+                "dark_value": 1499
+            },
+            {
+                "index": 745,
+                "value": 1499,
+                "wavelength": 506.094,
+                "dark_value": 1499
+            },
+            {
+                "index": 746,
+                "value": 1506,
+                "wavelength": 506.575,
+                "dark_value": 1506
+            },
+            {
+                "index": 747,
+                "value": 1504,
+                "wavelength": 507.056,
+                "dark_value": 1504
+            },
+            {
+                "index": 748,
+                "value": 1497,
+                "wavelength": 507.537,
+                "dark_value": 1497
+            },
+            {
+                "index": 749,
+                "value": 1500,
+                "wavelength": 508.019,
+                "dark_value": 1500
+            },
+            {
+                "index": 750,
+                "value": 1501,
+                "wavelength": 508.5,
+                "dark_value": 1501
+            },
+            {
+                "index": 751,
+                "value": 1501,
+                "wavelength": 508.982,
+                "dark_value": 1501
+            },
+            {
+                "index": 752,
+                "value": 1497,
+                "wavelength": 509.463,
+                "dark_value": 1497
+            },
+            {
+                "index": 753,
+                "value": 1498,
+                "wavelength": 509.945,
+                "dark_value": 1498
+            },
+            {
+                "index": 754,
+                "value": 1504,
+                "wavelength": 510.426,
+                "dark_value": 1504
+            },
+            {
+                "index": 755,
+                "value": 1502,
+                "wavelength": 510.908,
+                "dark_value": 1502
+            },
+            {
+                "index": 756,
+                "value": 1502,
+                "wavelength": 511.39,
+                "dark_value": 1502
+            },
+            {
+                "index": 757,
+                "value": 1497,
+                "wavelength": 511.872,
+                "dark_value": 1497
+            },
+            {
+                "index": 758,
+                "value": 1503,
+                "wavelength": 512.354,
+                "dark_value": 1503
+            },
+            {
+                "index": 759,
+                "value": 1506,
+                "wavelength": 512.836,
+                "dark_value": 1506
+            },
+            {
+                "index": 760,
+                "value": 1500,
+                "wavelength": 513.318,
+                "dark_value": 1500
+            },
+            {
+                "index": 761,
+                "value": 1496,
+                "wavelength": 513.8,
+                "dark_value": 1496
+            },
+            {
+                "index": 762,
+                "value": 1502,
+                "wavelength": 514.282,
+                "dark_value": 1502
+            },
+            {
+                "index": 763,
+                "value": 1503,
+                "wavelength": 514.764,
+                "dark_value": 1503
+            },
+            {
+                "index": 764,
+                "value": 1501,
+                "wavelength": 515.247,
+                "dark_value": 1501
+            },
+            {
+                "index": 765,
+                "value": 1501,
+                "wavelength": 515.729,
+                "dark_value": 1501
+            },
+            {
+                "index": 766,
+                "value": 1492,
+                "wavelength": 516.211,
+                "dark_value": 1492
+            },
+            {
+                "index": 767,
+                "value": 1505,
+                "wavelength": 516.694,
+                "dark_value": 1505
+            },
+            {
+                "index": 768,
+                "value": 1503,
+                "wavelength": 517.177,
+                "dark_value": 1503
+            },
+            {
+                "index": 769,
+                "value": 1501,
+                "wavelength": 517.659,
+                "dark_value": 1501
+            },
+            {
+                "index": 770,
+                "value": 1502,
+                "wavelength": 518.142,
+                "dark_value": 1502
+            },
+            {
+                "index": 771,
+                "value": 1502,
+                "wavelength": 518.625,
+                "dark_value": 1502
+            },
+            {
+                "index": 772,
+                "value": 1498,
+                "wavelength": 519.108,
+                "dark_value": 1498
+            },
+            {
+                "index": 773,
+                "value": 1501,
+                "wavelength": 519.591,
+                "dark_value": 1501
+            },
+            {
+                "index": 774,
+                "value": 1497,
+                "wavelength": 520.074,
+                "dark_value": 1497
+            },
+            {
+                "index": 775,
+                "value": 1502,
+                "wavelength": 520.557,
+                "dark_value": 1502
+            },
+            {
+                "index": 776,
+                "value": 1499,
+                "wavelength": 521.04,
+                "dark_value": 1499
+            },
+            {
+                "index": 777,
+                "value": 1501,
+                "wavelength": 521.523,
+                "dark_value": 1501
+            },
+            {
+                "index": 778,
+                "value": 1502,
+                "wavelength": 522.007,
+                "dark_value": 1502
+            },
+            {
+                "index": 779,
+                "value": 1499,
+                "wavelength": 522.49,
+                "dark_value": 1499
+            },
+            {
+                "index": 780,
+                "value": 1499,
+                "wavelength": 522.974,
+                "dark_value": 1499
+            },
+            {
+                "index": 781,
+                "value": 1505,
+                "wavelength": 523.457,
+                "dark_value": 1505
+            },
+            {
+                "index": 782,
+                "value": 1503,
+                "wavelength": 523.941,
+                "dark_value": 1503
+            },
+            {
+                "index": 783,
+                "value": 1502,
+                "wavelength": 524.425,
+                "dark_value": 1502
+            },
+            {
+                "index": 784,
+                "value": 1500,
+                "wavelength": 524.908,
+                "dark_value": 1500
+            },
+            {
+                "index": 785,
+                "value": 1498,
+                "wavelength": 525.392,
+                "dark_value": 1498
+            },
+            {
+                "index": 786,
+                "value": 1502,
+                "wavelength": 525.876,
+                "dark_value": 1502
+            },
+            {
+                "index": 787,
+                "value": 1499,
+                "wavelength": 526.36,
+                "dark_value": 1499
+            },
+            {
+                "index": 788,
+                "value": 1500,
+                "wavelength": 526.844,
+                "dark_value": 1500
+            },
+            {
+                "index": 789,
+                "value": 1498,
+                "wavelength": 527.328,
+                "dark_value": 1498
+            },
+            {
+                "index": 790,
+                "value": 1501,
+                "wavelength": 527.812,
+                "dark_value": 1501
+            },
+            {
+                "index": 791,
+                "value": 1499,
+                "wavelength": 528.297,
+                "dark_value": 1499
+            },
+            {
+                "index": 792,
+                "value": 1504,
+                "wavelength": 528.781,
+                "dark_value": 1504
+            },
+            {
+                "index": 793,
+                "value": 1501,
+                "wavelength": 529.266,
+                "dark_value": 1501
+            },
+            {
+                "index": 794,
+                "value": 1501,
+                "wavelength": 529.75,
+                "dark_value": 1501
+            },
+            {
+                "index": 795,
+                "value": 1502,
+                "wavelength": 530.235,
+                "dark_value": 1502
+            },
+            {
+                "index": 796,
+                "value": 1506,
+                "wavelength": 530.719,
+                "dark_value": 1506
+            },
+            {
+                "index": 797,
+                "value": 1501,
+                "wavelength": 531.204,
+                "dark_value": 1501
+            },
+            {
+                "index": 798,
+                "value": 1503,
+                "wavelength": 531.689,
+                "dark_value": 1503
+            },
+            {
+                "index": 799,
+                "value": 1506,
+                "wavelength": 532.174,
+                "dark_value": 1506
+            },
+            {
+                "index": 800,
+                "value": 1504,
+                "wavelength": 532.659,
+                "dark_value": 1504
+            },
+            {
+                "index": 801,
+                "value": 1500,
+                "wavelength": 533.144,
+                "dark_value": 1500
+            },
+            {
+                "index": 802,
+                "value": 1502,
+                "wavelength": 533.629,
+                "dark_value": 1502
+            },
+            {
+                "index": 803,
+                "value": 1500,
+                "wavelength": 534.114,
+                "dark_value": 1500
+            },
+            {
+                "index": 804,
+                "value": 1504,
+                "wavelength": 534.599,
+                "dark_value": 1504
+            },
+            {
+                "index": 805,
+                "value": 1495,
+                "wavelength": 535.084,
+                "dark_value": 1495
+            },
+            {
+                "index": 806,
+                "value": 1498,
+                "wavelength": 535.57,
+                "dark_value": 1498
+            },
+            {
+                "index": 807,
+                "value": 1503,
+                "wavelength": 536.055,
+                "dark_value": 1503
+            },
+            {
+                "index": 808,
+                "value": 1501,
+                "wavelength": 536.541,
+                "dark_value": 1501
+            },
+            {
+                "index": 809,
+                "value": 1503,
+                "wavelength": 537.026,
+                "dark_value": 1503
+            },
+            {
+                "index": 810,
+                "value": 1503,
+                "wavelength": 537.512,
+                "dark_value": 1503
+            },
+            {
+                "index": 811,
+                "value": 1496,
+                "wavelength": 537.998,
+                "dark_value": 1496
+            },
+            {
+                "index": 812,
+                "value": 1504,
+                "wavelength": 538.484,
+                "dark_value": 1504
+            },
+            {
+                "index": 813,
+                "value": 1501,
+                "wavelength": 538.97,
+                "dark_value": 1501
+            },
+            {
+                "index": 814,
+                "value": 1503,
+                "wavelength": 539.456,
+                "dark_value": 1503
+            },
+            {
+                "index": 815,
+                "value": 1506,
+                "wavelength": 539.942,
+                "dark_value": 1506
+            },
+            {
+                "index": 816,
+                "value": 1503,
+                "wavelength": 540.428,
+                "dark_value": 1503
+            },
+            {
+                "index": 817,
+                "value": 1503,
+                "wavelength": 540.914,
+                "dark_value": 1503
+            },
+            {
+                "index": 818,
+                "value": 1506,
+                "wavelength": 541.4,
+                "dark_value": 1506
+            },
+            {
+                "index": 819,
+                "value": 1499,
+                "wavelength": 541.887,
+                "dark_value": 1499
+            },
+            {
+                "index": 820,
+                "value": 1499,
+                "wavelength": 542.373,
+                "dark_value": 1499
+            },
+            {
+                "index": 821,
+                "value": 1505,
+                "wavelength": 542.86,
+                "dark_value": 1505
+            },
+            {
+                "index": 822,
+                "value": 1501,
+                "wavelength": 543.346,
+                "dark_value": 1501
+            },
+            {
+                "index": 823,
+                "value": 1503,
+                "wavelength": 543.833,
+                "dark_value": 1503
+            },
+            {
+                "index": 824,
+                "value": 1500,
+                "wavelength": 544.32,
+                "dark_value": 1500
+            },
+            {
+                "index": 825,
+                "value": 1502,
+                "wavelength": 544.806,
+                "dark_value": 1502
+            },
+            {
+                "index": 826,
+                "value": 1503,
+                "wavelength": 545.293,
+                "dark_value": 1503
+            },
+            {
+                "index": 827,
+                "value": 1501,
+                "wavelength": 545.78,
+                "dark_value": 1501
+            },
+            {
+                "index": 828,
+                "value": 1504,
+                "wavelength": 546.267,
+                "dark_value": 1504
+            },
+            {
+                "index": 829,
+                "value": 1501,
+                "wavelength": 546.754,
+                "dark_value": 1501
+            },
+            {
+                "index": 830,
+                "value": 1505,
+                "wavelength": 547.242,
+                "dark_value": 1505
+            },
+            {
+                "index": 831,
+                "value": 1503,
+                "wavelength": 547.729,
+                "dark_value": 1503
+            },
+            {
+                "index": 832,
+                "value": 1501,
+                "wavelength": 548.216,
+                "dark_value": 1501
+            },
+            {
+                "index": 833,
+                "value": 1499,
+                "wavelength": 548.704,
+                "dark_value": 1499
+            },
+            {
+                "index": 834,
+                "value": 1502,
+                "wavelength": 549.191,
+                "dark_value": 1502
+            },
+            {
+                "index": 835,
+                "value": 1499,
+                "wavelength": 549.679,
+                "dark_value": 1499
+            },
+            {
+                "index": 836,
+                "value": 1502,
+                "wavelength": 550.167,
+                "dark_value": 1502
+            },
+            {
+                "index": 837,
+                "value": 1503,
+                "wavelength": 550.654,
+                "dark_value": 1503
+            },
+            {
+                "index": 838,
+                "value": 1500,
+                "wavelength": 551.142,
+                "dark_value": 1500
+            },
+            {
+                "index": 839,
+                "value": 1505,
+                "wavelength": 551.63,
+                "dark_value": 1505
+            },
+            {
+                "index": 840,
+                "value": 1507,
+                "wavelength": 552.118,
+                "dark_value": 1507
+            },
+            {
+                "index": 841,
+                "value": 1499,
+                "wavelength": 552.606,
+                "dark_value": 1499
+            },
+            {
+                "index": 842,
+                "value": 1503,
+                "wavelength": 553.094,
+                "dark_value": 1503
+            },
+            {
+                "index": 843,
+                "value": 1504,
+                "wavelength": 553.582,
+                "dark_value": 1504
+            },
+            {
+                "index": 844,
+                "value": 1500,
+                "wavelength": 554.071,
+                "dark_value": 1500
+            },
+            {
+                "index": 845,
+                "value": 1503,
+                "wavelength": 554.559,
+                "dark_value": 1503
+            },
+            {
+                "index": 846,
+                "value": 1502,
+                "wavelength": 555.048,
+                "dark_value": 1502
+            },
+            {
+                "index": 847,
+                "value": 1503,
+                "wavelength": 555.536,
+                "dark_value": 1503
+            },
+            {
+                "index": 848,
+                "value": 1502,
+                "wavelength": 556.025,
+                "dark_value": 1502
+            },
+            {
+                "index": 849,
+                "value": 1499,
+                "wavelength": 556.513,
+                "dark_value": 1499
+            },
+            {
+                "index": 850,
+                "value": 1503,
+                "wavelength": 557.002,
+                "dark_value": 1503
+            },
+            {
+                "index": 851,
+                "value": 1498,
+                "wavelength": 557.491,
+                "dark_value": 1498
+            },
+            {
+                "index": 852,
+                "value": 1505,
+                "wavelength": 557.98,
+                "dark_value": 1505
+            },
+            {
+                "index": 853,
+                "value": 1504,
+                "wavelength": 558.469,
+                "dark_value": 1504
+            },
+            {
+                "index": 854,
+                "value": 1498,
+                "wavelength": 558.958,
+                "dark_value": 1498
+            },
+            {
+                "index": 855,
+                "value": 1499,
+                "wavelength": 559.447,
+                "dark_value": 1499
+            },
+            {
+                "index": 856,
+                "value": 1503,
+                "wavelength": 559.936,
+                "dark_value": 1503
+            },
+            {
+                "index": 857,
+                "value": 1501,
+                "wavelength": 560.426,
+                "dark_value": 1501
+            },
+            {
+                "index": 858,
+                "value": 1496,
+                "wavelength": 560.915,
+                "dark_value": 1496
+            },
+            {
+                "index": 859,
+                "value": 1504,
+                "wavelength": 561.405,
+                "dark_value": 1504
+            },
+            {
+                "index": 860,
+                "value": 1504,
+                "wavelength": 561.894,
+                "dark_value": 1504
+            },
+            {
+                "index": 861,
+                "value": 1505,
+                "wavelength": 562.384,
+                "dark_value": 1505
+            },
+            {
+                "index": 862,
+                "value": 1501,
+                "wavelength": 562.874,
+                "dark_value": 1501
+            },
+            {
+                "index": 863,
+                "value": 1503,
+                "wavelength": 563.363,
+                "dark_value": 1503
+            },
+            {
+                "index": 864,
+                "value": 1503,
+                "wavelength": 563.853,
+                "dark_value": 1503
+            },
+            {
+                "index": 865,
+                "value": 1508,
+                "wavelength": 564.343,
+                "dark_value": 1508
+            },
+            {
+                "index": 866,
+                "value": 1503,
+                "wavelength": 564.833,
+                "dark_value": 1503
+            },
+            {
+                "index": 867,
+                "value": 1499,
+                "wavelength": 565.323,
+                "dark_value": 1499
+            },
+            {
+                "index": 868,
+                "value": 1501,
+                "wavelength": 565.814,
+                "dark_value": 1501
+            },
+            {
+                "index": 869,
+                "value": 1501,
+                "wavelength": 566.304,
+                "dark_value": 1501
+            },
+            {
+                "index": 870,
+                "value": 1502,
+                "wavelength": 566.794,
+                "dark_value": 1502
+            },
+            {
+                "index": 871,
+                "value": 1503,
+                "wavelength": 567.285,
+                "dark_value": 1503
+            },
+            {
+                "index": 872,
+                "value": 1499,
+                "wavelength": 567.775,
+                "dark_value": 1499
+            },
+            {
+                "index": 873,
+                "value": 1504,
+                "wavelength": 568.266,
+                "dark_value": 1504
+            },
+            {
+                "index": 874,
+                "value": 1499,
+                "wavelength": 568.757,
+                "dark_value": 1499
+            },
+            {
+                "index": 875,
+                "value": 1501,
+                "wavelength": 569.247,
+                "dark_value": 1501
+            },
+            {
+                "index": 876,
+                "value": 1495,
+                "wavelength": 569.738,
+                "dark_value": 1495
+            },
+            {
+                "index": 877,
+                "value": 1501,
+                "wavelength": 570.229,
+                "dark_value": 1501
+            },
+            {
+                "index": 878,
+                "value": 1501,
+                "wavelength": 570.72,
+                "dark_value": 1501
+            },
+            {
+                "index": 879,
+                "value": 1505,
+                "wavelength": 571.211,
+                "dark_value": 1505
+            },
+            {
+                "index": 880,
+                "value": 1503,
+                "wavelength": 571.703,
+                "dark_value": 1503
+            },
+            {
+                "index": 881,
+                "value": 1498,
+                "wavelength": 572.194,
+                "dark_value": 1498
+            },
+            {
+                "index": 882,
+                "value": 1504,
+                "wavelength": 572.685,
+                "dark_value": 1504
+            },
+            {
+                "index": 883,
+                "value": 1501,
+                "wavelength": 573.177,
+                "dark_value": 1501
+            },
+            {
+                "index": 884,
+                "value": 1503,
+                "wavelength": 573.668,
+                "dark_value": 1503
+            },
+            {
+                "index": 885,
+                "value": 1504,
+                "wavelength": 574.16,
+                "dark_value": 1504
+            },
+            {
+                "index": 886,
+                "value": 1500,
+                "wavelength": 574.651,
+                "dark_value": 1500
+            },
+            {
+                "index": 887,
+                "value": 1503,
+                "wavelength": 575.143,
+                "dark_value": 1503
+            },
+            {
+                "index": 888,
+                "value": 1500,
+                "wavelength": 575.635,
+                "dark_value": 1500
+            },
+            {
+                "index": 889,
+                "value": 1506,
+                "wavelength": 576.127,
+                "dark_value": 1506
+            },
+            {
+                "index": 890,
+                "value": 1505,
+                "wavelength": 576.619,
+                "dark_value": 1505
+            },
+            {
+                "index": 891,
+                "value": 1497,
+                "wavelength": 577.111,
+                "dark_value": 1497
+            },
+            {
+                "index": 892,
+                "value": 1499,
+                "wavelength": 577.603,
+                "dark_value": 1499
+            },
+            {
+                "index": 893,
+                "value": 1503,
+                "wavelength": 578.096,
+                "dark_value": 1503
+            },
+            {
+                "index": 894,
+                "value": 1499,
+                "wavelength": 578.588,
+                "dark_value": 1499
+            },
+            {
+                "index": 895,
+                "value": 1499,
+                "wavelength": 579.08,
+                "dark_value": 1499
+            },
+            {
+                "index": 896,
+                "value": 1505,
+                "wavelength": 579.573,
+                "dark_value": 1505
+            },
+            {
+                "index": 897,
+                "value": 1503,
+                "wavelength": 580.066,
+                "dark_value": 1503
+            },
+            {
+                "index": 898,
+                "value": 1500,
+                "wavelength": 580.558,
+                "dark_value": 1500
+            },
+            {
+                "index": 899,
+                "value": 1500,
+                "wavelength": 581.051,
+                "dark_value": 1500
+            },
+            {
+                "index": 900,
+                "value": 1502,
+                "wavelength": 581.544,
+                "dark_value": 1502
+            },
+            {
+                "index": 901,
+                "value": 1505,
+                "wavelength": 582.037,
+                "dark_value": 1505
+            },
+            {
+                "index": 902,
+                "value": 1498,
+                "wavelength": 582.53,
+                "dark_value": 1498
+            },
+            {
+                "index": 903,
+                "value": 1500,
+                "wavelength": 583.023,
+                "dark_value": 1500
+            },
+            {
+                "index": 904,
+                "value": 1503,
+                "wavelength": 583.516,
+                "dark_value": 1503
+            },
+            {
+                "index": 905,
+                "value": 1502,
+                "wavelength": 584.009,
+                "dark_value": 1502
+            },
+            {
+                "index": 906,
+                "value": 1504,
+                "wavelength": 584.503,
+                "dark_value": 1504
+            },
+            {
+                "index": 907,
+                "value": 1499,
+                "wavelength": 584.996,
+                "dark_value": 1499
+            },
+            {
+                "index": 908,
+                "value": 1501,
+                "wavelength": 585.49,
+                "dark_value": 1501
+            },
+            {
+                "index": 909,
+                "value": 1502,
+                "wavelength": 585.983,
+                "dark_value": 1502
+            },
+            {
+                "index": 910,
+                "value": 1504,
+                "wavelength": 586.477,
+                "dark_value": 1504
+            },
+            {
+                "index": 911,
+                "value": 1503,
+                "wavelength": 586.971,
+                "dark_value": 1503
+            },
+            {
+                "index": 912,
+                "value": 1503,
+                "wavelength": 587.465,
+                "dark_value": 1503
+            },
+            {
+                "index": 913,
+                "value": 1504,
+                "wavelength": 587.959,
+                "dark_value": 1504
+            },
+            {
+                "index": 914,
+                "value": 1502,
+                "wavelength": 588.453,
+                "dark_value": 1502
+            },
+            {
+                "index": 915,
+                "value": 1497,
+                "wavelength": 588.947,
+                "dark_value": 1497
+            },
+            {
+                "index": 916,
+                "value": 1501,
+                "wavelength": 589.441,
+                "dark_value": 1501
+            },
+            {
+                "index": 917,
+                "value": 1503,
+                "wavelength": 589.935,
+                "dark_value": 1503
+            },
+            {
+                "index": 918,
+                "value": 1500,
+                "wavelength": 590.43,
+                "dark_value": 1500
+            },
+            {
+                "index": 919,
+                "value": 1503,
+                "wavelength": 590.924,
+                "dark_value": 1503
+            },
+            {
+                "index": 920,
+                "value": 1501,
+                "wavelength": 591.419,
+                "dark_value": 1501
+            },
+            {
+                "index": 921,
+                "value": 1500,
+                "wavelength": 591.914,
+                "dark_value": 1500
+            },
+            {
+                "index": 922,
+                "value": 1498,
+                "wavelength": 592.408,
+                "dark_value": 1498
+            },
+            {
+                "index": 923,
+                "value": 1502,
+                "wavelength": 592.903,
+                "dark_value": 1502
+            },
+            {
+                "index": 924,
+                "value": 1498,
+                "wavelength": 593.398,
+                "dark_value": 1498
+            },
+            {
+                "index": 925,
+                "value": 1502,
+                "wavelength": 593.893,
+                "dark_value": 1502
+            },
+            {
+                "index": 926,
+                "value": 1499,
+                "wavelength": 594.388,
+                "dark_value": 1499
+            },
+            {
+                "index": 927,
+                "value": 1506,
+                "wavelength": 594.883,
+                "dark_value": 1506
+            },
+            {
+                "index": 928,
+                "value": 1502,
+                "wavelength": 595.379,
+                "dark_value": 1502
+            },
+            {
+                "index": 929,
+                "value": 1502,
+                "wavelength": 595.874,
+                "dark_value": 1502
+            },
+            {
+                "index": 930,
+                "value": 1501,
+                "wavelength": 596.369,
+                "dark_value": 1501
+            },
+            {
+                "index": 931,
+                "value": 1505,
+                "wavelength": 596.865,
+                "dark_value": 1505
+            },
+            {
+                "index": 932,
+                "value": 1506,
+                "wavelength": 597.361,
+                "dark_value": 1506
+            },
+            {
+                "index": 933,
+                "value": 1502,
+                "wavelength": 597.856,
+                "dark_value": 1502
+            },
+            {
+                "index": 934,
+                "value": 1503,
+                "wavelength": 598.352,
+                "dark_value": 1503
+            },
+            {
+                "index": 935,
+                "value": 1497,
+                "wavelength": 598.848,
+                "dark_value": 1497
+            },
+            {
+                "index": 936,
+                "value": 1502,
+                "wavelength": 599.344,
+                "dark_value": 1502
+            },
+            {
+                "index": 937,
+                "value": 1505,
+                "wavelength": 599.84,
+                "dark_value": 1505
+            },
+            {
+                "index": 938,
+                "value": 1503,
+                "wavelength": 600.336,
+                "dark_value": 1503
+            },
+            {
+                "index": 939,
+                "value": 1504,
+                "wavelength": 600.832,
+                "dark_value": 1504
+            },
+            {
+                "index": 940,
+                "value": 1499,
+                "wavelength": 601.329,
+                "dark_value": 1499
+            },
+            {
+                "index": 941,
+                "value": 1501,
+                "wavelength": 601.825,
+                "dark_value": 1501
+            },
+            {
+                "index": 942,
+                "value": 1499,
+                "wavelength": 602.321,
+                "dark_value": 1499
+            },
+            {
+                "index": 943,
+                "value": 1503,
+                "wavelength": 602.818,
+                "dark_value": 1503
+            },
+            {
+                "index": 944,
+                "value": 1503,
+                "wavelength": 603.315,
+                "dark_value": 1503
+            },
+            {
+                "index": 945,
+                "value": 1502,
+                "wavelength": 603.812,
+                "dark_value": 1502
+            },
+            {
+                "index": 946,
+                "value": 1499,
+                "wavelength": 604.308,
+                "dark_value": 1499
+            },
+            {
+                "index": 947,
+                "value": 1503,
+                "wavelength": 604.805,
+                "dark_value": 1503
+            },
+            {
+                "index": 948,
+                "value": 1500,
+                "wavelength": 605.302,
+                "dark_value": 1500
+            },
+            {
+                "index": 949,
+                "value": 1502,
+                "wavelength": 605.799,
+                "dark_value": 1502
+            },
+            {
+                "index": 950,
+                "value": 1502,
+                "wavelength": 606.297,
+                "dark_value": 1502
+            },
+            {
+                "index": 951,
+                "value": 1496,
+                "wavelength": 606.794,
+                "dark_value": 1496
+            },
+            {
+                "index": 952,
+                "value": 1502,
+                "wavelength": 607.291,
+                "dark_value": 1502
+            },
+            {
+                "index": 953,
+                "value": 1499,
+                "wavelength": 607.789,
+                "dark_value": 1499
+            },
+            {
+                "index": 954,
+                "value": 1506,
+                "wavelength": 608.286,
+                "dark_value": 1506
+            },
+            {
+                "index": 955,
+                "value": 1504,
+                "wavelength": 608.784,
+                "dark_value": 1504
+            },
+            {
+                "index": 956,
+                "value": 1503,
+                "wavelength": 609.282,
+                "dark_value": 1503
+            },
+            {
+                "index": 957,
+                "value": 1503,
+                "wavelength": 609.78,
+                "dark_value": 1503
+            },
+            {
+                "index": 958,
+                "value": 1504,
+                "wavelength": 610.278,
+                "dark_value": 1504
+            },
+            {
+                "index": 959,
+                "value": 1503,
+                "wavelength": 610.776,
+                "dark_value": 1503
+            },
+            {
+                "index": 960,
+                "value": 1501,
+                "wavelength": 611.274,
+                "dark_value": 1501
+            },
+            {
+                "index": 961,
+                "value": 1501,
+                "wavelength": 611.772,
+                "dark_value": 1501
+            },
+            {
+                "index": 962,
+                "value": 1505,
+                "wavelength": 612.27,
+                "dark_value": 1505
+            },
+            {
+                "index": 963,
+                "value": 1506,
+                "wavelength": 612.769,
+                "dark_value": 1506
+            },
+            {
+                "index": 964,
+                "value": 1501,
+                "wavelength": 613.267,
+                "dark_value": 1501
+            },
+            {
+                "index": 965,
+                "value": 1499,
+                "wavelength": 613.766,
+                "dark_value": 1499
+            },
+            {
+                "index": 966,
+                "value": 1505,
+                "wavelength": 614.264,
+                "dark_value": 1505
+            },
+            {
+                "index": 967,
+                "value": 1502,
+                "wavelength": 614.763,
+                "dark_value": 1502
+            },
+            {
+                "index": 968,
+                "value": 1504,
+                "wavelength": 615.262,
+                "dark_value": 1504
+            },
+            {
+                "index": 969,
+                "value": 1501,
+                "wavelength": 615.761,
+                "dark_value": 1501
+            },
+            {
+                "index": 970,
+                "value": 1503,
+                "wavelength": 616.26,
+                "dark_value": 1503
+            },
+            {
+                "index": 971,
+                "value": 1505,
+                "wavelength": 616.759,
+                "dark_value": 1505
+            },
+            {
+                "index": 972,
+                "value": 1509,
+                "wavelength": 617.258,
+                "dark_value": 1509
+            },
+            {
+                "index": 973,
+                "value": 1503,
+                "wavelength": 617.757,
+                "dark_value": 1503
+            },
+            {
+                "index": 974,
+                "value": 1499,
+                "wavelength": 618.257,
+                "dark_value": 1499
+            },
+            {
+                "index": 975,
+                "value": 1507,
+                "wavelength": 618.756,
+                "dark_value": 1507
+            },
+            {
+                "index": 976,
+                "value": 1500,
+                "wavelength": 619.256,
+                "dark_value": 1500
+            },
+            {
+                "index": 977,
+                "value": 1501,
+                "wavelength": 619.756,
+                "dark_value": 1501
+            },
+            {
+                "index": 978,
+                "value": 1503,
+                "wavelength": 620.255,
+                "dark_value": 1503
+            },
+            {
+                "index": 979,
+                "value": 1503,
+                "wavelength": 620.755,
+                "dark_value": 1503
+            },
+            {
+                "index": 980,
+                "value": 1506,
+                "wavelength": 621.255,
+                "dark_value": 1506
+            },
+            {
+                "index": 981,
+                "value": 1503,
+                "wavelength": 621.755,
+                "dark_value": 1503
+            },
+            {
+                "index": 982,
+                "value": 1502,
+                "wavelength": 622.255,
+                "dark_value": 1502
+            },
+            {
+                "index": 983,
+                "value": 1501,
+                "wavelength": 622.756,
+                "dark_value": 1501
+            },
+            {
+                "index": 984,
+                "value": 1501,
+                "wavelength": 623.256,
+                "dark_value": 1501
+            },
+            {
+                "index": 985,
+                "value": 1504,
+                "wavelength": 623.756,
+                "dark_value": 1504
+            },
+            {
+                "index": 986,
+                "value": 1500,
+                "wavelength": 624.257,
+                "dark_value": 1500
+            },
+            {
+                "index": 987,
+                "value": 1501,
+                "wavelength": 624.757,
+                "dark_value": 1501
+            },
+            {
+                "index": 988,
+                "value": 1503,
+                "wavelength": 625.258,
+                "dark_value": 1503
+            },
+            {
+                "index": 989,
+                "value": 1505,
+                "wavelength": 625.759,
+                "dark_value": 1505
+            },
+            {
+                "index": 990,
+                "value": 1500,
+                "wavelength": 626.26,
+                "dark_value": 1500
+            },
+            {
+                "index": 991,
+                "value": 1494,
+                "wavelength": 626.761,
+                "dark_value": 1494
+            },
+            {
+                "index": 992,
+                "value": 1501,
+                "wavelength": 627.262,
+                "dark_value": 1501
+            },
+            {
+                "index": 993,
+                "value": 1504,
+                "wavelength": 627.763,
+                "dark_value": 1504
+            },
+            {
+                "index": 994,
+                "value": 1504,
+                "wavelength": 628.264,
+                "dark_value": 1504
+            },
+            {
+                "index": 995,
+                "value": 1503,
+                "wavelength": 628.765,
+                "dark_value": 1503
+            },
+            {
+                "index": 996,
+                "value": 1501,
+                "wavelength": 629.267,
+                "dark_value": 1501
+            },
+            {
+                "index": 997,
+                "value": 1497,
+                "wavelength": 629.768,
+                "dark_value": 1497
+            },
+            {
+                "index": 998,
+                "value": 1501,
+                "wavelength": 630.27,
+                "dark_value": 1501
+            },
+            {
+                "index": 999,
+                "value": 1504,
+                "wavelength": 630.772,
+                "dark_value": 1504
+            },
+            {
+                "index": 1000,
+                "value": 1497,
+                "wavelength": 631.274,
+                "dark_value": 1497
+            },
+            {
+                "index": 1001,
+                "value": 1500,
+                "wavelength": 631.776,
+                "dark_value": 1500
+            },
+            {
+                "index": 1002,
+                "value": 1502,
+                "wavelength": 632.278,
+                "dark_value": 1502
+            },
+            {
+                "index": 1003,
+                "value": 1506,
+                "wavelength": 632.78,
+                "dark_value": 1506
+            },
+            {
+                "index": 1004,
+                "value": 1500,
+                "wavelength": 633.282,
+                "dark_value": 1500
+            },
+            {
+                "index": 1005,
+                "value": 1503,
+                "wavelength": 633.784,
+                "dark_value": 1503
+            },
+            {
+                "index": 1006,
+                "value": 1501,
+                "wavelength": 634.287,
+                "dark_value": 1501
+            },
+            {
+                "index": 1007,
+                "value": 1506,
+                "wavelength": 634.789,
+                "dark_value": 1506
+            },
+            {
+                "index": 1008,
+                "value": 1499,
+                "wavelength": 635.292,
+                "dark_value": 1499
+            },
+            {
+                "index": 1009,
+                "value": 1501,
+                "wavelength": 635.794,
+                "dark_value": 1501
+            },
+            {
+                "index": 1010,
+                "value": 1504,
+                "wavelength": 636.297,
+                "dark_value": 1504
+            },
+            {
+                "index": 1011,
+                "value": 1505,
+                "wavelength": 636.8,
+                "dark_value": 1505
+            },
+            {
+                "index": 1012,
+                "value": 1502,
+                "wavelength": 637.303,
+                "dark_value": 1502
+            },
+            {
+                "index": 1013,
+                "value": 1502,
+                "wavelength": 637.806,
+                "dark_value": 1502
+            },
+            {
+                "index": 1014,
+                "value": 1504,
+                "wavelength": 638.309,
+                "dark_value": 1504
+            },
+            {
+                "index": 1015,
+                "value": 1506,
+                "wavelength": 638.812,
+                "dark_value": 1506
+            },
+            {
+                "index": 1016,
+                "value": 1500,
+                "wavelength": 639.316,
+                "dark_value": 1500
+            },
+            {
+                "index": 1017,
+                "value": 1499,
+                "wavelength": 639.819,
+                "dark_value": 1499
+            },
+            {
+                "index": 1018,
+                "value": 1503,
+                "wavelength": 640.323,
+                "dark_value": 1503
+            },
+            {
+                "index": 1019,
+                "value": 1502,
+                "wavelength": 640.826,
+                "dark_value": 1502
+            },
+            {
+                "index": 1020,
+                "value": 1502,
+                "wavelength": 641.33,
+                "dark_value": 1502
+            },
+            {
+                "index": 1021,
+                "value": 1500,
+                "wavelength": 641.834,
+                "dark_value": 1500
+            },
+            {
+                "index": 1022,
+                "value": 1501,
+                "wavelength": 642.338,
+                "dark_value": 1501
+            },
+            {
+                "index": 1023,
+                "value": 1499,
+                "wavelength": 642.842,
+                "dark_value": 1499
+            },
+            {
+                "index": 1024,
+                "value": 1502,
+                "wavelength": 643.346,
+                "dark_value": 1502
+            }
+        ]
+    }
+]}

@@ -1,0 +1,13 @@
+{
+    "key": "cells_ml",
+    "label": "cells/ml",
+    "category": "",
+    "width": 144,
+    "dynamic": "cells",
+    "header": "cells/ml",
+    "style": "text-align: center;",
+    "dataindex": "cells_ml",
+    "group": "cells",
+    "placeholder": null,
+    "translation":"cells"
+}

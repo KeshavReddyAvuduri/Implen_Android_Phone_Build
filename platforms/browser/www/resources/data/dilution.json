@@ -1,0 +1,21 @@
+[
+  {
+    "key":"lid15",
+    "label":"lid15",
+    "text":"15 (0.67 mm)",
+    "value":15,
+    "dilution_text": "15 / 0.67",
+    "volume":"1 - 2 µl"
+  },
+  {
+    "key":"lid140",
+    "label":"lid140",
+    "text":"140 (0.07 mm)",
+    "value":140,
+    "dilution_text": "140 / 0.07",
+    "volume":"0.3 - 2 µl"
+  }
+]
+
+
+

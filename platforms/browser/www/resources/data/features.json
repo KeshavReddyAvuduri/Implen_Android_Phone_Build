@@ -1,0 +1,186 @@
+[
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Assistance",
+    "label": "Assistance"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.ManualDilution",
+    "label": "Manual Dilution"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids",
+    "label": "Nucleic Acids"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.dsDNA",
+    "label": "Nucleic Acids (dsDNA)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.ssDNA",
+    "label": "Nucleic Acids (ssDNA)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.RNA",
+    "label": "Nucleic Acids (RNA)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.miRNA",
+    "label": "Nucleic Acids (miRNA)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.Oligo",
+    "label": "Nucleic Acids (Oligo)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.miRNAsequence",
+    "label": "Nucleic Acids (miRNA Sequence)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.Oligosequence",
+    "label": "Nucleic Acids (Oligo Sequence)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.NucleicAcids.Custom",
+    "label": "Nucleic Acids (Custom)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein",
+    "label": "Proteins"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.BSA",
+    "label": "Proteins (BSA)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.SAMouse",
+    "label": "Proteins (SA Mouse)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.SAHuman",
+    "label": "Proteins (SA Human)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.IgGMouse",
+    "label": "Proteins (IgG Mouse)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.IgGHuman",
+    "label": "Proteins (IgG Human)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.IgEHuman",
+    "label": "Proteins (IgE Human)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.IgYAvian",
+    "label": "Proteins (IgY Avian)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.Lysozyme",
+    "label": "Proteins (Lysozyme)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.OD1",
+    "label": "Proteins (OD1)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.MolExtCoefficient",
+    "label": "Proteins (Mol. Ext. Coeff.)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.ExtCoefficient",
+    "label": "Proteins (Ext. Coeff.)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Protein.ProteinFactor",
+    "label": "Proteins (Protein Factor)"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.ColorimetricAssay",
+    "label": "Proteins Assays"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.ColorimetricAssay.BCA",
+    "label": "BCA"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.ColorimetricAssay.Biuret",
+    "label": "Biuret"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.ColorimetricAssay.Bradford",
+    "label": "Bradford"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.ColorimetricAssay.Lowry",
+    "label": "Lowry"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Kinetics",
+    "label": "Kinetics"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.OD600",
+    "label": "OD600"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Wavelength",
+    "label": "Wave Length"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Wavescan",
+    "label": "Wave Scan"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.AbsorbanceRatio",
+    "label": "Absorbance/Ratio"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Concentration",
+    "label": "Concentration"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.CreateStandardCurve",
+    "label": "Create Standard Curve"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.StoredMethods",
+    "label": "Stored Methods"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Delete",
+    "label": "Delete"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Email",
+    "label": "Email"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Print",
+    "label": "Print"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Save",
+    "label": "Save"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.StoredResults",
+    "label": "Stored Results"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Preferences",
+    "label": "Preferences"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Preferences.Layout",
+    "label": "Layout"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Preferences.Dyes",
+    "label": "Dyes"
+  },
+  {
+    "key": "com.implen.nanophotometer.NanoApp.Preferences.General.DateAndTime",
+    "label": "Date and Time"
+  }
+]

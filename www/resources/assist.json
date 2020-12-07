@@ -1,0 +1,36 @@
+{
+    "data": [{
+            "headings": {
+                "one": "FOR ANY SUPPORT ISSUES AND QUESTIONS PLEASE CONTACT THE IMPLEN TEAM",
+                "two": "EUROPE,ASIA,SOUTH PACIFIC,MIDDLE EAST AND AFRICA",
+                "three": "NORTH AND SOUTH AMERICA"
+            },
+            "tabledata": {
+                "one": "IMplen GmbH",
+                "two": "T +498972637180",
+                "three": "Schatzbogen 52",
+                "four": "F +4989726371854",
+                "five":"81829 Munchen",
+                "six":"support@implen.de",
+                "seven":"Germany",
+                "eight":"www.implen.de"
+
+            },
+            "td":{
+                "one": "implen,Inc.",
+                "two": "T +1818748-6400",
+                "three": "Unit 104",
+                "four": "F +1818449-0416",
+                "five":"31194 La Baya Drive",
+                "six":"support@implen.com",
+                "seven":"Westlake Village,CA 9B62",
+                "eight":"www.implen.com",
+                "nine":"USA"
+            },
+            "legaldata":{
+                "one":"Software is copy right of Implen Inc.Implen Software includes some open source software components under the licenses listed below.",
+                "two":"NOTE:The open source notices and licences below apply only to the specific components obtained from and licensed by the third party source code providers",
+                "three":"open source licenses"
+            }
+        }]
+}

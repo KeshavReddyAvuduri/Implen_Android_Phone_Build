@@ -1,0 +1,86 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "NgsQcCustom",
+        "value": "NgsQcCustom"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "NgsQcCustom",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "NgsQcCustom",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "NgsQcCustom",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "NgsQcCustom",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "NgsQcCustom",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "NgsQcCustom",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "NgsQcCustom",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "NgsQcCustom",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "NgsQcCustom",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "NgsQcCustom",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "NgsQcCustom",
+        "value": 1.0
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "NgsQcCustom",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "NgsQcCustom",
+        "value": false
+    }
+]

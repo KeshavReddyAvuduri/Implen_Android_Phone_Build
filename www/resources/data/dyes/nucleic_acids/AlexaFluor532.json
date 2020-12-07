@@ -1,0 +1,12 @@
+{
+    "key": "AlexaFluor532",
+    "label": "Alexa Fluor 532",
+    "category": "nucleic_acids",
+    "custom": false,
+    "lock": true,
+    "w": 525,
+    "coe": 82300,
+    "cor": 0.24,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

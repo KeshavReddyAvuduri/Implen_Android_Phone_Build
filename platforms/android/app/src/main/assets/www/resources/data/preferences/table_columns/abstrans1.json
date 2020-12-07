@@ -1,0 +1,13 @@
+{
+    "key": "abstrans1",
+    "label": "Abs. 1/% Trans. 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}",
+    "header": "Abs. {index}/% Trans. {index}",
+    "dataindex": "w_{index}",
+    "group": "wavescan"
+}

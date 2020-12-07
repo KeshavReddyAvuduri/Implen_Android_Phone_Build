@@ -1,0 +1,14 @@
+{
+    "key": "fval_1",
+    "label": "Formula 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "fval_{index}",
+    "header": "Formula {index}",
+    "dataindex": "fval_{index}",
+    "group": "formula",
+    "translation":"text_Formula1"
+}

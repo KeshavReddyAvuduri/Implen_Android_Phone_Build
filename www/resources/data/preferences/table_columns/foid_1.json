@@ -1,0 +1,13 @@
+{
+    "key": "foid_1",
+    "label": "FOI",
+    "category": "",
+    "style": "text-align: center;",
+    "width": 85,
+    "dynamic": "d_{index}",
+    "header": "FOI {index}",
+    "dataindex": "foid_{index}",
+    "group": "dye",
+    "format": "float",
+    "decimal": 3
+}

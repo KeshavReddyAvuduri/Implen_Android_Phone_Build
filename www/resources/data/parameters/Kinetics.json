@@ -1,0 +1,193 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Kinetics",
+        "value": "Kinetics"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "Kinetics",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Kinetics",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Kinetics",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "Kinetics",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "Kinetics",
+        "value": true
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "Kinetics",
+        "value": true
+    },
+    {
+        "key": "w_1",
+        "label": "Kinetics 1",
+        "category": "Kinetics",
+        "value": 340
+    },
+    {
+        "key": "w_2",
+        "label": "Kinetics 2",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_3",
+        "label": "Kinetics 3",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_4",
+        "label": "Kinetics 4",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_5",
+        "label": "Kinetics 5",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_6",
+        "label": "Kinetics 6",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_7",
+        "label": "Kinetics 7",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_8",
+        "label": "Kinetics 8",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_9",
+        "label": "Kinetics 9",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_10",
+        "label": "Kinetics 10",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_11",
+        "label": "Kinetics 11",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_12",
+        "label": "Kinetics 12",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_13",
+        "label": "Kinetics 13",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_14",
+        "label": "Kinetics 14",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_15",
+        "label": "Kinetics 15",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_16",
+        "label": "Kinetics 16",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_17",
+        "label": "Kinetics 17",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_18",
+        "label": "Kinetics 18",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_19",
+        "label": "Kinetics 19",
+        "category": "Kinetics"
+    },
+    {
+        "key": "w_20",
+        "label": "Kinetics 20",
+        "category": "Kinetics"
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "Kinetics",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "Kinetics",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "Kinetics",
+        "value": 1.0
+    },
+    {
+        "key": "wavescan_mode",
+        "label": "Mode",
+        "category": "Kinetics",
+        "value": "absorbance"
+    },
+    {
+        "key": "duration",
+        "label": "Duration<br/>(min)",
+        "category": "Kinetics",
+        "value": 10
+    },
+    {
+        "key": "interval",
+        "label": "Interval<br/>(sec)",
+        "category": "Kinetics",
+        "value": 10
+    },
+    {
+        "key": "delayTime",
+        "label": "Delay Time<br/>(sec)",
+        "category": "Kinetics",
+        "value": 0
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Kinetics",
+        "value": false
+    }
+]

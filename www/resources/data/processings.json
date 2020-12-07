@@ -1,0 +1,26 @@
+{
+    "raw": {
+        "processings": [ ]
+    },
+    "smoothed": {
+        "processings": [
+            {
+                "algorithm": "smoothingbc1"
+            }
+        ]
+    },
+    "interpolated": {
+        "processings": [
+            {
+                "algorithm": "piecewise_linear"
+            }
+        ]
+    },
+    "beautified": {
+        "processings": [
+            {
+                "algorithm": "savitzkygolay"
+            }
+        ]
+    }
+}

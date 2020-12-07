@@ -1,0 +1,122 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "miRNAsequence",
+        "value": "miRNAsequence"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "miRNAsequence",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "miRNAsequence",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "miRNAsequence",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "miRNAsequence",
+        "value": 33
+    },
+    {
+        "key": "ot",
+        "label": "Oligo Type",
+        "category": "miRNAsequence",
+        "value": "rna"
+    },
+    {
+        "key": "os",
+        "label": "Oligo Sequence",
+        "category": "miRNAsequence",
+        "value": ""
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "miRNAsequence",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "miRNAsequence",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "dsDNA",
+        "category": "miRNAsequence",
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "miRNAsequence",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "miRNAsequence",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "miRNAsequence",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "miRNAsequence",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "miRNAsequence",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "miRNAsequence",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "miRNAsequence",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "miRNAsequence",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "miRNAsequence",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "miRNAsequence",
+        "value": "fast"
+    }
+]

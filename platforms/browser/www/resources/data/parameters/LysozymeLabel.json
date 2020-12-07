@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "LysozymeLabel",
+        "value": "LysozymeLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "LysozymeLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "LysozymeLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "LysozymeLabel",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "LysozymeLabel",
+        "value": 0.379
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "LysozymeLabel",
+        "value": "Lysozyme"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "LysozymeLabel",
+        "value": 14388
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "LysozymeLabel",
+        "value": 37984
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "LysozymeLabel",
+        "value": 2.6400
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "LysozymeLabel",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "LysozymeLabel",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "LysozymeLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "LysozymeLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "LysozymeLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "LysozymeLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "LysozymeLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "LysozymeLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "LysozymeLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "LysozymeLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "LysozymeLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "LysozymeLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "LysozymeLabel",
+        "value": "fast"
+    }
+]

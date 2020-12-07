@@ -1,0 +1,12 @@
+{
+    "key": "Oyster550",
+    "label": "Oyster-550",
+    "category": "nucleic_acids",
+    "custom": false,
+    "lock": true,
+    "w": 553,
+    "coe": 150000,
+    "cor": 0.05,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

@@ -1,0 +1,12 @@
+{
+    "key": "PacificBlue",
+    "label": "Pacific Blue",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 409,
+    "coe": 30000,
+    "cor": 0.20,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

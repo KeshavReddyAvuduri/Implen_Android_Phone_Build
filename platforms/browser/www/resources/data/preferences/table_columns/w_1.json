@@ -1,0 +1,11 @@
+{
+    "key": "w_1",
+    "label": "λ 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "dynamic": "w_{index}",
+    "header": "λ {index}",
+    "dataindex": "w_{index}",
+    "group": "wavescan"
+}

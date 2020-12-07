@@ -1,0 +1,10 @@
+{
+    "key": "c",
+    "label": "Conc.",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "cn",
+    "decimal": 4,
+    "translation":"concentration_Index"
+}

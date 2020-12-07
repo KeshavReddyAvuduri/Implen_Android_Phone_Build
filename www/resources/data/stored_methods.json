@@ -1,0 +1,63 @@
+{
+    "key": "Home",
+    "label": "Home",
+    "icon": "app/resources/images/DNA_icon_114x.png",
+    "leaf": false,
+    "disclosure": false,
+    "items": [ {
+        "NanoPhotometer": {
+            "Stored Methods": {
+                "My.json": {
+                    "key"       : "/home/nanophotometer/NanoPhotometer/StoredMethods/My",
+                    "label"     : "My.json",
+                    "icon"      : "app/resources/images/DNA_icon_114x.png",
+                    "stem"      : "My",
+                    "scope"     : "NanoPhotometer/Stored Methods/My.json",
+                    "kind"      : "file",
+                    "leaf"      : true,
+                    "disclosure": false
+                },
+                "Nucleic Acids": {
+                    "My dsDNA.json": {
+                        "key"       : "/home/nanophotometer/NanoPhotometer/StoredMethods/NucleicAcids/My_dsDNA",
+                        "label"     : "My dsDNA.json",
+                        "icon"      : "app/resources/images/DNA_icon_114x.png",
+                        "stem"      : "My dsDNA",
+                        "scope"     : "NanoPhotometer/Stored Methods/Nucleic Acids/My dsDNA.json",
+                        "kind"      : "file",
+                        "leaf"      : true,
+                        "disclosure": false
+                    },
+                    "Labels": {
+                        "My dsDNA Label.json": {
+                            "key"       : "/home/nanophotometer/NanoPhotometer/StoredMethods/NucleicAcids/Labels/My_dsDNALabel",
+                            "label"     : "My dsDNA Label.json",
+                            "icon"      : "app/resources/images/DNA_icon_114x.png",
+                            "stem"      : "My dsDNA Label",
+                            "scope"     : "NanoPhotometer/Stored Methods/Nucleic Acids/Labels/My dsDNA Label.json",
+                            "kind"      : "file",
+                            "leaf"      : true,
+                            "disclosure": false
+                        }
+                    }
+                },
+                "Proteins": {
+                    "Labels": {}
+                },
+                "General": {
+                    "My Wavescan.json": {
+                        "key"       : "/home/nanophotometer/NanoPhotometer/StoredMethods/General/My_Wavescan",
+                        "label"     : "My Wavescan.json",
+                        "icon"      : "app/resources/images/DNA_icon_114x.png",
+                        "stem"      : "My Wavescan",
+                        "scope"     : "NanoPhotometer/Stored Methods/General/My Wavescan.json",
+                        "kind"      : "file",
+                        "leaf"      : true,
+                        "disclosure": false,
+                        "model"     : "WavescanParameters"
+                    }
+                }
+            }
+        }
+    } ]
+}

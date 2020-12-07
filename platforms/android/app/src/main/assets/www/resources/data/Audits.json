@@ -1,0 +1,81 @@
+[
+  {
+    "category":"Audits",
+    "columns":[
+      {
+        "key":"id",
+        "label":"id",
+        "order": 1,
+        "details":{
+          "key":"id",
+          "label":"ID",
+          "category":"",
+          "translation":"text_id",
+          "width":50
+        }
+      },
+      {
+        "key":"date_time",
+        "label":"date_time",
+        "order": 2,
+        "details":{
+          "key":"date_time",
+          "label":"Date/Time",
+          "category":"",
+          "translation":"text_date_time",
+          "width":160
+        }
+      },
+      {
+        "key":"user",
+        "label":"user",
+        "order": 3,
+        "details":{
+          "key":"user",
+          "label":"Login Name",
+          "category":"",
+          "translation":"text_UserID",
+          "width":120
+        }
+      },
+      {
+        "key":"category",
+        "label":"category",
+        "order": 4,
+        "details":{
+          "key":"category",
+          "label":"Category",
+          "category":"",
+          "translation":"text_category",
+          "width":120
+        }
+      },
+      {
+        "key":"action",
+        "label":"action",
+        "order": 5,
+        "details":{
+          "key":"action",
+          "label":"Action",
+          "category":"",
+          "translation":"text_action",
+          "style":"text-align: left;",
+          "width":200
+        }
+      },
+      {
+        "key":"details",
+        "label":"details",
+        "order": 6,
+        "details":{
+          "key":"details",
+          "label":"Details",
+          "category":"",
+          "translation":"text_details",
+          "style":"text-align: left;",
+          "width":363
+        }
+      }
+    ]
+  }
+]

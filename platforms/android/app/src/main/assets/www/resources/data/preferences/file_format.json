@@ -1,0 +1,19 @@
+[{
+  "key": "excel",
+  "label": "Excel",
+  "category": "file_format",
+  "value": true
+}
+,{
+  "key": "ids",
+  "label": "IDS",
+  "category": "file_format",
+  "value": true
+}
+,{
+  "key": "pdf",
+  "label": "PDF",
+  "category": "file_format",
+  "value": true
+}
+]

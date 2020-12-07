@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NCReport version="2.17.0" name="Untitled" type="report">
+    <options>
+        <encoding>UTF-8</encoding>
+        <language>00</language>
+        <langrole>0</langrole>
+        <orientation>portrait</orientation>
+        <pagesize width="200.000" height="300.000">CUSTOM</pagesize>
+        <topmargin>10</topmargin>
+        <bottommargin>10</bottommargin>
+        <leftmargin>10</leftmargin>
+        <rightmargin>10</rightmargin>
+        <backcolor>#ffffff</backcolor>
+        <columns>0</columns>
+        <columnspace>0</columnspace>
+        <zoneSpacing>0</zoneSpacing>
+        <zoneBreak>false</zoneBreak>
+        <varErrorAlert>false</varErrorAlert>
+        <fontname>Arial</fontname>
+        <fontsize>8</fontsize>
+        <fontstyle></fontstyle>
+        <htmlBodyStyle>{DEFAULT}</htmlBodyStyle>
+        <doublePass>true</doublePass>
+    </options>
+    <datasources>
+        <datasource id="dymoHeader" allowEmpty="true" enabled="true" type="xml" openRole="begin" source="file">NCRdatasourcesDymo.xml</datasource>
+        <datasource id="dymoSamples" allowEmpty="true" enabled="true" type="xml" openRole="begin" source="file">NCRdatasourcesDymo.xml</datasource>
+    </datasources>
+    <variables/>
+    <scripts/>
+    <pageheader id="PH" height="14.287">
+        <label id="8D391" zValue="0" posX="0.000" posY="1.587" width="125.148" height="11.377" fontName="DejaVu Sans" fontSize="20" alignment="129">Implen NanoPhotometer®</label>
+        <line id="DYXWN" zValue="1" lineColor="#000000" lineStyle="solid" lineWidth="0.100" fromX="0.000" fromY="11.112" toX="138.112" toY="11.112"/>
+    </pageheader>
+    <pagefooter id="PF" height="12.960">
+        <field id="7O6XD" zValue="0" posX="14.287" posY="4.762" width="12.700" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="14" alignment="130" type="num" ftype="sys">pageno</field>
+        <field id="2DA8H" zValue="1" posX="155.575" posY="4.762" width="23.812" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="14" alignment="129" type="num" ftype="sys">time</field>
+        <label id="29K9A" zValue="2" posX="0.000" posY="3.175" width="20.373" height="9.525" fontName="DejaVu Sans" fontSize="14" alignment="129">Result</label>
+        <field id="KFUG6" zValue="3" posX="120.650" posY="4.762" width="33.337" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="14" alignment="129" type="txt" ftype="sys">date</field>
+        <field id="O8JZK" zValue="4" posX="31.750" posY="4.762" width="31.750" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="14" alignment="129" type="txt" ftype="sys">pagecount</field>
+        <label id="AFR3G" zValue="5" posX="28.575" posY="3.175" width="3.175" height="9.525" fontName="DejaVu Sans" fontSize="14" alignment="129">/</label>
+    </pagefooter>
+    <details>
+        <detail id="headerfooterDetail" height="7.408" datasource="dymoHeader">
+            <items>
+                <field id="HSM09" zValue="0" posX="0.000" posY="0.000" width="90.487" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="18" letterSpacing="-1" alignment="129" type="txt" ftype="ds">dymoHeader.UiName</field>
+                <field id="MZEBM" zValue="1" posX="95.250" posY="0.000" width="85.725" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="18" letterSpacing="-1" alignment="129" type="txt" ftype="ds">dymoHeader.UiValue</field>
+            </items>
+        </detail>
+        <detail id="DymoSamplesDetails" height="6.879" datasource="dymoSamples">
+            <items>
+                <field id="IO0AX" zValue="0" posX="0.000" posY="0.000" width="90.487" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="18" letterSpacing="-1" alignment="129" cf="1" type="txt" ftype="ds">
+                    <tr>dymoSamples.UiName</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}</cf>
+                </field>
+                <field id="5OOJQ" zValue="1" posX="95.250" posY="0.000" width="85.725" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="18" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>dymoSamples.UiValue</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+letter-spacing:1.0
+background-color:$D{dymoSamples.bgcolor}</cf>
+                </field>
+            </items>
+            <groups>
+                <group id="tableGroup" groupExp="dymoSamples.sampleNo" resetVariables="" reprintHeader="false" startsOnNewPage="false">
+                    <groupheader id="GH_tableGroup" height="0.000"/>
+                    <groupfooter id="GF_tableGroup" height="3.969"/>
+                </group>
+            </groups>
+        </detail>
+    </details>
+</NCReport>
+

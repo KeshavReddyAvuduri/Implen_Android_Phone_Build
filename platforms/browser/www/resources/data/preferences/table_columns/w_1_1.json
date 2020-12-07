@@ -1,0 +1,11 @@
+{
+    "key": "w_1_1",
+    "label": "λ 1-1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "dynamic": "w_{index}_1",
+    "header": "λ {index}-1",
+    "dataindex": "w_{index}_1",
+    "group": "absorbance_ratio"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Oligosequence",
+        "value": "Oligosequence"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "Oligosequence",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Oligosequence",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Oligosequence",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "Oligosequence",
+        "value": 33
+    },
+    {
+        "key": "ot",
+        "label": "Oligo Type",
+        "category": "Oligosequence",
+        "value": "dna"
+    },
+    {
+        "key": "os",
+        "label": "Oligo Sequence",
+        "category": "Oligosequence",
+        "value": ""
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "Oligosequence",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "Oligosequence",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "Oligosequence",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "Oligosequence",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "Oligosequence",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "Oligosequence",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "Oligosequence",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "Oligosequence",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "Oligosequence",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "Oligosequence",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Oligosequence",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "Oligosequence",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "Oligosequence",
+        "value": "fast"
+    }
+]

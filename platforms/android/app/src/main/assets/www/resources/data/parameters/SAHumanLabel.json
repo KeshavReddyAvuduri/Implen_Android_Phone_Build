@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "SAHumanLabel",
+        "value": "SAHumanLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "SAHumanLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "SAHumanLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "SAHumanLabel",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "SAHumanLabel",
+        "value": 1.718
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "SAHumanLabel",
+        "value": "SAHuman"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "SAHumanLabel",
+        "value": 69365
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "SAHumanLabel",
+        "value": 40370
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "SAHumanLabel",
+        "value": 0.5820
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "SAHumanLabel",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "SAHumanLabel",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "SAHumanLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "SAHumanLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "SAHumanLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "SAHumanLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "SAHumanLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "SAHumanLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "SAHumanLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "SAHumanLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "SAHumanLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "SAHumanLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "SAHumanLabel",
+        "value": "fast"
+    }
+]

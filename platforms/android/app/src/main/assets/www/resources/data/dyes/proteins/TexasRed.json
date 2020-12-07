@@ -1,0 +1,12 @@
+{
+    "key": "TexasRed",
+    "label": "Texas Red",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 595,
+    "coe": 80000,
+    "cor": 0.18,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

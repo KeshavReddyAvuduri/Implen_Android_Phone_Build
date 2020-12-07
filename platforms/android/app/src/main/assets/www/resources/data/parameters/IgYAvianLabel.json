@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "IgYAvianLabel",
+        "value": "IgYAvianLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "IgYAvianLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "IgYAvianLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "IgYAvianLabel",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "IgYAvianLabel",
+        "value": 0.78
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "IgYAvianLabel",
+        "value": "IgYAvian"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "IgYAvianLabel",
+        "value": 69000
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "IgYAvianLabel",
+        "value": 47800
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "IgYAvianLabel",
+        "value": 0.69
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "IgYAvianLabel",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "IgYAvianLabel",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "IgYAvianLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "IgYAvianLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "IgYAvianLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "IgYAvianLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "IgYAvianLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "IgYAvianLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "IgYAvianLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "IgYAvianLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "IgYAvianLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "IgYAvianLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "IgYAvianLabel",
+        "value": "fast"
+    }
+]

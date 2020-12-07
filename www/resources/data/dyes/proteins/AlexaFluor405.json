@@ -1,0 +1,12 @@
+{
+    "key": "AlexaFluor405",
+    "label": "Alexa Fluor 405",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 401,
+    "coe": 34500,
+    "cor": 0.70,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

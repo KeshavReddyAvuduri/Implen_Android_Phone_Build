@@ -1,0 +1,26 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "DbMatching",
+        "value": "DbMatching"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "DbMatching",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "DbMatching",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "DbMatching",
+        "value": 50
+    }
+]

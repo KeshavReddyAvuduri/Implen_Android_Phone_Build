@@ -1,0 +1,22 @@
+{
+    "a230" : 0.026,
+    "a260" : 0.011,
+    "a260_a230" : 0.444,
+    "a260_a280" : 1.5,
+    "a280" : 0.007,
+    "a320" : -0.001,
+    "amax" : 0.0345,
+    "amin" : -0.01034,
+    "c" : 3.944,
+    "category" : "",
+    "created" : "20140918T133016",
+    "description" : "",
+    "key" : "20140615T164930",
+    "label" : "Sample23",
+    "lf" : 10.0,
+    "method" : "Oligosequence",
+    "n" : 24,
+    "reference" : false,
+    "saved" : false,
+    "u" : "ugml"
+}

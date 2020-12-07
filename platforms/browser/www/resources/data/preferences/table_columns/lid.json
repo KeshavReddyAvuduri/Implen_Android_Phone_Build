@@ -1,0 +1,12 @@
+{
+    "key": "lid",
+    "label": "Lid",
+    "category": "",
+    "width": 57,
+    "dynamic": "lid",
+    "header": "Lid",
+    "style": "text-align: center;",
+    "dataindex": "lid",
+    "group": "lid",
+    "placeholder": null
+}

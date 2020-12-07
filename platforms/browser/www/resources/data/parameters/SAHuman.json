@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "SAHuman",
+        "value": "SAHuman"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "SAHuman",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "SAHuman",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "SAHuman",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "SAHuman",
+        "value": 1.718
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "SAHuman",
+        "value": "SAHuman"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "SAHuman",
+        "value": 69365
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "SAHuman",
+        "value": 40370
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "SAHuman",
+        "value": 0.5820
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "SAHuman",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "SAHuman",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "SAHuman",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "SAHuman",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "SAHuman",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "SAHuman",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "SAHuman",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "SAHuman",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "SAHuman",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "SAHuman",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "SAHuman",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "SAHuman",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "SAHuman",
+        "value": "fast"
+    }
+]

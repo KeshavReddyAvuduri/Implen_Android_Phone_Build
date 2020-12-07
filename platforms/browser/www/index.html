@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Connect to NanoPhotometer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+</head>
+
+<body style="font-family: Arial, Helvetica, 'sans-serif'; background:#000;margin:0; padding:0px">
+<div style="background:#eeeeee; width:316px;  height:auto; margin:0 auto;border-radius:15px;overflow:auto; padding-bottom:15px;padding-top: 3px;position:absolute; top:50%; left:50%; margin:-200px 0 0 -158px;font-size: 16px;	line-height: 1.5em; text-align:center;">
+  <table style="width:316px; margin:0 auto;padding:0px;"  >
+    <tr>
+      <td colspan="2" style="text-align:center;"><img src="resources/images/implen-logo.png" alt="implen logo"/></td>
+    </tr>
+    <tr>
+      <td colspan="2"><p style="text-align: center;color: #000;font-size: 18px;font-weight: 600;line-height: 1.1em;">Connect to NanoPhotometer®</p></td>
+    </tr>
+    <tr>
+      <td style="width:136px;padding:5px 5px 5px 15px; border-right:1px solid #eeeeee;vertical-align:top; text-align:left;"><input type="radio" name="RadioButtons1" id="Radio1" class="circle">
+        <label for="Radio1" style="font-weight:600;">HotSpot </label>
+        <p>Please connect <br />
+          device WiFi to <br />
+          NanoPhotometer HotSpot</p></td>
+      <td style="width:136px;padding:5px 15px 5px 5px; border-left:1px solid #ffffff;vertical-align:top;text-align:left;"><input type="radio" name="RadioButtons1" id="Radio2" class="circle">
+        <label for="Radio2" style="font-weight:600;">IP Address </label>
+        <p>Current IP address <br />
+          can be found in<br />
+          <img src="resources/images/implen-preferences.png" width="17" height="17" alt="implen"/> Preferences <br />
+          <input type="text" name="ip" id="ip" style="font-size: 15px;
+	height: 25px;width:132px;">
+          <label for="ip"> </label>
+        </p></td>
+    </tr>
+    <tr>
+      <td style="width:136px;padding:5px 5px 5px 15px;"><button style="border-radius: 7px;
+	background: #019ede;
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 10px; width:100%;" id="Cancel">cancel</button></td>
+      <td style="width:136px;padding:5px 15px 5px 5px; "><button style="border-radius: 7px;
+	background: #019ede;
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 10px; width:100%;" id="Connect">ok</button></td>
+    </tr>
+  </table>
+</div>
+<script type="text/javascript" src="cordova.js"> </script>
+<script type="text/javascript">
+    connectNanophotometer = function(){
+        var ipAddress = document.getElementById("Radio2"),
+            value = "192.168.8.1";
+        if (ipAddress.checked){
+            value = document.getElementById("ip").value;
+            if (value === "") {
+                return;
+            }
+            localStorage.ipAddress = value;
+            localStorage.selected = "ipAddress";
+        } else {
+            localStorage.selected = "hotSpot";
+        }
+        var target = "index_.html?host=" + value;
+        window.location.href = target;
+    };
+    focusIp = function(){
+        document.getElementById("Radio2").checked = true;
+    };
+    exitApp = function(){
+        navigator.app.exitApp();
+    };
+    var ipAddress = localStorage.ipAddress,
+        selected = localStorage.selected;
+    if (ipAddress !== undefined) {
+        document.getElementById("ip").value = ipAddress;
+    }
+    if (selected === undefined || selected === "hotSpot")
+    {
+        document.getElementById("Radio1").checked = true;
+    }
+    if (selected === "ipAddress") {
+        document.getElementById("Radio2").checked = true;
+    }
+    document.getElementById("ip").onfocus = focusIp;
+    document.getElementById("Connect").onclick = connectNanophotometer;
+    document.getElementById("Cancel").onclick = exitApp;
+</script></body>
+</html>

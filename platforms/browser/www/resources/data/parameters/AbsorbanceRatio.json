@@ -1,0 +1,270 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "AbsorbanceRatio",
+        "value": "AbsorbanceRatio"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "AbsorbanceRatio",
+        "value": 15
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "AbsorbanceRatio",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "AbsorbanceRatio",
+        "value": 50
+    },
+    {
+        "key": "w_1_1",
+        "label": "Wavelength 1-1<br/>(nm)",
+        "category": "AbsorbanceRatio",
+        "value": 260
+    },
+    {
+        "key": "w_1_2",
+        "label": "Wavelength 1-2<br/>(nm)",
+        "category": "AbsorbanceRatio",
+        "value": 280
+    },
+    {
+        "key": "w_2_1",
+        "label": "Wavelength 2-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_2_2",
+        "label": "Wavelength 2-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_3_1",
+        "label": "Wavelength 3-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_3_2",
+        "label": "Wavelength 3-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_4_1",
+        "label": "Wavelength 4-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_4_2",
+        "label": "Wavelength 4-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_5_1",
+        "label": "Wavelength 5-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_5_2",
+        "label": "Wavelength 5-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_6_1",
+        "label": "Wavelength 6-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_6_2",
+        "label": "Wavelength 6-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_7_1",
+        "label": "Wavelength 7-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_7_2",
+        "label": "Wavelength 7-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_8_1",
+        "label": "Wavelength 8-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_8_2",
+        "label": "Wavelength 8-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_9_1",
+        "label": "Wavelength 9-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_9_2",
+        "label": "Wavelength 9-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_10_1",
+        "label": "Wavelength 10-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_10_2",
+        "label": "Wavelength 10-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_11_1",
+        "label": "Wavelength 11-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_11_2",
+        "label": "Wavelength 11-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_12_1",
+        "label": "Wavelength 12-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_12_2",
+        "label": "Wavelength 12-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_13_1",
+        "label": "Wavelength 13-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_13_2",
+        "label": "Wavelength 13-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_14_1",
+        "label": "Wavelength 14-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_14_2",
+        "label": "Wavelength 14-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_15_1",
+        "label": "Wavelength 15-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_15_2",
+        "label": "Wavelength 15-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_16_1",
+        "label": "Wavelength 16-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_16_2",
+        "label": "Wavelength 16-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_17_1",
+        "label": "Wavelength 17-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_17_2",
+        "label": "Wavelength 17-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_18_1",
+        "label": "Wavelength 18-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_18_2",
+        "label": "Wavelength 18-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_19_1",
+        "label": "Wavelength 19-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_19_2",
+        "label": "Wavelength 19-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_20_1",
+        "label": "Wavelength 20-1<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+        "key": "w_20_2",
+        "label": "Wavelength 20-2<br/>(nm)",
+        "category": "AbsorbanceRatio"
+    },
+    {
+      "key": "baseline",
+      "label": "Baseline Correction",
+      "category": "AbsorbanceRatio",
+      "value": 0
+    },
+    {
+      "key": "smoothing",
+      "label": "Smoothing",
+      "category": "AbsorbanceRatio",
+      "value": 1
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "AbsorbanceRatio",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "AbsorbanceRatio",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "AbsorbanceRatio",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "AbsorbanceRatio",
+        "value": 1.0
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "AbsorbanceRatio",
+        "value": false
+    }
+]

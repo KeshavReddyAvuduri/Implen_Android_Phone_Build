@@ -1,0 +1,12 @@
+{
+    "key": "AlexaFluor647",
+    "label": "Alexa Fluor 647",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 650,
+    "coe": 239000,
+    "cor": 0.03,
+    "show": true,
+    "device_classes": "C40, N60, NP80, N120"
+}

@@ -1,0 +1,15 @@
+[
+    {
+      "label": "SelfTest",
+      "key":0,
+      "reference":"SELFTEST"
+    }
+    // commenting the code for implementing the #80975. 
+    // {
+    //   "label": "PerformanceCheck",
+    //   "key":1,
+    //   "reference":"PERFORMANCECHECK"
+    // }
+   
+  ]
+

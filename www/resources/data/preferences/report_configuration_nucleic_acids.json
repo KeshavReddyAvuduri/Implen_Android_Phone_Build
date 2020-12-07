@@ -1,0 +1,101 @@
+[{
+    "key": "a230",
+    "label": "A230",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "a260",
+    "label": "A260",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "a260_a230",
+    "label": "A260/A230",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "a260_a280",
+    "label": "A260/A280",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "a280",
+    "label": "A280",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "a320",
+    "label": "A320",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+
+}
+,{
+    "key": "ad_1",
+    "label": "Dye Abs. (max)",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "c",
+    "label": "Conc.",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "cd_1",
+    "label": "Dye Conc.",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "du",
+    "label": "Dye Units",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "foid_1",
+    "label": "FOI",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "lid",
+    "label": "Lid",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+},{
+    "key": "method",
+    "label": "Method",
+    "category": "report_configuration_nucleic_acids",
+    "value": false
+}
+,{
+    "key": "naf",
+    "label": "1/Ɛ",
+    "category": "report_configuration_nucleic_acids",
+    "value": false
+}
+,{
+    "key": "u",
+    "label": "Units",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+}
+,{
+    "key": "vdf",
+    "label": "Dilution",
+    "category": "report_configuration_nucleic_acids",
+    "value": true
+},{
+    "key": "w320",
+    "label": "λ-2",
+    "category": "report_configuration_nucleic_acids",
+    "value": false
+}]

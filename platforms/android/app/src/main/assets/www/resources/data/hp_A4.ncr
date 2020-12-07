@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NCReport version="2.17.0" name="Untitled" type="report">
+    <options>
+        <encoding>UTF-8</encoding>
+        <language>00</language>
+        <langrole>0</langrole>
+        <orientation>portrait</orientation>
+        <pagesize width="210.000" height="297.000">A4</pagesize>
+        <topmargin>10</topmargin>
+        <bottommargin>10</bottommargin>
+        <leftmargin>10</leftmargin>
+        <rightmargin>10</rightmargin>
+        <backcolor>#ffffff</backcolor>
+        <columns>0</columns>
+        <columnspace>0</columnspace>
+        <zoneSpacing>0</zoneSpacing>
+        <zoneBreak>false</zoneBreak>
+        <varErrorAlert>false</varErrorAlert>
+        <fontname>Liberation Sans</fontname>
+        <fontsize>8</fontsize>
+        <fontstyle></fontstyle>
+        <htmlBodyStyle>{DEFAULT}</htmlBodyStyle>
+        <doublePass>true</doublePass>
+    </options>
+    <datasources>
+        <datasource id="hpHeader" allowEmpty="true" enabled="true" type="xml" openRole="begin" source="file">NCRdatasourcesHP.xml</datasource>
+        <datasource id="hpSamples" allowEmpty="true" enabled="true" type="xml" openRole="begin" source="file">NCRdatasourcesHP.xml</datasource>
+    </datasources>
+    <variables/>
+    <scripts/>
+    <pageheader id="PH" height="14.290">
+        <label id="8D391" zValue="0" posX="0.000" posY="1.587" width="125.148" height="11.377" fontName="DejaVu Sans" fontSize="14" alignment="129">Implen NanoPhotometer®</label>
+        <line id="DYXWN" zValue="1" lineColor="#000000" lineStyle="solid" lineWidth="0.100" fromX="0.000" fromY="11.112" toX="138.112" toY="11.112"/>
+    </pageheader>
+    <pagefooter id="PF" height="9.525">
+        <field id="7O6XD" zValue="0" posX="15.875" posY="1.587" width="12.700" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="10" alignment="130" type="num" ftype="sys">pageno</field>
+        <field id="2DA8H" zValue="1" posX="157.162" posY="1.587" width="23.812" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="10" alignment="129" type="num" ftype="sys">time</field>
+        <label id="29K9A" zValue="2" posX="1.587" posY="0.000" width="20.373" height="9.525" fontName="DejaVu Sans" fontSize="10" alignment="129">Result</label>
+        <field id="KFUG6" zValue="3" posX="122.237" posY="1.587" width="33.337" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="10" alignment="129" type="txt" ftype="sys">date</field>
+        <field id="O8JZK" zValue="4" posX="33.337" posY="1.587" width="31.750" height="6.350" resource="sysvar" fontName="DejaVu Sans" fontSize="10" alignment="129" type="txt" ftype="sys">pagecount</field>
+        <label id="AFR3G" zValue="5" posX="30.162" posY="0.000" width="3.175" height="9.525" fontName="DejaVu Sans" fontSize="10" alignment="129">/</label>
+    </pagefooter>
+    <reportfooter id="RF" height="111.125">
+        <image id="PQM57" zValue="0" posX="0.000" posY="0.587" width="153.987" height="117.475" resource="file" aspectRatio="keep" format="0" alignment="1">plot.png</image>
+    </reportfooter>
+    <details>
+        <detail id="headerfooterDetail" height="5.556" datasource="hpHeader">
+            <items>
+                <field id="HSM09" zValue="0" posX="0.000" posY="0.000" width="46.037" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="10" letterSpacing="-1" alignment="129" type="txt" ftype="ds">hpHeader.Name</field>
+                <field id="MZEBM" zValue="1" posX="47.625" posY="0.000" width="140" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="10" letterSpacing="-1" alignment="129" type="txt" ftype="ds">hpHeader.Value</field>
+            </items>
+        </detail>
+        <detail id="hpSamplesDetails" height="5.556" datasource="hpSamples">
+            <items>
+                <field id="IO0AX" zValue="0" posX="0.000" posY="0.000" width="33.337" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value0</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor0}</cf>
+                </field>
+                <field id="TYZDB" zValue="1" posX="6.085" posY="0.000" width="162" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value1</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor1}</cf>
+                </field>
+                <field id="39KF7" zValue="2" posX="28.046" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value2</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor2}</cf>
+                </field>
+                <field id="5Z0JD" zValue="3" posX="45" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value3</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor3}</cf>
+                </field>
+                <field id="C7O6X" zValue="4" posX="63" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value4</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor4}</cf>
+                </field>
+                <field id="DS3AC" zValue="5" posX="81" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value5</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor5}</cf>
+                </field>
+                <field id="52DA8" zValue="6" posX="99" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value6</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor6}</cf>
+                </field>
+                <field id="H2717" zValue="7" posX="117" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value7</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor7}</cf>
+                </field>
+                <field id="4B61F" zValue="8" posX="135" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value8</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor8}</cf>
+                </field>
+                <field id="D58J4" zValue="9" posX="153" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value9</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor9}</cf>
+                </field>
+                <field id="0HS9C" zValue="10" posX="170" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value10</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor10}</cf>
+                </field>
+                <field id="0HS9C" zValue="11" posX="187" posY="0.000" width="80" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="8" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.Value11</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}
+background-color:$D{hpSamples.bgcolor11}</cf>
+                </field>
+                <field id="XVSB9" zValue="12" posX="0.000" posY="0.000" width="46.037" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="10" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.ParName0</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}</cf>
+                </field>
+                <field id="BUNBC" zValue="13" posX="47.625" posY="0.000" width="33.337" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="10" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.ParValue0</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}</cf>
+                </field>
+                <field id="XVSBA" zValue="14" posX="100.012" posY="0.000" width="46.037" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="10" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.ParName1</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}</cf>
+                </field>
+                <field id="BUNBA" zValue="15" posX="140.758" posY="0.000" width="33.337" height="6.350" resource="datasource" fontName="DejaVu Sans" fontSize="10" letterSpacing="-1" alignment="129" bgMode="fb" backcolor="#ffffff" cf="1" type="txt" ftype="ds">
+                    <tr>hpSamples.ParValue1</tr>
+                    <cf>font-bold:{if(&quot;$D{headline}&quot;==&quot;true&quot;) true; else false;}</cf>
+                </field>
+            </items>
+            <groups>
+                <group id="tableGroup" groupExp="hpSamples.sampleNo" resetVariables="" reprintHeader="false" startsOnNewPage="false">
+                    <groupheader id="GH_tableGroup" height="0.000"/>
+                    <groupfooter id="GF_tableGroup" height="0.529"/>
+                </group>
+            </groups>
+        </detail>
+    </details>
+</NCReport>

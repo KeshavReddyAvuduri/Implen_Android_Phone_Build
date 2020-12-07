@@ -1,0 +1,12 @@
+{
+    "key": "PacificOrange",
+    "label": "Pacific Orange",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 397,
+    "coe": 24500,
+    "cor": 0.60,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

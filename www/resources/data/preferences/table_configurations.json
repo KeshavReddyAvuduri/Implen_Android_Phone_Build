@@ -1,0 +1,7609 @@
+[{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_a_1_1",
+    "label": "a_1_1",
+    "order": 5
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_a_1_2",
+    "label": "a_1_2",
+    "order": 7
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_cclass",
+    "label": "cclass"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_md",
+    "label": "md"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_method",
+    "label": "method"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_model_number",
+    "label": "model_number"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_pathlength",
+    "label": "pathlength"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_r_1",
+    "label": "r_1",
+    "order": 3
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_serial_number",
+    "label": "serial_number"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_software_version",
+    "label": "software_version"
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_w_1_1",
+    "label": "w_1_1",
+    "order": 4
+},{
+    "category": "AbsorbanceRatio",
+    "key": "AbsorbanceRatio_w_1_2",
+    "label": "w_1_2",
+    "order": 6
+},{
+    "category": "Audit",
+    "key": "Audit_action",
+    "label": "action",
+    "order": 5
+},{
+    "category": "Audit",
+    "key": "Audit_category",
+    "label": "category",
+    "order": 4
+},{
+    "category": "Audit",
+    "key": "Audit_date_time",
+    "label": "date_time",
+    "order": 2
+},{
+    "category": "Audit",
+    "key": "Audit_details",
+    "label": "details",
+    "order": 6
+},{
+    "category": "Audit",
+    "key": "Audit_id",
+    "label": "id",
+    "order": 1
+},{
+    "category": "Audit",
+    "key": "Audit_user",
+    "label": "user",
+    "order": 3
+},{
+    "category": "BCA",
+    "key": "BCA_a",
+    "label": "a",
+    "order": 5
+},{
+    "category": "BCA",
+    "key": "BCA_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "BCA",
+    "key": "BCA_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "BCA",
+    "key": "BCA_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "BCA",
+    "key": "BCA_curve_fit",
+    "label": "curve_fit"
+},{
+    "category": "BCA",
+    "key": "BCA_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "BCA",
+    "key": "BCA_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "BCA",
+    "key": "BCA_md",
+    "label": "md"
+},{
+    "category": "BCA",
+    "key": "BCA_mean",
+    "label": "mean"
+},{
+    "category": "BCA",
+    "key": "BCA_method",
+    "label": "method"
+},{
+    "category": "BCA",
+    "key": "BCA_model_number",
+    "label": "model_number"
+},{
+    "category": "BCA",
+    "key": "BCA_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "BCA",
+    "key": "BCA_pathlength",
+    "label": "pathlength"
+},{
+    "category": "BCA",
+    "key": "BCA_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "BCA",
+    "key": "BCA_rp_1_1",
+    "label": "rp_1_1"
+},{
+    "category": "BCA",
+    "key": "BCA_rp_1_2",
+    "label": "rp_1_2"
+},{
+    "category": "BCA",
+    "key": "BCA_rp_1_3",
+    "label": "rp_1_3"
+},{
+    "category": "BCA",
+    "key": "BCA_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "BCA",
+    "key": "BCA_serial_number",
+    "label": "serial_number"
+},{
+    "category": "BCA",
+    "key": "BCA_software_version",
+    "label": "software_version"
+},{
+    "category": "BCA",
+    "key": "BCA_standard1",
+    "label": "standard1"
+},{
+    "category": "BCA",
+    "key": "BCA_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "BCA",
+    "key": "BCA_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "BCA",
+    "key": "BCA_w",
+    "label": "w"
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_cclass",
+    "label": "cclass"
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_md",
+    "label": "md"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "BSALabel",
+    "key": "BSALabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "BSALabel",
+    "key": "BSALabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "BSA",
+    "key": "BSA_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "BSA",
+    "key": "BSA_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "BSA",
+    "key": "BSA_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "BSA",
+    "key": "BSA_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "BSA",
+    "key": "BSA_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "BSA",
+    "key": "BSA_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "BSA",
+    "key": "BSA_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "BSA",
+    "key": "BSA_bc",
+    "label": "bc"
+},{
+    "category": "BSA",
+    "key": "BSA_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "BSA",
+    "key": "BSA_cclass",
+    "label": "cclass"
+},{
+    "category": "BSA",
+    "key": "BSA_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "BSA",
+    "key": "BSA_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "BSA",
+    "key": "BSA_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "BSA",
+    "key": "BSA_md",
+    "label": "md"
+},{
+    "category": "BSA",
+    "key": "BSA_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "BSA",
+    "key": "BSA_model_number",
+    "label": "model_number"
+},{
+    "category": "BSA",
+    "key": "BSA_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "BSA",
+    "key": "BSA_pathlength",
+    "label": "pathlength"
+},{
+    "category": "BSA",
+    "key": "BSA_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "BSA",
+    "key": "BSA_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "BSA",
+    "key": "BSA_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "BSA",
+    "key": "BSA_serial_number",
+    "label": "serial_number"
+},{
+    "category": "BSA",
+    "key": "BSA_software_version",
+    "label": "software_version"
+},{
+    "category": "BSA",
+    "key": "BSA_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "BSA",
+    "key": "BSA_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "BSA",
+    "key": "BSA_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "BSA",
+    "key": "BSA_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "Biuret",
+    "key": "Biuret_a",
+    "label": "a",
+    "order": 5
+},{
+    "category": "Biuret",
+    "key": "Biuret_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Biuret",
+    "key": "Biuret_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "Biuret",
+    "key": "Biuret_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Biuret",
+    "key": "Biuret_curve_fit",
+    "label": "curve_fit"
+},{
+    "category": "Biuret",
+    "key": "Biuret_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Biuret",
+    "key": "Biuret_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Biuret",
+    "key": "Biuret_md",
+    "label": "md"
+},{
+    "category": "Biuret",
+    "key": "Biuret_mean",
+    "label": "mean"
+},{
+    "category": "Biuret",
+    "key": "Biuret_method",
+    "label": "method"
+},{
+    "category": "Biuret",
+    "key": "Biuret_model_number",
+    "label": "model_number"
+},{
+    "category": "Biuret",
+    "key": "Biuret_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Biuret",
+    "key": "Biuret_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Biuret",
+    "key": "Biuret_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Biuret",
+    "key": "Biuret_rp_1_1",
+    "label": "rp_1_1"
+},{
+    "category": "Biuret",
+    "key": "Biuret_rp_1_2",
+    "label": "rp_1_2"
+},{
+    "category": "Biuret",
+    "key": "Biuret_rp_1_3",
+    "label": "rp_1_3"
+},{
+    "category": "Biuret",
+    "key": "Biuret_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Biuret",
+    "key": "Biuret_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Biuret",
+    "key": "Biuret_software_version",
+    "label": "software_version"
+},{
+    "category": "Biuret",
+    "key": "Biuret_standard1",
+    "label": "standard1"
+},{
+    "category": "Biuret",
+    "key": "Biuret_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "Biuret",
+    "key": "Biuret_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "Biuret",
+    "key": "Biuret_w",
+    "label": "w"
+},{
+    "category": "Bradford",
+    "key": "Bradford_a",
+    "label": "a",
+    "order": 5
+},{
+    "category": "Bradford",
+    "key": "Bradford_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Bradford",
+    "key": "Bradford_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "Bradford",
+    "key": "Bradford_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Bradford",
+    "key": "Bradford_curve_fit",
+    "label": "curve_fit"
+},{
+    "category": "Bradford",
+    "key": "Bradford_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Bradford",
+    "key": "Bradford_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Bradford",
+    "key": "Bradford_md",
+    "label": "md"
+},{
+    "category": "Bradford",
+    "key": "Bradford_mean",
+    "label": "mean"
+},{
+    "category": "Bradford",
+    "key": "Bradford_method",
+    "label": "method"
+},{
+    "category": "Bradford",
+    "key": "Bradford_model_number",
+    "label": "model_number"
+},{
+    "category": "Bradford",
+    "key": "Bradford_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Bradford",
+    "key": "Bradford_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Bradford",
+    "key": "Bradford_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Bradford",
+    "key": "Bradford_rp_1_1",
+    "label": "rp_1_1"
+},{
+    "category": "Bradford",
+    "key": "Bradford_rp_1_2",
+    "label": "rp_1_2"
+},{
+    "category": "Bradford",
+    "key": "Bradford_rp_1_3",
+    "label": "rp_1_3"
+},{
+    "category": "Bradford",
+    "key": "Bradford_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Bradford",
+    "key": "Bradford_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Bradford",
+    "key": "Bradford_software_version",
+    "label": "software_version"
+},{
+    "category": "Bradford",
+    "key": "Bradford_standard1",
+    "label": "standard1"
+},{
+    "category": "Bradford",
+    "key": "Bradford_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "Bradford",
+    "key": "Bradford_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "Bradford",
+    "key": "Bradford_w",
+    "label": "w"
+},{
+    "category": "Concentration",
+    "key": "Concentration_a",
+    "label": "a",
+    "order": 6
+},{
+    "category": "Concentration",
+    "key": "Concentration_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Concentration",
+    "key": "Concentration_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "Concentration",
+    "key": "Concentration_cclass",
+    "label": "cclass"
+},{
+    "category": "Concentration",
+    "key": "Concentration_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Concentration",
+    "key": "Concentration_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Concentration",
+    "key": "Concentration_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Concentration",
+    "key": "Concentration_md",
+    "label": "md"
+},{
+    "category": "Concentration",
+    "key": "Concentration_method",
+    "label": "method"
+},{
+    "category": "Concentration",
+    "key": "Concentration_model_number",
+    "label": "model_number"
+},{
+    "category": "Concentration",
+    "key": "Concentration_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Concentration",
+    "key": "Concentration_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Concentration",
+    "key": "Concentration_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Concentration",
+    "key": "Concentration_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Concentration",
+    "key": "Concentration_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Concentration",
+    "key": "Concentration_software_version",
+    "label": "software_version"
+},{
+    "category": "Concentration",
+    "key": "Concentration_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "Concentration",
+    "key": "Concentration_w",
+    "label": "w",
+    "order": 5
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_a",
+    "label": "a",
+    "order": 5
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_cclass",
+    "label": "cclass"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_curve_fit",
+    "label": "curve_fit"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_label",
+    "label": "label",
+    "order": 2,
+    "format": "cn",
+    "decimal": 4
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_md",
+    "label": "md"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_mean",
+    "label": "mean"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_method",
+    "label": "method"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_model_number",
+    "label": "model_number"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_pathlength",
+    "label": "pathlength"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_rp_1_1",
+    "label": "rp_1_1"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_rp_1_2",
+    "label": "rp_1_2"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_rp_1_3",
+    "label": "rp_1_3"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_serial_number",
+    "label": "serial_number"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_software_version",
+    "label": "software_version"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_standard1",
+    "label": "standard1"
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_w",
+    "label": "w"
+},{
+    "category": "DbMatching",
+    "key": "DbMatching_label",
+    "label": "label",
+    "order": 2
+}
+,{
+  "category": "DbMatching",
+  "key": "DbMatching_lid",
+  "label": "lid",
+  "order": 2.5
+},{
+    "category": "DbMatching",
+    "key": "DbMatching_match",
+    "label": "match",
+    "order": 3
+}
+,{
+    "category": "DbMatching",
+    "key": "DbMatching_n",
+    "label": "n",
+    "order": 1
+}
+,{
+  "category": "DbMatching",
+  "key": "DbMatching_pathlength",
+  "label": "pathlength",
+  "oder": 2.5
+},{
+    "category": "DbMatching",
+    "key": "DbMatching_prob",
+    "label": "prob",
+    "order": 4
+}
+,{
+    "category": "DbMatching",
+    "key": "DbMatching_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+  "category": "DbMatching",
+  "key": "DbMatching_vdf",
+  "label": "vdf",
+  "order": 2.5
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_ad_1",
+    "label": "ad_1", "order": 4.9
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_bc",
+    "label": "bc"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_d_1",
+    "label": "d_1"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_du",
+    "label": "du",
+    "order": 6
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_ec",
+    "label": "ec"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_md",
+    "label": "md"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_model_number",
+    "label": "model_number"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_pathlength",
+    "label": "pathlength"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_serial_number",
+    "label": "serial_number"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_software_version",
+    "label": "software_version"
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "ExtCoefficientLabel",
+    "key": "ExtCoefficientLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_bc",
+    "label": "bc"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_cclass",
+    "label": "cclass"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_ec",
+    "label": "ec"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_md",
+    "label": "md"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_model_number",
+    "label": "model_number"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_pathlength",
+    "label": "pathlength"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_serial_number",
+    "label": "serial_number"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_software_version",
+    "label": "software_version"
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "ExtCoefficient",
+    "key": "ExtCoefficient_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_md",
+    "label": "md"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "IgEHumanLabel",
+    "key": "IgEHumanLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_bc",
+    "label": "bc"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_cclass",
+    "label": "cclass"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_md",
+    "label": "md"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_model_number",
+    "label": "model_number"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_pathlength",
+    "label": "pathlength"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_serial_number",
+    "label": "serial_number"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_software_version",
+    "label": "software_version"
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "IgEHuman",
+    "key": "IgEHuman_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_md",
+    "label": "md"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "IgGHumanLabel",
+    "key": "IgGHumanLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_bc",
+    "label": "bc"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_cclass",
+    "label": "cclass"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_md",
+    "label": "md"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_model_number",
+    "label": "model_number"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_pathlength",
+    "label": "pathlength"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_serial_number",
+    "label": "serial_number"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_software_version",
+    "label": "software_version"
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "IgGHuman",
+    "key": "IgGHuman_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_md",
+    "label": "md"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "IgGMouseLabel",
+    "key": "IgGMouseLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_bc",
+    "label": "bc"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_cclass",
+    "label": "cclass"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_md",
+    "label": "md"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_model_number",
+    "label": "model_number"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_pathlength",
+    "label": "pathlength"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_serial_number",
+    "label": "serial_number"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_software_version",
+    "label": "software_version"
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "IgGMouse",
+    "key": "IgGMouse_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_md",
+    "label": "md"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_method",
+    "label": "method"
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_pf",
+    "label": "pf"
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "IgYAvianLabel",
+    "key": "IgYAvianLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_bc",
+    "label": "bc"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_cclass",
+    "label": "cclass"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_md",
+    "label": "md"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_method",
+    "label": "method"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_model_number",
+    "label": "model_number"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_pathlength",
+    "label": "pathlength"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_pf",
+    "label": "pf"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_serial_number",
+    "label": "serial_number"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_software_version",
+    "label": "software_version"
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "IgYAvian",
+    "key": "IgYAvian_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_an",
+    "label": "an",
+    "order": 4
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_ao",
+    "label": "ao",
+    "order": 5
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_cclass",
+    "label": "cclass"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_da",
+    "label": "da",
+    "order": 6
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_finalA",
+    "label": "finalA",
+    "order": 8
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_md",
+    "label": "md"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_method",
+    "label": "method"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_model_number",
+    "label": "model_number"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_R2",
+    "label": "R2",
+    "order": 9
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_p_2",
+    "label": "p_2",
+    "order": 7
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_software_version",
+    "label": "software_version"
+},{
+    "category": "Kinetics",
+    "key": "Kinetics_t",
+    "label": "t",
+    "order": 3
+},{
+    "category": "Lowry",
+    "key": "Lowry_a",
+    "label": "a",
+    "order": 5
+},{
+    "category": "Lowry",
+    "key": "Lowry_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Lowry",
+    "key": "Lowry_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "Lowry",
+    "key": "Lowry_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Lowry",
+    "key": "Lowry_curve_fit",
+    "label": "curve_fit"
+},{
+    "category": "Lowry",
+    "key": "Lowry_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Lowry",
+    "key": "Lowry_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Lowry",
+    "key": "Lowry_md",
+    "label": "md"
+},{
+    "category": "Lowry",
+    "key": "Lowry_mean",
+    "label": "mean"
+},{
+    "category": "Lowry",
+    "key": "Lowry_method",
+    "label": "method"
+},{
+    "category": "Lowry",
+    "key": "Lowry_model_number",
+    "label": "model_number"
+},{
+    "category": "Lowry",
+    "key": "Lowry_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Lowry",
+    "key": "Lowry_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Lowry",
+    "key": "Lowry_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Lowry",
+    "key": "Lowry_rp_1_1",
+    "label": "rp_1_1"
+},{
+    "category": "Lowry",
+    "key": "Lowry_rp_1_2",
+    "label": "rp_1_2"
+},{
+    "category": "Lowry",
+    "key": "Lowry_rp_1_3",
+    "label": "rp_1_3"
+},{
+    "category": "Lowry",
+    "key": "Lowry_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Lowry",
+    "key": "Lowry_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Lowry",
+    "key": "Lowry_software_version",
+    "label": "software_version"
+},{
+    "category": "Lowry",
+    "key": "Lowry_standard1",
+    "label": "standard1"
+},{
+    "category": "Lowry",
+    "key": "Lowry_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "Lowry",
+    "key": "Lowry_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "Lowry",
+    "key": "Lowry_w",
+    "label": "w"
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_md",
+    "label": "md"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "LysozymeLabel",
+    "key": "LysozymeLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_bc",
+    "label": "bc"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_cclass",
+    "label": "cclass"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_md",
+    "label": "md"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_model_number",
+    "label": "model_number"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_software_version",
+    "label": "software_version"
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "Lysozyme",
+    "key": "Lysozyme_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_ad_1",
+    "label": "ad_1", "order": 4.9
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_bc",
+    "label": "bc"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_d_1",
+    "label": "d_1"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_du",
+    "label": "du",
+    "order": 6
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_md",
+    "label": "md"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_mec",
+    "label": "mec"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_model_number",
+    "label": "model_number"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_mw",
+    "label": "mw"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_pathlength",
+    "label": "pathlength"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_serial_number",
+    "label": "serial_number"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_software_version",
+    "label": "software_version"
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "MolExtCoefficientLabel",
+    "key": "MolExtCoefficientLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_bc",
+    "label": "bc"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_cclass",
+    "label": "cclass"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_md",
+    "label": "md"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_mec",
+    "label": "mec"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_model_number",
+    "label": "model_number"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_mw",
+    "label": "mw"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_pathlength",
+    "label": "pathlength"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_serial_number",
+    "label": "serial_number"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_software_version",
+    "label": "software_version"
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "MolExtCoefficient",
+    "key": "MolExtCoefficient_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_a260",
+    "label": "a260",
+    "order": 5
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_a280",
+    "label": "a280",
+    "order": 5.2
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_bc",
+    "label": "bc"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_cclass",
+    "label": "cclass"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "NgsQcDsCustom",
+    "key": "NgsQcDsCustom_dna",
+    "label": "dna",
+    "order": 10.1
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_dna_c",
+    "label": "dna_c"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_md",
+    "label": "md"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_model_number",
+    "label": "model_number"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_naf",
+    "label": "naf",
+    "order": 4.2
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_pathlength",
+    "label": "pathlength"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "NgsQcDCustom",
+    "key": "NgsQcDsCustom_rna",
+    "label": "rna",
+    "order": 10.2
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_rna_c",
+    "label": "rna_c"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_serial_number",
+    "label": "serial_number"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_software_version",
+    "label": "software_version"
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "NgsQcCustom",
+    "key": "NgsQcCustom_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_a260",
+    "label": "a260",
+    "order": 5
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_a280",
+    "label": "a280",
+    "order": 5.2
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_bc",
+    "label": "bc"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_cclass",
+    "label": "cclass"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_dna",
+    "label": "dna",
+    "order": 10.1
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_dna_c",
+    "label": "dna_c"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_md",
+    "label": "md"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_model_number",
+    "label": "model_number"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_naf",
+    "label": "naf",
+    "order": 4.2
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_pathlength",
+    "label": "pathlength"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_rna",
+    "label": "rna",
+    "order": 10.2
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_rna_c",
+    "label": "rna_c"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_serial_number",
+    "label": "serial_number"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_software_version",
+    "label": "software_version"
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "NgsQcDsDNA",
+    "key": "NgsQcDsDNA_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_ec",
+    "label": "ec"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_md",
+    "label": "md"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "NucleicAcidLabel",
+    "key": "NucleicAcidLabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_bc",
+    "label": "bc"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_ec",
+    "label": "ec"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_md",
+    "label": "md"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "NucleicAcid",
+    "key": "NucleicAcid_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_bc",
+    "label": "bc"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_cclass",
+    "label": "cclass"
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_dold_1",
+    "label": "dold_1",
+    "order": 7
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_md",
+    "label": "md"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "OD1Label",
+    "key": "OD1Label_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "OD1Label",
+    "key": "OD1Label_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "OD1",
+    "key": "OD1_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "OD1",
+    "key": "OD1_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "OD1",
+    "key": "OD1_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "OD1",
+    "key": "OD1_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "OD1",
+    "key": "OD1_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "OD1",
+    "key": "OD1_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "OD1",
+    "key": "OD1_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "OD1",
+    "key": "OD1_bc",
+    "label": "bc"
+},{
+    "category": "OD1",
+    "key": "OD1_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "OD1",
+    "key": "OD1_cclass",
+    "label": "cclass"
+},{
+    "category": "OD1",
+    "key": "OD1_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "OD1",
+    "key": "OD1_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "OD1",
+    "key": "OD1_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "OD1",
+    "key": "OD1_md",
+    "label": "md"
+},{
+    "category": "OD1",
+    "key": "OD1_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "OD1",
+    "key": "OD1_model_number",
+    "label": "model_number"
+},{
+    "category": "OD1",
+    "key": "OD1_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "OD1",
+    "key": "OD1_pathlength",
+    "label": "pathlength"
+},{
+    "category": "OD1",
+    "key": "OD1_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "OD1",
+    "key": "OD1_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "OD1",
+    "key": "OD1_serial_number",
+    "label": "serial_number"
+},{
+    "category": "OD1",
+    "key": "OD1_software_version",
+    "label": "software_version"
+},{
+    "category": "OD1",
+    "key": "OD1_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "OD1",
+    "key": "OD1_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "OD1",
+    "key": "OD1_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "OD1",
+    "key": "OD1_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "OD600",
+    "key": "OD600_a",
+    "label": "a"
+},{
+    "category": "OD600",
+    "key": "OD600_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "OD600",
+    "key": "OD600_cells_ml",
+    "label": "cells_ml",
+    "order": 5
+},{
+    "category": "OD600",
+    "key": "OD600_correction",
+    "label": "cor"
+},{
+    "category": "OD600",
+    "key": "OD600_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "OD600",
+    "key": "OD600_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "OD600",
+    "key": "OD600_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "OD600",
+    "key": "OD600_md",
+    "label": "md"
+},{
+    "category": "OD600",
+    "key": "OD600_method",
+    "label": "method"
+},{
+    "category": "OD600",
+    "key": "OD600_model_number",
+    "label": "model_number"
+},{
+    "category": "OD600",
+    "key": "OD600_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "OD600",
+    "key": "OD600_od",
+    "label": "od",
+    "order": 4
+},{
+    "category": "OD600",
+    "key": "OD600_pathlength",
+    "label": "pathlength"
+},{
+    "category": "OD600",
+    "key": "OD600_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "OD600",
+    "key": "OD600_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "OD600",
+    "key": "OD600_serial_number",
+    "label": "serial_number"
+},{
+    "category": "OD600",
+    "key": "OD600_software_version",
+    "label": "software_version"
+},{
+    "category": "OD600",
+    "key": "OD600_u",
+    "label": "u"
+},{
+    "category": "OD600",
+    "key": "OD600_w",
+    "label": "w",
+    "order": 3
+},{
+    "category": "OligoLabel",
+    "key": "OligoLabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_cclass",
+    "label": "cclass"
+}     
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_md",
+    "label": "md"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_n",
+    "label": "n",
+    "order": 1
+}  
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}          
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_saved",
+    "label": "saved",
+    "order": -1
+}
+            
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "OligoLabel",
+    "key": "OligoLabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_bc",
+    "label": "bc"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_md",
+    "label": "md"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "Oligo",
+    "key": "Oligo_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_guanine_and_cytosine",
+    "label": "guanine_and_cytosine"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_md",
+    "label": "md"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_number_of_bases_in_sequence",
+    "label": "number_of_bases_in_sequence"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_os",
+    "label": "os"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "OligosequenceLabel",
+    "key": "OligosequenceLabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_bc",
+    "label": "bc"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_guanine_and_cytosine",
+    "label": "guanine_and_cytosine"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_md",
+    "label": "md"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_number_of_bases_in_sequence",
+    "label": "number_of_bases_in_sequence"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_os",
+    "label": "os"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "Oligosequence",
+    "key": "Oligosequence_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_ad_1",
+    "label": "ad_1", "order": 4.9
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_bc",
+    "label": "bc"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_d_1",
+    "label": "d_1"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_du",
+    "label": "du",
+    "order": 6
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_ec",
+    "label": "ec"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_md",
+    "label": "md"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_model_number",
+    "label": "model_number"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_pathlength",
+    "label": "pathlength"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_serial_number",
+    "label": "serial_number"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_software_version",
+    "label": "software_version"
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "ProteinFactorLabel",
+    "key": "ProteinFactorLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_a",
+    "label": "a",
+    "order": 5.2
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_a230",
+    "label": "a230",
+    "order": 4.9
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_a260",
+    "label": "a260",
+    "order": 5.0
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_a320",
+    "label": "a320",
+    "order": 5.3
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_bc",
+    "label": "bc"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_cclass",
+    "label": "cclass"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_ec",
+    "label": "ec"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_md",
+    "label": "md"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_model_number",
+    "label": "model_number"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_pathlength",
+    "label": "pathlength"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_serial_number",
+    "label": "serial_number"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_software_version",
+    "label": "software_version"
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_w",
+    "label": "w",
+    "order": 5.1
+},{
+    "category": "ProteinFactor",
+    "key": "ProteinFactor_w320",
+    "label": "w320",
+    "order": 5.25
+},{
+    "category": "RNALabel",
+    "key": "RNALabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_md",
+    "label": "md"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "RNALabel",
+    "key": "RNALabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "RNA",
+    "key": "RNA_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "RNA",
+    "key": "RNA_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "RNA",
+    "key": "RNA_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "RNA",
+    "key": "RNA_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "RNA",
+    "key": "RNA_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "RNA",
+    "key": "RNA_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "RNA",
+    "key": "RNA_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "RNA",
+    "key": "RNA_bc",
+    "label": "bc"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "RNA",
+    "key": "RNA_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "RNA",
+    "key": "RNA_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "RNA",
+    "key": "RNA_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "RNA",
+    "key": "RNA_md",
+    "label": "md"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "RNA",
+    "key": "RNA_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "RNA",
+    "key": "RNA_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "RNA",
+    "key": "RNA_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "RNA",
+    "key": "RNA_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "RNA",
+    "key": "RNA_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "RNA",
+    "key": "RNA_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "RNA",
+    "key": "RNA_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_ad_1",
+    "label": "ad_1", "order": 4.9
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_bc",
+    "label": "bc"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_d_1",
+    "label": "d_1"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_du",
+    "label": "du",
+    "order": 6
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_md",
+    "label": "md"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_model_number",
+    "label": "model_number"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_pathlength",
+    "label": "pathlength"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_serial_number",
+    "label": "serial_number"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_software_version",
+    "label": "software_version"
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "SAHumanLabel",
+    "key": "SAHumanLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_a",
+    "label": "a",
+    "order": 5.2
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_a260_a230",
+    "label": "a260_a230"
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_bc",
+    "label": "bc"
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_md",
+    "label": "md"
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_model_number",
+    "label": "model_number"
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_pathlength",
+    "label": "pathlength"
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_serial_number",
+    "label": "serial_number"
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_software_version",
+    "label": "software_version"
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "SAHuman",
+    "key": "SAHuman_w",
+    "label": "w",
+    "order": 5.1
+}
+,{
+    "category": "SAHuman",
+    "key": "SAHuman_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_a",
+    "label": "a",
+    "order": 8.2
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_a230",
+    "label": "a230",
+    "order": 7.9
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_a260",
+    "label": "a260",
+    "order": 8.0
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_a260_a230",
+    "label": "a260_a230"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_a320",
+    "label": "a320",
+    "order": 8.3
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_ad_1",
+    "label": "ad_1", "order": 4.9
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_bc",
+    "label": "bc"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_c",
+    "label": "c",
+    "order": 3
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_cclass",
+    "label": "cclass"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_d_1",
+    "label": "d_1"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_dold_1",
+    "label": "dold_1",
+    "order": 7
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_du",
+    "label": "du",
+    "order": 6
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_md",
+    "label": "md"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_method",
+    "label": "method",
+    "order": 4.1
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_model_number",
+    "label": "model_number"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_pathlength",
+    "label": "pathlength"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_serial_number",
+    "label": "serial_number"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_software_version",
+    "label": "software_version"
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_w",
+    "label": "w",
+    "order": 8.1
+},{
+    "category": "SAMouseLabel",
+    "key": "SAMouseLabel_w320",
+    "label": "w320",
+    "order": 8.25
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_a",
+    "label": "a",
+    "order": 5.2
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_a260_a230",
+    "label": "a260_a230"
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_bc",
+    "label": "bc"
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_md",
+    "label": "md"
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_model_number",
+    "label": "model_number"
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_pathlength",
+    "label": "pathlength"
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_pf",
+    "label": "pf",
+    "order": 4.2
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_serial_number",
+    "label": "serial_number"
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_software_version",
+    "label": "software_version"
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_u",
+    "label": "u",
+    "order": 4
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_vdf",
+    "label": "vdf",
+    "order": 99
+},{
+    "category": "SAMouse",
+    "key": "SAMouse_w",
+    "label": "w",
+    "order": 5.1
+}
+,{
+    "category": "SAMouse",
+    "key": "SAMouse_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+  "category": "WavelengthT",
+  "key": "WavelengthT_abstrans",
+  "label": "abstrans"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_author",
+  "label": "author",
+    "order": 100
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_cclass",
+  "label": "cclass"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_created",
+  "label": "created",
+    "order": 101
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_label",
+  "label": "label",
+  "order": 2
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_lid",
+  "label": "lid",
+  "order": 2.2
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_md",
+  "label": "md"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_method",
+  "label": "method"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_model_number",
+  "label": "model_number"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_n",
+  "label": "n",
+  "order": 1
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_pathlength",
+  "label": "pathlength"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_pclass_cuvette",
+  "label": "pclass_cuvette"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_saved",
+  "label": "saved",
+  "order": -1
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_serial_number",
+  "label": "serial_number"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_software_version",
+  "label": "software_version"
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_t_1",
+  "label": "t_1",
+  "order": 4
+},{
+  "category": "WavelengthT",
+  "key": "WavelengthT_w_1",
+  "label": "w_1",
+  "order": 3
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_a_1",
+    "label": "a_1",
+    "order": 5
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_abstrans",
+    "label": "abstrans"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_cclass",
+    "label": "cclass"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_fval_1",
+    "label": "fval_1",
+    "order": 3
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_md",
+    "label": "md"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_method",
+    "label": "method"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_model_number",
+    "label": "model_number"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_software_version",
+    "label": "software_version"
+},{
+    "category": "Wavelength",
+    "key": "Wavelength_w_1",
+    "label": "w_1",
+    "order": 4
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_author",
+  "label": "author",
+    "order": 100
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_cclass",
+  "label": "cclass"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_created",
+  "label": "created",
+    "order": 101
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_label",
+  "label": "label",
+  "order": 2
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_lid",
+  "label": "lid",
+  "order": 2.2
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_md",
+  "label": "md"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_method",
+  "label": "method"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_model_number",
+  "label": "model_number"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_n",
+  "label": "n",
+  "order": 1
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_pathlength",
+  "label": "pathlength"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_pclass_cuvette",
+  "label": "pclass_cuvette"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_saved",
+  "label": "saved",
+  "order": -1
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_serial_number",
+  "label": "serial_number"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_software_version",
+  "label": "software_version"
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_t_1",
+  "label": "t_1",
+  "order": 4
+},{
+  "category": "WavescanT",
+  "key": "WavescanT_w_1",
+  "label": "w_1",
+  "order": 3
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_a_1",
+    "label": "a_1",
+    "order": 4
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_author",
+    "label": "author",
+    "order": 100
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_cclass",
+    "label": "cclass"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_created",
+    "label": "created",
+    "order": 101
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_label",
+    "label": "label",
+    "order": 2
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_md",
+    "label": "md"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_method",
+    "label": "method"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_model_number",
+    "label": "model_number"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_n",
+    "label": "n",
+    "order": 1
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_pathlength",
+    "label": "pathlength"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_pclass_cuvette",
+    "label": "pclass_cuvette"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_saved",
+    "label": "saved",
+    "order": -1
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_serial_number",
+    "label": "serial_number"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_software_version",
+    "label": "software_version"
+},{
+    "category": "Wavescan",
+    "key": "Wavescan_w_1",
+    "label": "w_1",
+    "order": 3
+},{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_md",
+    "label": "md"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "dsDNALabel",
+    "key": "dsDNALabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_bc",
+    "label": "bc"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_lid",
+    "label": "lid",
+    "order": 2.2
+},{
+    "category": "dsDNA",
+    "key": "dsDNA_md",
+    "label": "md"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "dsDNA",
+    "key": "dsDNA_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_md",
+    "label": "md"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "miRNALabel",
+    "key": "miRNALabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_bc",
+    "label": "bc"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_md",
+    "label": "md"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "miRNA",
+    "key": "miRNA_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_md",
+    "label": "md"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "miRNAsequenceLabel",
+    "key": "miRNAsequenceLabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_bc",
+    "label": "bc"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_md",
+    "label": "md"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "miRNAsequence",
+    "key": "miRNAsequence_w320",
+    "label": "w320",
+    "order": 5.25
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_a230",
+    "label": "a230",
+    "order": 7.9
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_a260",
+    "label": "a260",
+    "order": 8.0
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_a260_a230",
+    "label": "a260_a230",
+    "order": 10
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_a260_a280",
+    "label": "a260_a280",
+    "order": 9
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_a280",
+    "label": "a280",
+    "order": 8.2
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_a320",
+    "label": "a320",
+    "order": 8.3
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_ad_1",
+    "label": "ad_1",
+    "order": 4.9
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_bc",
+    "label": "bc"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_cd_1",
+    "label": "cd_1",
+    "order": 5
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_d_1",
+    "label": "d_1"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_du",
+    "label": "du",
+    "order": 6
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_foid_1",
+    "label": "foid_1",
+    "order": 7
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_md",
+    "label": "md"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "ssDNALabel",
+    "key": "ssDNALabel_w320",
+    "label": "w320",
+    "order": 8.25
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_a230",
+    "label": "a230",
+    "order": 4.9
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_a260",
+    "label": "a260",
+    "order": 5.0
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_a260_a230",
+    "label": "a260_a230",
+    "order": 7
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_a260_a280",
+    "label": "a260_a280",
+    "order": 6
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_a280",
+    "label": "a280",
+    "order": 5.2
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_a320",
+    "label": "a320",
+    "order": 5.3
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_author",
+    "label": "author",
+    "order": 100
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_bc",
+    "label": "bc"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_c",
+    "label": "c",
+    "order": 3
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_cclass",
+    "label": "cclass"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_created",
+    "label": "created",
+    "order": 101
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_label",
+    "label": "label",
+    "order": 2
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_lid",
+    "label": "lid",
+    "order": 2.2
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_md",
+    "label": "md"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_method",
+    "label": "method",
+    "order": 4.1
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_model_number",
+    "label": "model_number"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_n",
+    "label": "n",
+    "order": 1
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_naf",
+    "label": "naf",
+    "order": 4.2
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_pathlength",
+    "label": "pathlength"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_pclass_cuvette",
+    "label": "pclass_cuvette"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_saved",
+    "label": "saved",
+    "order": -1
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_serial_number",
+    "label": "serial_number"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_software_version",
+    "label": "software_version"
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_u",
+    "label": "u",
+    "order": 4
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_vdf",
+    "label": "vdf",
+    "order": 99
+}
+,{
+    "category": "ssDNA",
+    "key": "ssDNA_w320",
+    "label": "w320",
+    "order": 5.25
+}
+]

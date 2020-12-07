@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Regression",
+    "value": "linear_regression"
+  },
+  {
+   "text": "Zero Regression",
+    "value": "zero_regression"
+  }
+
+]

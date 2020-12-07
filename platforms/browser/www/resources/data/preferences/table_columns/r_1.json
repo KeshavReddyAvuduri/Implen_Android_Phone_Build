@@ -1,0 +1,14 @@
+{
+    "key": "r_1",
+    "label": "Ratio 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}_1",
+    "header": "Ratio {index}",
+    "dataindex": "r_{index}",
+    "group": "absorbance_ratio",
+    "translation":"text_Ratio1"
+}

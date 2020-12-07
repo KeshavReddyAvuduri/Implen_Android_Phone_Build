@@ -1,0 +1,110 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "miRNA",
+        "value": "miRNA"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "miRNA",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "miRNA",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "miRNA",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "miRNA",
+        "value": 33
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "miRNA",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "miRNA",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "miRNA",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "miRNA",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "miRNA",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "miRNA",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "miRNA",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "miRNA",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "miRNA",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "miRNA",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "miRNA",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "miRNA",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "miRNA",
+        "value": "fast"
+    }
+]

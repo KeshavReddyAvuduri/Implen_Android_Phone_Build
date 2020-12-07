@@ -1,0 +1,31 @@
+[{
+  "key": "a260_a230_lower_limit",
+  "label": "A260/A230 lower limit",
+  "category": "ngs_qc_conf",
+  "value": 1.8
+},{
+  "key": "a260_a230_upper_limit",
+  "label": "A260/A230 upper limit",
+  "category": "ngs_qc_conf",
+  "value": 3.0
+},{
+  "key": "a260_a280_lower_limit",
+  "label": "A260/A280 lower limit",
+  "category": "ngs_qc_conf",
+  "value": 1.65
+},{
+  "key": "a260_a280_upper_limit",
+  "label": "A260/A280 upper limit",
+  "category": "ngs_qc_conf",
+  "value": 2.5
+},{
+  "key": "w_dna",
+  "label": "Wavelength DNA",
+  "category": "ngs_qc_conf",
+  "value": 263.85
+},{
+  "key": "w_rna",
+  "label": "Wavelength RNA",
+  "category": "ngs_qc_conf",
+  "value": 259.15
+}]

@@ -1,0 +1,12 @@
+[
+  {
+    "label": "text_Network_Printer",
+    "key":1,
+    "xtype": "printerpanel"
+  },
+  {
+    "label": "ReportConfiguration",
+    "key":2,
+    "xtype": "reportconfigurations"
+  }
+]

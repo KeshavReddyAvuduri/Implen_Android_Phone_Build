@@ -1,0 +1,2708 @@
+{"measurements": [
+    {
+        "wavelength": 200,
+        "absorbance_1": 1.02715,
+        "absorbance_2": 0.00677868,
+        "absorbance_3": 0.0588253
+    },
+    {
+        "wavelength": 201,
+        "absorbance_1": 0.894967,
+        "absorbance_2": -0.00205878,
+        "absorbance_3": 0.0161182
+    },
+    {
+        "wavelength": 202,
+        "absorbance_1": 1.02338,
+        "absorbance_2": 0.168532,
+        "absorbance_3": 0.087189
+    },
+    {
+        "wavelength": 203,
+        "absorbance_1": 1.13952,
+        "absorbance_2": 0.143768,
+        "absorbance_3": 0.112608
+    },
+    {
+        "wavelength": 204,
+        "absorbance_1": 0.964472,
+        "absorbance_2": -0.0741599,
+        "absorbance_3": -0.183847
+    },
+    {
+        "wavelength": 205,
+        "absorbance_1": 0.862545,
+        "absorbance_2": 0.012397,
+        "absorbance_3": -0.112506
+    },
+    {
+        "wavelength": 206,
+        "absorbance_1": 1.2321,
+        "absorbance_2": -0.00923001,
+        "absorbance_3": -0.000375125
+    },
+    {
+        "wavelength": 207,
+        "absorbance_1": 1.18103,
+        "absorbance_2": 0.0883618,
+        "absorbance_3": -0.310344
+    },
+    {
+        "wavelength": 208,
+        "absorbance_1": 1.12442,
+        "absorbance_2": -0.105385,
+        "absorbance_3": 0.00788832
+    },
+    {
+        "wavelength": 209,
+        "absorbance_1": 0.945681,
+        "absorbance_2": -0.0269013,
+        "absorbance_3": -0.131725
+    },
+    {
+        "wavelength": 210,
+        "absorbance_1": 1.03172,
+        "absorbance_2": 0.0378388,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 211,
+        "absorbance_1": 0.827489,
+        "absorbance_2": -0.124039,
+        "absorbance_3": 0.00225017
+    },
+    {
+        "wavelength": 212,
+        "absorbance_1": 0.857701,
+        "absorbance_2": 0.163102,
+        "absorbance_3": 0.0569194
+    },
+    {
+        "wavelength": 213,
+        "absorbance_1": 0.963038,
+        "absorbance_2": 0.0203557,
+        "absorbance_3": 0.0746732
+    },
+    {
+        "wavelength": 214,
+        "absorbance_1": 1,
+        "absorbance_2": 0.140125,
+        "absorbance_3": 0.0862148
+    },
+    {
+        "wavelength": 215,
+        "absorbance_1": 1.30984,
+        "absorbance_2": 0,
+        "absorbance_3": 0.102861
+    },
+    {
+        "wavelength": 216,
+        "absorbance_1": 0.936237,
+        "absorbance_2": 0.0375842,
+        "absorbance_3": 0.0778472
+    },
+    {
+        "wavelength": 217,
+        "absorbance_1": 1.21283,
+        "absorbance_2": -0.0224052,
+        "absorbance_3": -0.0794304
+    },
+    {
+        "wavelength": 218,
+        "absorbance_1": 0.833108,
+        "absorbance_2": -0.0655477,
+        "absorbance_3": -0.133514
+    },
+    {
+        "wavelength": 219,
+        "absorbance_1": 1.04109,
+        "absorbance_2": 0.0569406,
+        "absorbance_3": 0.100676
+    },
+    {
+        "wavelength": 220,
+        "absorbance_1": 0.867064,
+        "absorbance_2": 0.0556594,
+        "absorbance_3": 0.0340423
+    },
+    {
+        "wavelength": 221,
+        "absorbance_1": 1.17542,
+        "absorbance_2": -0.0162419,
+        "absorbance_3": 0.06118
+    },
+    {
+        "wavelength": 222,
+        "absorbance_1": 0.958511,
+        "absorbance_2": 0.014132,
+        "absorbance_3": -0.116686
+    },
+    {
+        "wavelength": 223,
+        "absorbance_1": 1.21517,
+        "absorbance_2": -0.072543,
+        "absorbance_3": -0.0288466
+    },
+    {
+        "wavelength": 224,
+        "absorbance_1": 1,
+        "absorbance_2": 0.184553,
+        "absorbance_3": 0.150576
+    },
+    {
+        "wavelength": 225,
+        "absorbance_1": 1.11494,
+        "absorbance_2": 0.03664,
+        "absorbance_3": 0.057472
+    },
+    {
+        "wavelength": 226,
+        "absorbance_1": 0.941868,
+        "absorbance_2": -0.1456,
+        "absorbance_3": 0.0488033
+    },
+    {
+        "wavelength": 227,
+        "absorbance_1": 0.840966,
+        "absorbance_2": 0.019257,
+        "absorbance_3": 0.0574827
+    },
+    {
+        "wavelength": 228,
+        "absorbance_1": 1,
+        "absorbance_2": 0.0314881,
+        "absorbance_3": -0.121912
+    },
+    {
+        "wavelength": 229,
+        "absorbance_1": 1.13542,
+        "absorbance_2": 0,
+        "absorbance_3": 0.0137333
+    },
+    {
+        "wavelength": 230,
+        "absorbance_1": 1.18182,
+        "absorbance_2": 0.0530445,
+        "absorbance_3": 0.0479845
+    },
+    {
+        "wavelength": 231,
+        "absorbance_1": 0.986736,
+        "absorbance_2": -0.304871,
+        "absorbance_3": -0.179897
+    },
+    {
+        "wavelength": 232,
+        "absorbance_1": 1.1546,
+        "absorbance_2": 0.102663,
+        "absorbance_3": 0.100856
+    },
+    {
+        "wavelength": 233,
+        "absorbance_1": 1.18498,
+        "absorbance_2": -0.117539,
+        "absorbance_3": -0.0565251
+    },
+    {
+        "wavelength": 234,
+        "absorbance_1": 1.15947,
+        "absorbance_2": -0.033172,
+        "absorbance_3": -0.132688
+    },
+    {
+        "wavelength": 235,
+        "absorbance_1": 0.860309,
+        "absorbance_2": -0.0164156,
+        "absorbance_3": -0.141991
+    },
+    {
+        "wavelength": 236,
+        "absorbance_1": 1.01246,
+        "absorbance_2": 0.050838,
+        "absorbance_3": 0.0425319
+    },
+    {
+        "wavelength": 237,
+        "absorbance_1": 1.02201,
+        "absorbance_2": -0.0741607,
+        "absorbance_3": -0.0480875
+    },
+    {
+        "wavelength": 238,
+        "absorbance_1": 0.938816,
+        "absorbance_2": 0,
+        "absorbance_3": -0.0134769
+    },
+    {
+        "wavelength": 239,
+        "absorbance_1": 1.07221,
+        "absorbance_2": -0.0846014,
+        "absorbance_3": -0.117152
+    },
+    {
+        "wavelength": 240,
+        "absorbance_1": 0.837276,
+        "absorbance_2": 0.187632,
+        "absorbance_3": 0.0655892
+    },
+    {
+        "wavelength": 241,
+        "absorbance_1": 0.918027,
+        "absorbance_2": -0.0013329,
+        "absorbance_3": -0.00266579
+    },
+    {
+        "wavelength": 242,
+        "absorbance_1": 0.960905,
+        "absorbance_2": 0.0390948,
+        "absorbance_3": 0.0286625
+    },
+    {
+        "wavelength": 243,
+        "absorbance_1": 0.998114,
+        "absorbance_2": -0.00188557,
+        "absorbance_3": -0.0654462
+    },
+    {
+        "wavelength": 244,
+        "absorbance_1": 0.925768,
+        "absorbance_2": -0.152822,
+        "absorbance_3": -0.017461
+    },
+    {
+        "wavelength": 245,
+        "absorbance_1": 0.905603,
+        "absorbance_2": 0.0943973,
+        "absorbance_3": 0.0204346
+    },
+    {
+        "wavelength": 246,
+        "absorbance_1": 0.923493,
+        "absorbance_2": 0.152951,
+        "absorbance_3": 0.0709703
+    },
+    {
+        "wavelength": 247,
+        "absorbance_1": 0.965672,
+        "absorbance_2": -0.0572572,
+        "absorbance_3": -0.0191001
+    },
+    {
+        "wavelength": 248,
+        "absorbance_1": 1.04706,
+        "absorbance_2": 0.00788302,
+        "absorbance_3": -0.129479
+    },
+    {
+        "wavelength": 249,
+        "absorbance_1": 0.938017,
+        "absorbance_2": -0.252284,
+        "absorbance_3": -0.252284
+    },
+    {
+        "wavelength": 250,
+        "absorbance_1": 1.04872,
+        "absorbance_2": 0.136728,
+        "absorbance_3": -0.0974305
+    },
+    {
+        "wavelength": 251,
+        "absorbance_1": 1.02331,
+        "absorbance_2": -0.073329,
+        "absorbance_3": 0.0333119
+    },
+    {
+        "wavelength": 252,
+        "absorbance_1": 1.10949,
+        "absorbance_2": 0.0846563,
+        "absorbance_3": 0.0579244
+    },
+    {
+        "wavelength": 253,
+        "absorbance_1": 1,
+        "absorbance_2": -0.0165607,
+        "absorbance_3": -0.0331214
+    },
+    {
+        "wavelength": 254,
+        "absorbance_1": 0.942289,
+        "absorbance_2": 0.00407436,
+        "absorbance_3": -0.0332645
+    },
+    {
+        "wavelength": 255,
+        "absorbance_1": 1.02328,
+        "absorbance_2": 0.0898211,
+        "absorbance_3": -0.0146343
+    },
+    {
+        "wavelength": 256,
+        "absorbance_1": 0.869456,
+        "absorbance_2": -0.0263818,
+        "absorbance_3": 0.0402552
+    },
+    {
+        "wavelength": 257,
+        "absorbance_1": 0.989291,
+        "absorbance_2": 0.140562,
+        "absorbance_3": 0.0200802
+    },
+    {
+        "wavelength": 258,
+        "absorbance_1": 1.05435,
+        "absorbance_2": -0.0217331,
+        "absorbance_3": -0.0760847
+    },
+    {
+        "wavelength": 259,
+        "absorbance_1": 1.04889,
+        "absorbance_2": -0.0893842,
+        "absorbance_3": -0.134915
+    },
+    {
+        "wavelength": 260,
+        "absorbance_1": 0.862476,
+        "absorbance_2": 0.16068,
+        "absorbance_3": 0.107986
+    },
+    {
+        "wavelength": 261,
+        "absorbance_1": 1.14035,
+        "absorbance_2": -0.104234,
+        "absorbance_3": -0.174409
+    },
+    {
+        "wavelength": 262,
+        "absorbance_1": 0.922521,
+        "absorbance_2": 0.0256374,
+        "absorbance_3": 0.0085458
+    },
+    {
+        "wavelength": 263,
+        "absorbance_1": 1.02222,
+        "absorbance_2": 0.00192718,
+        "absorbance_3": 0.0965806
+    },
+    {
+        "wavelength": 264,
+        "absorbance_1": 0.922031,
+        "absorbance_2": 0.118162,
+        "absorbance_3": -0.00403015
+    },
+    {
+        "wavelength": 265,
+        "absorbance_1": 1.09733,
+        "absorbance_2": 0.0668004,
+        "absorbance_3": 0.0767536
+    },
+    {
+        "wavelength": 266,
+        "absorbance_1": 0.860863,
+        "absorbance_2": -0.0781247,
+        "absorbance_3": -0.0374498
+    },
+    {
+        "wavelength": 267,
+        "absorbance_1": 1.08855,
+        "absorbance_2": 0.0729092,
+        "absorbance_3": -0.195363
+    },
+    {
+        "wavelength": 268,
+        "absorbance_1": 0.93715,
+        "absorbance_2": 0.0692973,
+        "absorbance_3": -0.107169
+    },
+    {
+        "wavelength": 269,
+        "absorbance_1": 1.05236,
+        "absorbance_2": 0.0360187,
+        "absorbance_3": 0.0360187
+    },
+    {
+        "wavelength": 270,
+        "absorbance_1": 1.06353,
+        "absorbance_2": 0.0818524,
+        "absorbance_3": 0.110759
+    },
+    {
+        "wavelength": 271,
+        "absorbance_1": 0.894546,
+        "absorbance_2": -0.0159373,
+        "absorbance_3": 0.0019661
+    },
+    {
+        "wavelength": 272,
+        "absorbance_1": 1.01502,
+        "absorbance_2": -0.0768555,
+        "absorbance_3": -0.0167841
+    },
+    {
+        "wavelength": 273,
+        "absorbance_1": 0.880408,
+        "absorbance_2": 0.00871203,
+        "absorbance_3": -0.015741
+    },
+    {
+        "wavelength": 274,
+        "absorbance_1": 0.949799,
+        "absorbance_2": 0.0467077,
+        "absorbance_3": 0.0327333
+    },
+    {
+        "wavelength": 275,
+        "absorbance_1": 0.911311,
+        "absorbance_2": -0.029021,
+        "absorbance_3": 0.0461084
+    },
+    {
+        "wavelength": 276,
+        "absorbance_1": 0.980222,
+        "absorbance_2": 0.0786486,
+        "absorbance_3": -0.022092
+    },
+    {
+        "wavelength": 277,
+        "absorbance_1": 1.04972,
+        "absorbance_2": -0.0456399,
+        "absorbance_3": 0.0317857
+    },
+    {
+        "wavelength": 278,
+        "absorbance_1": 1.02208,
+        "absorbance_2": -0.117555,
+        "absorbance_3": -0.0654008
+    },
+    {
+        "wavelength": 279,
+        "absorbance_1": 0.953916,
+        "absorbance_2": 0.0616784,
+        "absorbance_3": 0.138601
+    },
+    {
+        "wavelength": 280,
+        "absorbance_1": 1.06188,
+        "absorbance_2": -0.1095,
+        "absorbance_3": 0.00483435
+    },
+    {
+        "wavelength": 281,
+        "absorbance_1": 1.0407,
+        "absorbance_2": 0.0816397,
+        "absorbance_3": -0.0411072
+    },
+    {
+        "wavelength": 282,
+        "absorbance_1": 0.928039,
+        "absorbance_2": -0.127102,
+        "absorbance_3": -0.0887811
+    },
+    {
+        "wavelength": 283,
+        "absorbance_1": 1.01482,
+        "absorbance_2": 0.114418,
+        "absorbance_3": 0.222467
+    },
+    {
+        "wavelength": 284,
+        "absorbance_1": 0.872114,
+        "absorbance_2": -0.203375,
+        "absorbance_3": -0.0523978
+    },
+    {
+        "wavelength": 285,
+        "absorbance_1": 0.932489,
+        "absorbance_2": 0.0462565,
+        "absorbance_3": 0.0414114
+    },
+    {
+        "wavelength": 286,
+        "absorbance_1": 0.928544,
+        "absorbance_2": -0.0019466,
+        "absorbance_3": -0.204634
+    },
+    {
+        "wavelength": 287,
+        "absorbance_1": 1,
+        "absorbance_2": 0.042794,
+        "absorbance_3": 0.0855881
+    },
+    {
+        "wavelength": 288,
+        "absorbance_1": 0.905085,
+        "absorbance_2": 0.022362,
+        "absorbance_3": -0.08597
+    },
+    {
+        "wavelength": 289,
+        "absorbance_1": 0.952298,
+        "absorbance_2": -0.197575,
+        "absorbance_3": 0.0382556
+    },
+    {
+        "wavelength": 290,
+        "absorbance_1": 0.95405,
+        "absorbance_2": -0.0574376,
+        "absorbance_3": -0.150413
+    },
+    {
+        "wavelength": 291,
+        "absorbance_1": 0.981135,
+        "absorbance_2": 0.152415,
+        "absorbance_3": -0.0595029
+    },
+    {
+        "wavelength": 292,
+        "absorbance_1": 0.878768,
+        "absorbance_2": -0.0345394,
+        "absorbance_3": 0.0626496
+    },
+    {
+        "wavelength": 293,
+        "absorbance_1": 1.06841,
+        "absorbance_2": 0.199194,
+        "absorbance_3": 0.108652
+    },
+    {
+        "wavelength": 294,
+        "absorbance_1": 1.12066,
+        "absorbance_2": 0.00695001,
+        "absorbance_3": -0.0448521
+    },
+    {
+        "wavelength": 295,
+        "absorbance_1": 1.03778,
+        "absorbance_2": 0.188916,
+        "absorbance_3": 0.151133
+    },
+    {
+        "wavelength": 296,
+        "absorbance_1": 1.02147,
+        "absorbance_2": -0.054255,
+        "absorbance_3": -0.0113106
+    },
+    {
+        "wavelength": 297,
+        "absorbance_1": 1.17756,
+        "absorbance_2": -0.0653606,
+        "absorbance_3": -0.0468388
+    },
+    {
+        "wavelength": 298,
+        "absorbance_1": 1.06393,
+        "absorbance_2": -0.0500404,
+        "absorbance_3": 0.0145994
+    },
+    {
+        "wavelength": 299,
+        "absorbance_1": 0.840075,
+        "absorbance_2": -0.0960005,
+        "absorbance_3": 0.0325281
+    },
+    {
+        "wavelength": 300,
+        "absorbance_1": 1.0228,
+        "absorbance_2": -0.0400521,
+        "absorbance_3": -0.0114021
+    },
+    {
+        "wavelength": 301,
+        "absorbance_1": 0.898902,
+        "absorbance_2": -0.143539,
+        "absorbance_3": -0.0276603
+    },
+    {
+        "wavelength": 302,
+        "absorbance_1": 1.0383,
+        "absorbance_2": 0.0347772,
+        "absorbance_3": -0.0660272
+    },
+    {
+        "wavelength": 303,
+        "absorbance_1": 1.0222,
+        "absorbance_2": 0.107822,
+        "absorbance_3": 0.14323
+    },
+    {
+        "wavelength": 304,
+        "absorbance_1": 1.01019,
+        "absorbance_2": -0.0287461,
+        "absorbance_3": -0.106833
+    },
+    {
+        "wavelength": 305,
+        "absorbance_1": 0.984521,
+        "absorbance_2": 0.0196379,
+        "absorbance_3": 0.0416634
+    },
+    {
+        "wavelength": 306,
+        "absorbance_1": 1.07504,
+        "absorbance_2": 0.0531438,
+        "absorbance_3": -0.125
+    },
+    {
+        "wavelength": 307,
+        "absorbance_1": 1.04374,
+        "absorbance_2": 0.137478,
+        "absorbance_3": 0.0837791
+    },
+    {
+        "wavelength": 308,
+        "absorbance_1": 1.01842,
+        "absorbance_2": -0.101052,
+        "absorbance_3": -0.0643702
+    },
+    {
+        "wavelength": 309,
+        "absorbance_1": 1.06453,
+        "absorbance_2": 0.0671335,
+        "absorbance_3": 0.0819608
+    },
+    {
+        "wavelength": 310,
+        "absorbance_1": 1.06721,
+        "absorbance_2": 0.0625169,
+        "absorbance_3": 0.0478312
+    },
+    {
+        "wavelength": 311,
+        "absorbance_1": 0.9936,
+        "absorbance_2": 0.0425501,
+        "absorbance_3": 0.0500459
+    },
+    {
+        "wavelength": 312,
+        "absorbance_1": 1.00822,
+        "absorbance_2": 0.0437099,
+        "absorbance_3": 0.0457978
+    },
+    {
+        "wavelength": 313,
+        "absorbance_1": 0.999066,
+        "absorbance_2": 0.0385249,
+        "absorbance_3": 0.0375906
+    },
+    {
+        "wavelength": 314,
+        "absorbance_1": 0.991545,
+        "absorbance_2": 0.0517951,
+        "absorbance_3": 0.0484684
+    },
+    {
+        "wavelength": 315,
+        "absorbance_1": 1.00178,
+        "absorbance_2": 0.0400661,
+        "absorbance_3": 0.0355506
+    },
+    {
+        "wavelength": 316,
+        "absorbance_1": 1.0072,
+        "absorbance_2": 0.0476,
+        "absorbance_3": 0.0369546
+    },
+    {
+        "wavelength": 317,
+        "absorbance_1": 1.02225,
+        "absorbance_2": 0.0318874,
+        "absorbance_3": 0.0231753
+    },
+    {
+        "wavelength": 318,
+        "absorbance_1": 1.05667,
+        "absorbance_2": 0.0148282,
+        "absorbance_3": 0.045196
+    },
+    {
+        "wavelength": 319,
+        "absorbance_1": 1.03209,
+        "absorbance_2": 0.01324,
+        "absorbance_3": -0.00661998
+    },
+    {
+        "wavelength": 320,
+        "absorbance_1": 0.971282,
+        "absorbance_2": 0.0582055,
+        "absorbance_3": 0.065898
+    },
+    {
+        "wavelength": 321,
+        "absorbance_1": 1.12938,
+        "absorbance_2": -0.0554612,
+        "absorbance_3": -0.0554877
+    },
+    {
+        "wavelength": 322,
+        "absorbance_1": 0.961185,
+        "absorbance_2": 0.0328271,
+        "absorbance_3": 0.0655561
+    },
+    {
+        "wavelength": 323,
+        "absorbance_1": 1.01536,
+        "absorbance_2": -0.0605873,
+        "absorbance_3": 0.0460757
+    },
+    {
+        "wavelength": 324,
+        "absorbance_1": 0.987351,
+        "absorbance_2": -0.0013868,
+        "absorbance_3": 0.0196672
+    },
+    {
+        "wavelength": 325,
+        "absorbance_1": 1.03399,
+        "absorbance_2": -0.0162997,
+        "absorbance_3": -0.0285575
+    },
+    {
+        "wavelength": 326,
+        "absorbance_1": 0.956284,
+        "absorbance_2": -0.00596313,
+        "absorbance_3": 0.0181044
+    },
+    {
+        "wavelength": 327,
+        "absorbance_1": 1.06824,
+        "absorbance_2": 0.00212562,
+        "absorbance_3": 0.0351816
+    },
+    {
+        "wavelength": 328,
+        "absorbance_1": 1.01749,
+        "absorbance_2": 0.00874381,
+        "absorbance_3": -0.00146346
+    },
+    {
+        "wavelength": 329,
+        "absorbance_1": 0.979877,
+        "absorbance_2": 0.0315272,
+        "absorbance_3": 0.00978255
+    },
+    {
+        "wavelength": 330,
+        "absorbance_1": 1.0133,
+        "absorbance_2": 0.0154873,
+        "absorbance_3": 0.00328812
+    },
+    {
+        "wavelength": 331,
+        "absorbance_1": 1.02545,
+        "absorbance_2": 0.00137829,
+        "absorbance_3": 0.0266381
+    },
+    {
+        "wavelength": 332,
+        "absorbance_1": 1.02442,
+        "absorbance_2": 0.001636,
+        "absorbance_3": -0.0122321
+    },
+    {
+        "wavelength": 333,
+        "absorbance_1": 1.00747,
+        "absorbance_2": 0.0157253,
+        "absorbance_3": 0.0277669
+    },
+    {
+        "wavelength": 334,
+        "absorbance_1": 0.995132,
+        "absorbance_2": 0.00460911,
+        "absorbance_3": -0.0120407
+    },
+    {
+        "wavelength": 335,
+        "absorbance_1": 1.01122,
+        "absorbance_2": 0.0243552,
+        "absorbance_3": 0.0243552
+    },
+    {
+        "wavelength": 336,
+        "absorbance_1": 0.994409,
+        "absorbance_2": 0.0280028,
+        "absorbance_3": 0.0336251
+    },
+    {
+        "wavelength": 337,
+        "absorbance_1": 0.985774,
+        "absorbance_2": 0.032693,
+        "absorbance_3": 0.0154651
+    },
+    {
+        "wavelength": 338,
+        "absorbance_1": 0.99487,
+        "absorbance_2": 0.0126735,
+        "absorbance_3": 0.0292698
+    },
+    {
+        "wavelength": 339,
+        "absorbance_1": 1.02366,
+        "absorbance_2": 0.00179042,
+        "absorbance_3": -0.0199864
+    },
+    {
+        "wavelength": 340,
+        "absorbance_1": 1.02293,
+        "absorbance_2": 0.00282224,
+        "absorbance_3": 0.0282193
+    },
+    {
+        "wavelength": 341,
+        "absorbance_1": 0.977342,
+        "absorbance_2": 0.00476446,
+        "absorbance_3": -0.00596719
+    },
+    {
+        "wavelength": 342,
+        "absorbance_1": 0.986054,
+        "absorbance_2": 0.00404509,
+        "absorbance_3": -0.00213256
+    },
+    {
+        "wavelength": 343,
+        "absorbance_1": 1.01286,
+        "absorbance_2": 0.00693654,
+        "absorbance_3": 0.00792033
+    },
+    {
+        "wavelength": 344,
+        "absorbance_1": 1.00664,
+        "absorbance_2": 0.00603502,
+        "absorbance_3": 0.00483454
+    },
+    {
+        "wavelength": 345,
+        "absorbance_1": 1.01596,
+        "absorbance_2": 0.00135177,
+        "absorbance_3": 0.000540706
+    },
+    {
+        "wavelength": 346,
+        "absorbance_1": 1.00554,
+        "absorbance_2": 0.0137848,
+        "absorbance_3": -0.00553604
+    },
+    {
+        "wavelength": 347,
+        "absorbance_1": 0.996919,
+        "absorbance_2": -0.0111174,
+        "absorbance_3": -0.00435183
+    },
+    {
+        "wavelength": 348,
+        "absorbance_1": 1.0125,
+        "absorbance_2": 0.0137409,
+        "absorbance_3": -0.00993565
+    },
+    {
+        "wavelength": 349,
+        "absorbance_1": 0.977978,
+        "absorbance_2": -0.00182411,
+        "absorbance_3": -0.00755823
+    },
+    {
+        "wavelength": 350,
+        "absorbance_1": 1.00874,
+        "absorbance_2": -0.0106914,
+        "absorbance_3": 0.00666788
+    },
+    {
+        "wavelength": 351,
+        "absorbance_1": 0.991342,
+        "absorbance_2": 0.0170473,
+        "absorbance_3": 0.0215367
+    },
+    {
+        "wavelength": 352,
+        "absorbance_1": 0.994089,
+        "absorbance_2": -0.020128,
+        "absorbance_3": -0.00152899
+    },
+    {
+        "wavelength": 353,
+        "absorbance_1": 0.992882,
+        "absorbance_2": -0.00570848,
+        "absorbance_3": -0.00718697
+    },
+    {
+        "wavelength": 354,
+        "absorbance_1": 1.009,
+        "absorbance_2": 0.00613327,
+        "absorbance_3": -0.0153874
+    },
+    {
+        "wavelength": 355,
+        "absorbance_1": 0.990476,
+        "absorbance_2": -0.000835907,
+        "absorbance_3": 0.00548615
+    },
+    {
+        "wavelength": 356,
+        "absorbance_1": 0.996804,
+        "absorbance_2": 0,
+        "absorbance_3": 0.0133103
+    },
+    {
+        "wavelength": 357,
+        "absorbance_1": 0.978606,
+        "absorbance_2": -0.0155387,
+        "absorbance_3": 0.00329221
+    },
+    {
+        "wavelength": 358,
+        "absorbance_1": 0.997097,
+        "absorbance_2": 0.013195,
+        "absorbance_3": 0.0120066
+    },
+    {
+        "wavelength": 359,
+        "absorbance_1": 1.00971,
+        "absorbance_2": -0.016645,
+        "absorbance_3": -0.0192647
+    },
+    {
+        "wavelength": 360,
+        "absorbance_1": 0.99847,
+        "absorbance_2": 0.00475019,
+        "absorbance_3": -0.00401688
+    },
+    {
+        "wavelength": 361,
+        "absorbance_1": 0.998421,
+        "absorbance_2": -0.0303093,
+        "absorbance_3": -0.0327016
+    },
+    {
+        "wavelength": 362,
+        "absorbance_1": 1.00049,
+        "absorbance_2": -0.0406387,
+        "absorbance_3": -0.0377595
+    },
+    {
+        "wavelength": 363,
+        "absorbance_1": 0.998583,
+        "absorbance_2": -0.0194608,
+        "absorbance_3": -0.0180817
+    },
+    {
+        "wavelength": 364,
+        "absorbance_1": 0.999767,
+        "absorbance_2": -0.010852,
+        "absorbance_3": -0.0136451
+    },
+    {
+        "wavelength": 365,
+        "absorbance_1": 0.999791,
+        "absorbance_2": -0.0153577,
+        "absorbance_3": -0.0150714
+    },
+    {
+        "wavelength": 366,
+        "absorbance_1": 1.00098,
+        "absorbance_2": -0.0127374,
+        "absorbance_3": -0.0112821
+    },
+    {
+        "wavelength": 367,
+        "absorbance_1": 1.00239,
+        "absorbance_2": -0.00236673,
+        "absorbance_3": -0.00310732
+    },
+    {
+        "wavelength": 368,
+        "absorbance_1": 0.998079,
+        "absorbance_2": 0.00576218,
+        "absorbance_3": 0.00779014
+    },
+    {
+        "wavelength": 369,
+        "absorbance_1": 0.998582,
+        "absorbance_2": 0.0011014,
+        "absorbance_3": 0.00251943
+    },
+    {
+        "wavelength": 370,
+        "absorbance_1": 0.989537,
+        "absorbance_2": -0.0054712,
+        "absorbance_3": -0.00225633
+    },
+    {
+        "wavelength": 371,
+        "absorbance_1": 0.992826,
+        "absorbance_2": -0.0145869,
+        "absorbance_3": -0.0303641
+    },
+    {
+        "wavelength": 372,
+        "absorbance_1": 0.989283,
+        "absorbance_2": -0.0180281,
+        "absorbance_3": -0.00652989
+    },
+    {
+        "wavelength": 373,
+        "absorbance_1": 1.00276,
+        "absorbance_2": -0.0237399,
+        "absorbance_3": -0.00765694
+    },
+    {
+        "wavelength": 374,
+        "absorbance_1": 1.01328,
+        "absorbance_2": -0.00373934,
+        "absorbance_3": -0.0286543
+    },
+    {
+        "wavelength": 375,
+        "absorbance_1": 0.992576,
+        "absorbance_2": -0.0124329,
+        "absorbance_3": -0.0133721
+    },
+    {
+        "wavelength": 376,
+        "absorbance_1": 1.00707,
+        "absorbance_2": -0.0135838,
+        "absorbance_3": -0.0198427
+    },
+    {
+        "wavelength": 377,
+        "absorbance_1": 0.984851,
+        "absorbance_2": -0.0189644,
+        "absorbance_3": -0.00460023
+    },
+    {
+        "wavelength": 378,
+        "absorbance_1": 1.00249,
+        "absorbance_2": -0.0104189,
+        "absorbance_3": -0.00371914
+    },
+    {
+        "wavelength": 379,
+        "absorbance_1": 0.988538,
+        "absorbance_2": -0.0161504,
+        "absorbance_3": -0.020127
+    },
+    {
+        "wavelength": 380,
+        "absorbance_1": 1.01279,
+        "absorbance_2": -0.0138245,
+        "absorbance_3": -0.00713979
+    },
+    {
+        "wavelength": 381,
+        "absorbance_1": 1.00136,
+        "absorbance_2": -0.00867243,
+        "absorbance_3": -0.00572661
+    },
+    {
+        "wavelength": 382,
+        "absorbance_1": 1.00107,
+        "absorbance_2": 0.00199187,
+        "absorbance_3": -0.00796749
+    },
+    {
+        "wavelength": 383,
+        "absorbance_1": 1.00217,
+        "absorbance_2": -0.000424267,
+        "absorbance_3": -0.00274695
+    },
+    {
+        "wavelength": 384,
+        "absorbance_1": 0.9968,
+        "absorbance_2": -0.0113783,
+        "absorbance_3": -0.0130528
+    },
+    {
+        "wavelength": 385,
+        "absorbance_1": 1.00389,
+        "absorbance_2": 0.00688538,
+        "absorbance_3": -0.0305121
+    },
+    {
+        "wavelength": 386,
+        "absorbance_1": 0.991045,
+        "absorbance_2": -0.0147233,
+        "absorbance_3": -0.0156405
+    },
+    {
+        "wavelength": 387,
+        "absorbance_1": 1.00417,
+        "absorbance_2": -0.016717,
+        "absorbance_3": -0.0302446
+    },
+    {
+        "wavelength": 388,
+        "absorbance_1": 1.00913,
+        "absorbance_2": -0.0134435,
+        "absorbance_3": -0.00196791
+    },
+    {
+        "wavelength": 389,
+        "absorbance_1": 1.00419,
+        "absorbance_2": -0.0126124,
+        "absorbance_3": -0.0216618
+    },
+    {
+        "wavelength": 390,
+        "absorbance_1": 0.989018,
+        "absorbance_2": -0.0133769,
+        "absorbance_3": -0.0123849
+    },
+    {
+        "wavelength": 391,
+        "absorbance_1": 1.02522,
+        "absorbance_2": 0.00199395,
+        "absorbance_3": -0.0174207
+    },
+    {
+        "wavelength": 392,
+        "absorbance_1": 1.01088,
+        "absorbance_2": -0.00683562,
+        "absorbance_3": 0.0147402
+    },
+    {
+        "wavelength": 393,
+        "absorbance_1": 1.02522,
+        "absorbance_2": -0.0195799,
+        "absorbance_3": -0.0298664
+    },
+    {
+        "wavelength": 394,
+        "absorbance_1": 1.00775,
+        "absorbance_2": 0.0160173,
+        "absorbance_3": -0.00282225
+    },
+    {
+        "wavelength": 395,
+        "absorbance_1": 1.00237,
+        "absorbance_2": -0.0118525,
+        "absorbance_3": -0.0203622
+    },
+    {
+        "wavelength": 396,
+        "absorbance_1": 0.98369,
+        "absorbance_2": 0.00295812,
+        "absorbance_3": -0.0051971
+    },
+    {
+        "wavelength": 397,
+        "absorbance_1": 1.00979,
+        "absorbance_2": -0.0402153,
+        "absorbance_3": -0.0299014
+    },
+    {
+        "wavelength": 398,
+        "absorbance_1": 0.988889,
+        "absorbance_2": -0.0187215,
+        "absorbance_3": -0.00689377
+    },
+    {
+        "wavelength": 399,
+        "absorbance_1": 0.999891,
+        "absorbance_2": -0.028636,
+        "absorbance_3": -0.0315278
+    },
+    {
+        "wavelength": 400,
+        "absorbance_1": 0.997073,
+        "absorbance_2": -0.0434812,
+        "absorbance_3": -0.0453626
+    },
+    {
+        "wavelength": 401,
+        "absorbance_1": 1.00041,
+        "absorbance_2": -0.0501053,
+        "absorbance_3": -0.0497749
+    },
+    {
+        "wavelength": 402,
+        "absorbance_1": 0.999802,
+        "absorbance_2": -0.0259145,
+        "absorbance_3": -0.0252421
+    },
+    {
+        "wavelength": 403,
+        "absorbance_1": 1.0001,
+        "absorbance_2": -0.0147116,
+        "absorbance_3": -0.0148185
+    },
+    {
+        "wavelength": 404,
+        "absorbance_1": 1.00012,
+        "absorbance_2": -0.0178616,
+        "absorbance_3": -0.0194869
+    },
+    {
+        "wavelength": 405,
+        "absorbance_1": 1.00002,
+        "absorbance_2": -0.0159961,
+        "absorbance_3": -0.0146718
+    },
+    {
+        "wavelength": 406,
+        "absorbance_1": 0.999945,
+        "absorbance_2": -0.0100199,
+        "absorbance_3": -0.0103694
+    },
+    {
+        "wavelength": 407,
+        "absorbance_1": 1.00099,
+        "absorbance_2": 0.00592724,
+        "absorbance_3": 0.00345696
+    },
+    {
+        "wavelength": 408,
+        "absorbance_1": 0.998148,
+        "absorbance_2": -0.00470982,
+        "absorbance_3": -0.00531255
+    },
+    {
+        "wavelength": 409,
+        "absorbance_1": 1.00024,
+        "absorbance_2": -0.00266121,
+        "absorbance_3": -0.00290587
+    },
+    {
+        "wavelength": 410,
+        "absorbance_1": 0.994763,
+        "absorbance_2": -0.00896144,
+        "absorbance_3": -0.0161217
+    },
+    {
+        "wavelength": 411,
+        "absorbance_1": 0.998656,
+        "absorbance_2": 0.00685446,
+        "absorbance_3": -0.00817242
+    },
+    {
+        "wavelength": 412,
+        "absorbance_1": 0.999188,
+        "absorbance_2": -0.0148635,
+        "absorbance_3": -0.0145143
+    },
+    {
+        "wavelength": 413,
+        "absorbance_1": 0.99529,
+        "absorbance_2": -0.0085133,
+        "absorbance_3": -0.00466451
+    },
+    {
+        "wavelength": 414,
+        "absorbance_1": 0.994331,
+        "absorbance_2": -0.0226764,
+        "absorbance_3": -0.0125279
+    },
+    {
+        "wavelength": 415,
+        "absorbance_1": 1.00326,
+        "absorbance_2": 0.00653789,
+        "absorbance_3": 0.0228744
+    },
+    {
+        "wavelength": 416,
+        "absorbance_1": 1.00592,
+        "absorbance_2": -0.0113643,
+        "absorbance_3": -0.0249186
+    },
+    {
+        "wavelength": 417,
+        "absorbance_1": 1.00088,
+        "absorbance_2": -0.0153297,
+        "absorbance_3": -0.0107811
+    },
+    {
+        "wavelength": 418,
+        "absorbance_1": 1.00175,
+        "absorbance_2": -0.0238132,
+        "absorbance_3": -0.0140224
+    },
+    {
+        "wavelength": 419,
+        "absorbance_1": 0.994015,
+        "absorbance_2": -0.0152554,
+        "absorbance_3": -0.00189432
+    },
+    {
+        "wavelength": 420,
+        "absorbance_1": 1,
+        "absorbance_2": -0.0277456,
+        "absorbance_3": -0.0233917
+    },
+    {
+        "wavelength": 421,
+        "absorbance_1": 1.00732,
+        "absorbance_2": 0.00731847,
+        "absorbance_3": -0.0115558
+    },
+    {
+        "wavelength": 422,
+        "absorbance_1": 1.01298,
+        "absorbance_2": -0.0162191,
+        "absorbance_3": -0.0132977
+    },
+    {
+        "wavelength": 423,
+        "absorbance_1": 0.999723,
+        "absorbance_2": -0.00397265,
+        "absorbance_3": -0.00836094
+    },
+    {
+        "wavelength": 424,
+        "absorbance_1": 1.01418,
+        "absorbance_2": -0.00709025,
+        "absorbance_3": -0.0203044
+    },
+    {
+        "wavelength": 425,
+        "absorbance_1": 1.00217,
+        "absorbance_2": 0,
+        "absorbance_3": 0.00073002
+    },
+    {
+        "wavelength": 426,
+        "absorbance_1": 1.01325,
+        "absorbance_2": -0.014002,
+        "absorbance_3": -0.0206285
+    },
+    {
+        "wavelength": 427,
+        "absorbance_1": 1.00115,
+        "absorbance_2": -0.0100211,
+        "absorbance_3": -0.00710335
+    },
+    {
+        "wavelength": 428,
+        "absorbance_1": 0.998027,
+        "absorbance_2": -0.0123666,
+        "absorbance_3": -0.011255
+    },
+    {
+        "wavelength": 429,
+        "absorbance_1": 1.00855,
+        "absorbance_2": -0.0164462,
+        "absorbance_3": -0.0131503
+    },
+    {
+        "wavelength": 430,
+        "absorbance_1": 0.998278,
+        "absorbance_2": -0.022961,
+        "absorbance_3": -0.029251
+    },
+    {
+        "wavelength": 431,
+        "absorbance_1": 1.00236,
+        "absorbance_2": -0.0284309,
+        "absorbance_3": -0.030629
+    },
+    {
+        "wavelength": 432,
+        "absorbance_1": 0.999998,
+        "absorbance_2": -0.0490796,
+        "absorbance_3": -0.0484958
+    },
+    {
+        "wavelength": 433,
+        "absorbance_1": 0.999967,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 434,
+        "absorbance_1": 0.999593,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 435,
+        "absorbance_1": 0.999757,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 436,
+        "absorbance_1": 0.999846,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 437,
+        "absorbance_1": 0.999779,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 438,
+        "absorbance_1": 1.00009,
+        "absorbance_2": 0.00379769,
+        "absorbance_3": 0.0023816
+    },
+    {
+        "wavelength": 439,
+        "absorbance_1": 0.999856,
+        "absorbance_2": -0.00121494,
+        "absorbance_3": -0.00302846
+    },
+    {
+        "wavelength": 440,
+        "absorbance_1": 1,
+        "absorbance_2": -0.00258259,
+        "absorbance_3": -0.000717778
+    },
+    {
+        "wavelength": 441,
+        "absorbance_1": 1.00002,
+        "absorbance_2": -0.0117503,
+        "absorbance_3": -0.00671927
+    },
+    {
+        "wavelength": 442,
+        "absorbance_1": 0.995349,
+        "absorbance_2": -0.00933321,
+        "absorbance_3": -0.00933321
+    },
+    {
+        "wavelength": 443,
+        "absorbance_1": 1.00936,
+        "absorbance_2": -0.021295,
+        "absorbance_3": -0.0135254
+    },
+    {
+        "wavelength": 444,
+        "absorbance_1": 0.989988,
+        "absorbance_2": 0.00272222,
+        "absorbance_3": -0.00638203
+    },
+    {
+        "wavelength": 445,
+        "absorbance_1": 1.00034,
+        "absorbance_2": -0.0196387,
+        "absorbance_3": -0.0112179
+    },
+    {
+        "wavelength": 446,
+        "absorbance_1": 0.998928,
+        "absorbance_2": -0.00677201,
+        "absorbance_3": 0.000788705
+    },
+    {
+        "wavelength": 447,
+        "absorbance_1": 0.984647,
+        "absorbance_2": -0.0152297,
+        "absorbance_3": -0.0173427
+    },
+    {
+        "wavelength": 448,
+        "absorbance_1": 1.00236,
+        "absorbance_2": -0.00934876,
+        "absorbance_3": -0.00849039
+    },
+    {
+        "wavelength": 449,
+        "absorbance_1": 0.988163,
+        "absorbance_2": -0.0281535,
+        "absorbance_3": -0.0118372
+    },
+    {
+        "wavelength": 450,
+        "absorbance_1": 0.996986,
+        "absorbance_2": -0.00945935,
+        "absorbance_3": -0.0187097
+    },
+    {
+        "wavelength": 451,
+        "absorbance_1": 1.00023,
+        "absorbance_2": -0.0158838,
+        "absorbance_3": -0.00748649
+    },
+    {
+        "wavelength": 452,
+        "absorbance_1": 0.990083,
+        "absorbance_2": -0.00515704,
+        "absorbance_3": -0.0165616
+    },
+    {
+        "wavelength": 453,
+        "absorbance_1": 1.00323,
+        "absorbance_2": -0.0194038,
+        "absorbance_3": -0.0328839
+    },
+    {
+        "wavelength": 454,
+        "absorbance_1": 1.00077,
+        "absorbance_2": -0.00759022,
+        "absorbance_3": -0.0183704
+    },
+    {
+        "wavelength": 455,
+        "absorbance_1": 0.993518,
+        "absorbance_2": -0.012847,
+        "absorbance_3": -0.00818928
+    },
+    {
+        "wavelength": 456,
+        "absorbance_1": 1.00218,
+        "absorbance_2": -0.0227703,
+        "absorbance_3": -0.0279169
+    },
+    {
+        "wavelength": 457,
+        "absorbance_1": 0.999003,
+        "absorbance_2": 0.00727861,
+        "absorbance_3": -0.0117191
+    },
+    {
+        "wavelength": 458,
+        "absorbance_1": 0.993727,
+        "absorbance_2": -0.00367582,
+        "absorbance_3": 0.00327839
+    },
+    {
+        "wavelength": 459,
+        "absorbance_1": 1,
+        "absorbance_2": -0.011782,
+        "absorbance_3": 0.00368168
+    },
+    {
+        "wavelength": 460,
+        "absorbance_1": 1.00643,
+        "absorbance_2": -0.0159474,
+        "absorbance_3": 0.00572041
+    },
+    {
+        "wavelength": 461,
+        "absorbance_1": 0.995023,
+        "absorbance_2": -0.0243762,
+        "absorbance_3": -0.0267406
+    },
+    {
+        "wavelength": 462,
+        "absorbance_1": 0.997465,
+        "absorbance_2": -0.0103908,
+        "absorbance_3": -0.0166001
+    },
+    {
+        "wavelength": 463,
+        "absorbance_1": 1,
+        "absorbance_2": -0.0109481,
+        "absorbance_3": -0.027358
+    },
+    {
+        "wavelength": 464,
+        "absorbance_1": 1.00238,
+        "absorbance_2": -0.019328,
+        "absorbance_3": -0.0127929
+    },
+    {
+        "wavelength": 465,
+        "absorbance_1": 1.00764,
+        "absorbance_2": -0.0133258,
+        "absorbance_3": -0.0188664
+    },
+    {
+        "wavelength": 466,
+        "absorbance_1": 1.00568,
+        "absorbance_2": -0.0138576,
+        "absorbance_3": -0.011643
+    },
+    {
+        "wavelength": 467,
+        "absorbance_1": 1.00236,
+        "absorbance_2": -0.00970721,
+        "absorbance_3": -0.0060128
+    },
+    {
+        "wavelength": 468,
+        "absorbance_1": 1.00218,
+        "absorbance_2": -0.0147559,
+        "absorbance_3": -0.0109229
+    },
+    {
+        "wavelength": 469,
+        "absorbance_1": 0.995427,
+        "absorbance_2": -0.0208563,
+        "absorbance_3": -0.025886
+    },
+    {
+        "wavelength": 470,
+        "absorbance_1": 0.99765,
+        "absorbance_2": -0.00756065,
+        "absorbance_3": -0.0243232
+    },
+    {
+        "wavelength": 471,
+        "absorbance_1": 1.00177,
+        "absorbance_2": -0.00472128,
+        "absorbance_3": -0.010543
+    },
+    {
+        "wavelength": 472,
+        "absorbance_1": 1.00833,
+        "absorbance_2": -0.017664,
+        "absorbance_3": -0.0117569
+    },
+    {
+        "wavelength": 473,
+        "absorbance_1": 1,
+        "absorbance_2": -0.0160958,
+        "absorbance_3": -0.0118104
+    },
+    {
+        "wavelength": 474,
+        "absorbance_1": 1.00184,
+        "absorbance_2": -0.0127704,
+        "absorbance_3": -0.015367
+    },
+    {
+        "wavelength": 475,
+        "absorbance_1": 0.992517,
+        "absorbance_2": -0.00718194,
+        "absorbance_3": -0.018149
+    },
+    {
+        "wavelength": 476,
+        "absorbance_1": 1.00336,
+        "absorbance_2": -0.0127195,
+        "absorbance_3": -0.0146637
+    },
+    {
+        "wavelength": 477,
+        "absorbance_1": 1.00043,
+        "absorbance_2": -0.0183779,
+        "absorbance_3": -0.0194077
+    },
+    {
+        "wavelength": 478,
+        "absorbance_1": 1.0015,
+        "absorbance_2": -0.0217912,
+        "absorbance_3": -0.02079
+    },
+    {
+        "wavelength": 479,
+        "absorbance_1": 0.999227,
+        "absorbance_2": -0.0204858,
+        "absorbance_3": -0.0193261
+    },
+    {
+        "wavelength": 480,
+        "absorbance_1": 0.998408,
+        "absorbance_2": -0.024001,
+        "absorbance_3": -0.0235657
+    },
+    {
+        "wavelength": 481,
+        "absorbance_1": 0.99888,
+        "absorbance_2": -0.0221967,
+        "absorbance_3": -0.0232812
+    },
+    {
+        "wavelength": 482,
+        "absorbance_1": 0.999362,
+        "absorbance_2": -0.0196642,
+        "absorbance_3": -0.0196677
+    },
+    {
+        "wavelength": 483,
+        "absorbance_1": 1.00013,
+        "absorbance_2": -0.0187927,
+        "absorbance_3": -0.0188951
+    },
+    {
+        "wavelength": 484,
+        "absorbance_1": 0.999555,
+        "absorbance_2": -0.00377278,
+        "absorbance_3": -0.00377278
+    },
+    {
+        "wavelength": 485,
+        "absorbance_1": 0.999856,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 486,
+        "absorbance_1": 0.999689,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 487,
+        "absorbance_1": 0.999718,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 488,
+        "absorbance_1": 0.999762,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 489,
+        "absorbance_1": 0.999832,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 490,
+        "absorbance_1": 0.999991,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 491,
+        "absorbance_1": 1.00012,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 492,
+        "absorbance_1": 0.999827,
+        "absorbance_2": -0.0104929,
+        "absorbance_3": -0.0107751
+    },
+    {
+        "wavelength": 493,
+        "absorbance_1": 0.999979,
+        "absorbance_2": -0.0104802,
+        "absorbance_3": -0.00986329
+    },
+    {
+        "wavelength": 494,
+        "absorbance_1": 0.999915,
+        "absorbance_2": -0.0108658,
+        "absorbance_3": -0.0104316
+    },
+    {
+        "wavelength": 495,
+        "absorbance_1": 0.999879,
+        "absorbance_2": -0.012072,
+        "absorbance_3": -0.0113969
+    },
+    {
+        "wavelength": 496,
+        "absorbance_1": 0.999729,
+        "absorbance_2": -0.0120859,
+        "absorbance_3": -0.0111347
+    },
+    {
+        "wavelength": 497,
+        "absorbance_1": 0.99989,
+        "absorbance_2": -0.00970997,
+        "absorbance_3": -0.0102704
+    },
+    {
+        "wavelength": 498,
+        "absorbance_1": 0.999494,
+        "absorbance_2": -0.0103586,
+        "absorbance_3": -0.0102079
+    },
+    {
+        "wavelength": 499,
+        "absorbance_1": 0.99992,
+        "absorbance_2": -0.0110942,
+        "absorbance_3": -0.01106
+    },
+    {
+        "wavelength": 500,
+        "absorbance_1": 0.999557,
+        "absorbance_2": -0.0100959,
+        "absorbance_3": -0.0105701
+    },
+    {
+        "wavelength": 501,
+        "absorbance_1": 0.99916,
+        "absorbance_2": -0.0113024,
+        "absorbance_3": -0.0101954
+    },
+    {
+        "wavelength": 502,
+        "absorbance_1": 1.00044,
+        "absorbance_2": -0.0120379,
+        "absorbance_3": -0.00983077
+    },
+    {
+        "wavelength": 503,
+        "absorbance_1": 1.0001,
+        "absorbance_2": -0.0102456,
+        "absorbance_3": -0.00972436
+    },
+    {
+        "wavelength": 504,
+        "absorbance_1": 1.0008,
+        "absorbance_2": -0.0118801,
+        "absorbance_3": -0.0096989
+    },
+    {
+        "wavelength": 505,
+        "absorbance_1": 0.999228,
+        "absorbance_2": -0.013699,
+        "absorbance_3": -0.013106
+    },
+    {
+        "wavelength": 506,
+        "absorbance_1": 1.00059,
+        "absorbance_2": -0.0155889,
+        "absorbance_3": -0.0129746
+    },
+    {
+        "wavelength": 507,
+        "absorbance_1": 0.996348,
+        "absorbance_2": -0.0115904,
+        "absorbance_3": -0.01297
+    },
+    {
+        "wavelength": 508,
+        "absorbance_1": 1.00522,
+        "absorbance_2": -0.00746535,
+        "absorbance_3": -0.00623408
+    },
+    {
+        "wavelength": 509,
+        "absorbance_1": 0.995164,
+        "absorbance_2": -0.0150313,
+        "absorbance_3": -0.0110366
+    },
+    {
+        "wavelength": 510,
+        "absorbance_1": 1.00159,
+        "absorbance_2": -0.00458914,
+        "absorbance_3": -0.00408994
+    },
+    {
+        "wavelength": 511,
+        "absorbance_1": 0.998345,
+        "absorbance_2": -0.0150208,
+        "absorbance_3": -0.0166157
+    },
+    {
+        "wavelength": 512,
+        "absorbance_1": 1.00123,
+        "absorbance_2": -0.0108446,
+        "absorbance_3": -0.0095246
+    },
+    {
+        "wavelength": 513,
+        "absorbance_1": 0.998839,
+        "absorbance_2": -0.0113814,
+        "absorbance_3": -0.013151
+    },
+    {
+        "wavelength": 514,
+        "absorbance_1": 1.00145,
+        "absorbance_2": -0.00809884,
+        "absorbance_3": -0.00886112
+    },
+    {
+        "wavelength": 515,
+        "absorbance_1": 1.0014,
+        "absorbance_2": -0.0126247,
+        "absorbance_3": -0.0142084
+    },
+    {
+        "wavelength": 516,
+        "absorbance_1": 1.00053,
+        "absorbance_2": -0.0120244,
+        "absorbance_3": -0.00898566
+    },
+    {
+        "wavelength": 517,
+        "absorbance_1": 1.00021,
+        "absorbance_2": -0.00758483,
+        "absorbance_3": -0.0102177
+    },
+    {
+        "wavelength": 518,
+        "absorbance_1": 1.00338,
+        "absorbance_2": -0.014382,
+        "absorbance_3": -0.00952816
+    },
+    {
+        "wavelength": 519,
+        "absorbance_1": 1.00041,
+        "absorbance_2": -0.00903346,
+        "absorbance_3": -0.00606814
+    },
+    {
+        "wavelength": 520,
+        "absorbance_1": 1.0029,
+        "absorbance_2": -0.0208479,
+        "absorbance_3": -0.00474481
+    },
+    {
+        "wavelength": 521,
+        "absorbance_1": 1.00134,
+        "absorbance_2": -0.0124016,
+        "absorbance_3": -0.00918469
+    },
+    {
+        "wavelength": 522,
+        "absorbance_1": 0.994719,
+        "absorbance_2": -0.00989616,
+        "absorbance_3": -0.00741961
+    },
+    {
+        "wavelength": 523,
+        "absorbance_1": 0.997217,
+        "absorbance_2": -0.0119448,
+        "absorbance_3": -0.0128436
+    },
+    {
+        "wavelength": 524,
+        "absorbance_1": 1.00162,
+        "absorbance_2": -0.0120562,
+        "absorbance_3": -0.0198243
+    },
+    {
+        "wavelength": 525,
+        "absorbance_1": 0.997986,
+        "absorbance_2": -0.0175603,
+        "absorbance_3": -0.0129939
+    },
+    {
+        "wavelength": 526,
+        "absorbance_1": 1.00026,
+        "absorbance_2": -0.0134445,
+        "absorbance_3": -0.0116183
+    },
+    {
+        "wavelength": 527,
+        "absorbance_1": 1.00322,
+        "absorbance_2": -0.0115955,
+        "absorbance_3": -0.0138468
+    },
+    {
+        "wavelength": 528,
+        "absorbance_1": 1.00001,
+        "absorbance_2": -0.0175722,
+        "absorbance_3": -0.0163733
+    },
+    {
+        "wavelength": 529,
+        "absorbance_1": 0.99828,
+        "absorbance_2": -0.0181991,
+        "absorbance_3": -0.0155658
+    },
+    {
+        "wavelength": 530,
+        "absorbance_1": 0.997992,
+        "absorbance_2": -0.0188454,
+        "absorbance_3": -0.0211072
+    },
+    {
+        "wavelength": 531,
+        "absorbance_1": 1.0005,
+        "absorbance_2": -0.0170462,
+        "absorbance_3": -0.0169051
+    },
+    {
+        "wavelength": 532,
+        "absorbance_1": 0.999883,
+        "absorbance_2": -0.0168517,
+        "absorbance_3": -0.01604
+    },
+    {
+        "wavelength": 533,
+        "absorbance_1": 0.998909,
+        "absorbance_2": -0.0187938,
+        "absorbance_3": -0.0181159
+    },
+    {
+        "wavelength": 534,
+        "absorbance_1": 1.00009,
+        "absorbance_2": -0.0201834,
+        "absorbance_3": -0.0194613
+    },
+    {
+        "wavelength": 535,
+        "absorbance_1": 0.99961,
+        "absorbance_2": -0.0189338,
+        "absorbance_3": -0.0181292
+    },
+    {
+        "wavelength": 536,
+        "absorbance_1": 0.999657,
+        "absorbance_2": -0.0182438,
+        "absorbance_3": -0.017148
+    },
+    {
+        "wavelength": 537,
+        "absorbance_1": 0.99979,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 538,
+        "absorbance_1": 0.999802,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 539,
+        "absorbance_1": 0.999119,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 540,
+        "absorbance_1": 0.998573,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 541,
+        "absorbance_1": 0.998858,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 542,
+        "absorbance_1": 0.998357,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 543,
+        "absorbance_1": 0.998133,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 544,
+        "absorbance_1": 0.998057,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 545,
+        "absorbance_1": 0.998385,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 546,
+        "absorbance_1": 0.998551,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 547,
+        "absorbance_1": 0.998521,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 548,
+        "absorbance_1": 0.99876,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 549,
+        "absorbance_1": 0.999437,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 550,
+        "absorbance_1": 0.999278,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 551,
+        "absorbance_1": 0.999653,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 552,
+        "absorbance_1": 0.999622,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 553,
+        "absorbance_1": 0.999622,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 554,
+        "absorbance_1": 0.999402,
+        "absorbance_2": -0.00806692,
+        "absorbance_3": -0.00799223
+    },
+    {
+        "wavelength": 555,
+        "absorbance_1": 0.999713,
+        "absorbance_2": -0.00765072,
+        "absorbance_3": -0.00912439
+    },
+    {
+        "wavelength": 556,
+        "absorbance_1": 0.999934,
+        "absorbance_2": -0.0105601,
+        "absorbance_3": -0.0103906
+    },
+    {
+        "wavelength": 557,
+        "absorbance_1": 1.00061,
+        "absorbance_2": -0.00912428,
+        "absorbance_3": -0.0103502
+    },
+    {
+        "wavelength": 558,
+        "absorbance_1": 0.998676,
+        "absorbance_2": -0.0115236,
+        "absorbance_3": -0.0116023
+    },
+    {
+        "wavelength": 559,
+        "absorbance_1": 1.00048,
+        "absorbance_2": -0.00959128,
+        "absorbance_3": -0.010491
+    },
+    {
+        "wavelength": 560,
+        "absorbance_1": 0.999088,
+        "absorbance_2": -0.0132606,
+        "absorbance_3": -0.0108435
+    },
+    {
+        "wavelength": 561,
+        "absorbance_1": 0.999512,
+        "absorbance_2": -0.0123664,
+        "absorbance_3": -0.00997459
+    },
+    {
+        "wavelength": 562,
+        "absorbance_1": 0.999472,
+        "absorbance_2": -0.0159901,
+        "absorbance_3": -0.0163577
+    },
+    {
+        "wavelength": 563,
+        "absorbance_1": 0.999398,
+        "absorbance_2": -0.0106303,
+        "absorbance_3": -0.0108311
+    },
+    {
+        "wavelength": 564,
+        "absorbance_1": 0.998581,
+        "absorbance_2": -0.0160322,
+        "absorbance_3": -0.0140708
+    },
+    {
+        "wavelength": 565,
+        "absorbance_1": 0.998354,
+        "absorbance_2": -0.0116232,
+        "absorbance_3": -0.0124463
+    },
+    {
+        "wavelength": 566,
+        "absorbance_1": 1,
+        "absorbance_2": -0.0119099,
+        "absorbance_3": -0.0129159
+    },
+    {
+        "wavelength": 567,
+        "absorbance_1": 1.00046,
+        "absorbance_2": -0.00992827,
+        "absorbance_3": -0.0118609
+    },
+    {
+        "wavelength": 568,
+        "absorbance_1": 1.00276,
+        "absorbance_2": -0.0142829,
+        "absorbance_3": -0.0100643
+    },
+    {
+        "wavelength": 569,
+        "absorbance_1": 0.997634,
+        "absorbance_2": -0.00879709,
+        "absorbance_3": -0.011578
+    },
+    {
+        "wavelength": 570,
+        "absorbance_1": 1.00042,
+        "absorbance_2": -0.0146028,
+        "absorbance_3": -0.0133352
+    },
+    {
+        "wavelength": 571,
+        "absorbance_1": 1.00034,
+        "absorbance_2": -0.011885,
+        "absorbance_3": -0.0131453
+    },
+    {
+        "wavelength": 572,
+        "absorbance_1": 1.0012,
+        "absorbance_2": -0.018058,
+        "absorbance_3": -0.0159087
+    },
+    {
+        "wavelength": 573,
+        "absorbance_1": 0.999634,
+        "absorbance_2": -0.0289262,
+        "absorbance_3": -0.0252077
+    },
+    {
+        "wavelength": 574,
+        "absorbance_1": 0.999316,
+        "absorbance_2": -0.0209499,
+        "absorbance_3": -0.0203565
+    },
+    {
+        "wavelength": 575,
+        "absorbance_1": 0.999993,
+        "absorbance_2": -0.0169047,
+        "absorbance_3": -0.0148478
+    },
+    {
+        "wavelength": 576,
+        "absorbance_1": 0.999733,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 577,
+        "absorbance_1": 0.99974,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 578,
+        "absorbance_1": 0.999871,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 579,
+        "absorbance_1": 0.999664,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 580,
+        "absorbance_1": 0.999731,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 581,
+        "absorbance_1": 0.999785,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 582,
+        "absorbance_1": 0.999802,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 583,
+        "absorbance_1": 0.999956,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 584,
+        "absorbance_1": 0.999606,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 585,
+        "absorbance_1": 0.999752,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 586,
+        "absorbance_1": 0.999545,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 587,
+        "absorbance_1": 0.999866,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 588,
+        "absorbance_1": 0.999756,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 589,
+        "absorbance_1": 0.99987,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 590,
+        "absorbance_1": 0.999766,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 591,
+        "absorbance_1": 0.999731,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 592,
+        "absorbance_1": 0.999704,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 593,
+        "absorbance_1": 0.999629,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 594,
+        "absorbance_1": 0.999687,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 595,
+        "absorbance_1": 0.999873,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 596,
+        "absorbance_1": 0.999683,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 597,
+        "absorbance_1": 0.999698,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 598,
+        "absorbance_1": 0.9995,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 599,
+        "absorbance_1": 0.999541,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 600,
+        "absorbance_1": 1,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 601,
+        "absorbance_1": 0.999808,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 602,
+        "absorbance_1": 0.9997,
+        "absorbance_2": -0.00958959,
+        "absorbance_3": -0.00919609
+    },
+    {
+        "wavelength": 603,
+        "absorbance_1": 0.999909,
+        "absorbance_2": -0.0114725,
+        "absorbance_3": -0.0117478
+    },
+    {
+        "wavelength": 604,
+        "absorbance_1": 0.999705,
+        "absorbance_2": -0.0130694,
+        "absorbance_3": -0.0131636
+    },
+    {
+        "wavelength": 605,
+        "absorbance_1": 0.999799,
+        "absorbance_2": -0.000282128,
+        "absorbance_3": -0.000280386
+    },
+    {
+        "wavelength": 606,
+        "absorbance_1": 0.999463,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 607,
+        "absorbance_1": 0.999248,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 608,
+        "absorbance_1": 0.999088,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 609,
+        "absorbance_1": 0.997761,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 610,
+        "absorbance_1": 0.997567,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 611,
+        "absorbance_1": 0.997278,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 612,
+        "absorbance_1": 0.997181,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 613,
+        "absorbance_1": 0.997111,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 614,
+        "absorbance_1": 0.99785,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 615,
+        "absorbance_1": 0.998588,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 616,
+        "absorbance_1": 0.998937,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 617,
+        "absorbance_1": 0.999012,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 618,
+        "absorbance_1": 0.999355,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 619,
+        "absorbance_1": 0.999046,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 620,
+        "absorbance_1": 0.999545,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 621,
+        "absorbance_1": 0.999706,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 622,
+        "absorbance_1": 0.999592,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 623,
+        "absorbance_1": 0.999823,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 624,
+        "absorbance_1": 0.999688,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 625,
+        "absorbance_1": 0.999313,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 626,
+        "absorbance_1": 0.999424,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 627,
+        "absorbance_1": 0.999694,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 628,
+        "absorbance_1": 0.999406,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 629,
+        "absorbance_1": 0.999565,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 630,
+        "absorbance_1": 0.999461,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 631,
+        "absorbance_1": 0.999597,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 632,
+        "absorbance_1": 0.999368,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 633,
+        "absorbance_1": 0.999476,
+        "absorbance_2": 0,
+        "absorbance_3": 0
+    },
+    {
+        "wavelength": 634,
+        "absorbance_1": 0.999892,
+        "absorbance_2": -0.00838263,
+        "absorbance_3": -0.00881379
+    },
+    {
+        "wavelength": 635,
+        "absorbance_1": 0.999716,
+        "absorbance_2": -0.00624933,
+        "absorbance_3": -0.00704628
+    },
+    {
+        "wavelength": 636,
+        "absorbance_1": 0.999676,
+        "absorbance_2": -0.00803776,
+        "absorbance_3": -0.00816051
+    },
+    {
+        "wavelength": 637,
+        "absorbance_1": 1.00042,
+        "absorbance_2": -0.00861502,
+        "absorbance_3": -0.00896813
+    },
+    {
+        "wavelength": 638,
+        "absorbance_1": 1.00005,
+        "absorbance_2": -0.0118595,
+        "absorbance_3": -0.0118537
+    },
+    {
+        "wavelength": 639,
+        "absorbance_1": 1.00016,
+        "absorbance_2": -0.0100185,
+        "absorbance_3": -0.0106491
+    },
+    {
+        "wavelength": 640,
+        "absorbance_1": 1.00004,
+        "absorbance_2": -0.0107229,
+        "absorbance_3": -0.0110368
+    },
+    {
+        "wavelength": 641,
+        "absorbance_1": 0.999512,
+        "absorbance_2": -0.00939374,
+        "absorbance_3": -0.00991899
+    },
+    {
+        "wavelength": 642,
+        "absorbance_1": 1.00063,
+        "absorbance_2": -0.00544083,
+        "absorbance_3": -0.00764236
+    },
+    {
+        "wavelength": 643,
+        "absorbance_1": 1.00174,
+        "absorbance_2": -0.00151876,
+        "absorbance_3": -0.00538349
+    },
+    {
+        "wavelength": 644,
+        "absorbance_1": 1.00285,
+        "absorbance_2": 0.00237284,
+        "absorbance_3": -0.00314218
+    },
+    {
+        "wavelength": 645,
+        "absorbance_1": 1.00394,
+        "absorbance_2": 0.0062343,
+        "absorbance_3": -0.000918213
+    },
+    {
+        "wavelength": 646,
+        "absorbance_1": 1.00503,
+        "absorbance_2": 0.010066,
+        "absorbance_3": 0.0012886
+    },
+    {
+        "wavelength": 647,
+        "absorbance_1": 1.00611,
+        "absorbance_2": 0.0138682,
+        "absorbance_3": 0.00347846
+    },
+    {
+        "wavelength": 648,
+        "absorbance_1": 1.00718,
+        "absorbance_2": 0.0176414,
+        "absorbance_3": 0.00565156
+    },
+    {
+        "wavelength": 649,
+        "absorbance_1": 1.00824,
+        "absorbance_2": 0.0213858,
+        "absorbance_3": 0.0078081
+    },
+    {
+        "wavelength": 650,
+        "absorbance_1": 1.00929,
+        "absorbance_2": 0.0251018,
+        "absorbance_3": 0.00994826
+    }
+]}

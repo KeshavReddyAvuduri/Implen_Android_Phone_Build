@@ -1,0 +1,6 @@
+{
+  "key": "configure_ip",
+  "label": "Configure IPv4",
+  "category": "network",
+  "value": "dhcp"
+}

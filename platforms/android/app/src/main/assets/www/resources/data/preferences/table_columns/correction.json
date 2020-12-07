@@ -1,0 +1,9 @@
+{
+    "key": "cor",
+    "label": "Correction",
+    "category": "",
+    "width": 150,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3
+}

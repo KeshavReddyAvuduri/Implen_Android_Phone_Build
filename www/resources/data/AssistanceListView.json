@@ -1,0 +1,59 @@
+  [
+    {
+      "label": "SupportLabel",
+      "key":0,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    },
+    {
+      "label": "UserManual",
+      "key":1,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    },
+    {
+      "label": "ReportProblem",
+      "key":2,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":false
+    },
+    {
+      "label": "SoftwareMaintenance",
+      "key":3,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    },
+    {
+      "label": "Diagnostics",
+      "key":4,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    },
+    {
+      "label": "Legal",
+      "key":5,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    },
+    {
+      "label": "EULA",
+      "key":6,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    }
+  ]
+

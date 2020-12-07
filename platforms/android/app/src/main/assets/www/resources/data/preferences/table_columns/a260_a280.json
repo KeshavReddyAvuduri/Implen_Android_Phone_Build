@@ -1,0 +1,9 @@
+{
+    "key": "a260_a280",
+    "label": "A260/A280",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 140,
+    "format": "float",
+    "decimal": 3
+}

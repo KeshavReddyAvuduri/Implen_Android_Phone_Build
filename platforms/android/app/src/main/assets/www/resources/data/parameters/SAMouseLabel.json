@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "SAMouseLabel",
+        "value": "SAMouseLabel"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "SAMouseLabel",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "SAMouseLabel",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "SAMouseLabel",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "SAMouseLabel",
+        "value": 1.493
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "SAMouseLabel",
+        "value": "SAMouse"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "SAMouseLabel",
+        "value": 66000
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "SAMouseLabel",
+        "value": 44220
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "SAMouseLabel",
+        "value": 0.6700
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "SAMouseLabel",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "SAMouseLabel",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "SAMouseLabel",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "SAMouseLabel",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "SAMouseLabel",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "SAMouseLabel",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "SAMouseLabel",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "SAMouseLabel",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "SAMouseLabel",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "SAMouseLabel",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "SAMouseLabel",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "SAMouseLabel",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "SAMouseLabel",
+        "value": "fast"
+    }
+]

@@ -1,0 +1,6 @@
+{
+  "key": "configure_wifi",
+  "label": "Configure WiFi",
+  "category": "wifi",
+  "value": "access_point"
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "OD1",
+        "value": "OD1"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "OD1",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "OD1",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "OD1",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "OD1",
+        "value": 1.000
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "OD1",
+        "value": "OD1"
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "OD1",
+        "value": 1.0000
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "OD1",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "OD1",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "OD1",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "OD1",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "OD1",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "OD1",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "OD1",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "OD1",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "OD1",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "OD1",
+        "value": "pmolul"
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "OD1",
+        "value": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Support",
+    "label": "Support",
+    "leaf": true
+  },
+  {
+    "key": "ReportProblem",
+    "label": "Report Problem",
+    "leaf": true
+  },
+  {
+    "key": "SoftwareMaintenance",
+    "label": "Software Maintenance",
+    "leaf": true
+  },
+  {
+    "key": "Legal",
+    "label": "Legal",
+    "leaf": true
+  }
+]

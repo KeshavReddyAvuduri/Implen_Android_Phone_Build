@@ -1,0 +1,9 @@
+{
+    "key": "mw",
+    "label": "MW",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 85,
+    "format": "float",
+    "decimal": 3
+}

@@ -1,0 +1,36 @@
+[{
+  "key": "configure_ip",
+  "label": "Configure IPv4",
+  "category": "network",
+  "value": "dhcp"
+},{
+  "key": "current_ip_address",
+  "label": "Current IPv4 Address",
+  "category": "network",
+  "value": ""
+},{
+  "key": "ip_address",
+  "label": "IPv4 Address",
+  "category": "network",
+  "value": ""
+},{
+  "key": "ip_gateway",
+  "label": "IPv4 Gateway",
+  "category": "network",
+  "value": ""
+},{
+  "key": "ip_netmask",
+  "label": "IPv4 Netmask",
+  "category": "network",
+  "value": ""
+},{
+  "key": "ip_printer",
+  "label": "IPv4 Printer",
+  "category": "network",
+  "value": ""
+},{
+  "key": "mac_address",
+  "label": "MAC Address",
+  "category": "network",
+  "value": ""
+}]

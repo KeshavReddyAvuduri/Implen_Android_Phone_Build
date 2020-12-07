@@ -1,0 +1,11 @@
+{
+    "key": "a",
+    "label": "Abs.",
+    "category": "",
+    "width": 108,
+    "style": "text-align: center;",
+    "format": "float",
+    "decimal": 3,
+    "translation":"text_Abs"
+
+}

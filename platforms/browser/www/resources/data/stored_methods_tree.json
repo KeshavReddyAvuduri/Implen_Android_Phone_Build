@@ -1,0 +1,67 @@
+{
+    "items": [
+        {
+            "key": "stored_methods_tree:/home/nanophotometer/NanoPhotometer/Stored Methods",
+            "label": "Stored Methods",
+            "kind": "folder",
+            "scope": "NanoPhotometer/Stored Methods",
+            "items": [
+                {
+                    "key": "stored_methods_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/Nucleic Acids",
+                    "label": "Nucleic Acids",
+                    "kind": "folder",
+                    "scope": "NanoPhotometer/Stored Methods/Nucleic Acids",
+                    "items": [
+                        {
+                            "key": "stored_methods_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/Nucleic Acids/Labels",
+                            "label": "Labels",
+                            "kind": "folder",
+                            "scope": "NanoPhotometer/Stored Methods/Nucleic Acids/Labels",
+                            "items": [
+
+                            ],
+                            "disclosure": false,
+                            "leaf": true
+                        }
+                    ],
+                    "disclosure": true,
+                    "leaf": false
+                },
+                {
+                    "key": "stored_methods_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/General",
+                    "label": "General",
+                    "kind": "folder",
+                    "scope": "NanoPhotometer/Stored Methods/General",
+                    "items": [
+
+                    ],
+                    "disclosure": false,
+                    "leaf": true
+                },
+                {
+                    "key": "stored_methods_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/Proteins",
+                    "label": "Proteins",
+                    "kind": "folder",
+                    "scope": "NanoPhotometer/Stored Methods/Proteins",
+                    "items": [
+                        {
+                            "key": "stored_methods_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/Proteins/Labels",
+                            "label": "Labels",
+                            "kind": "folder",
+                            "scope": "NanoPhotometer/Stored Methods/Proteins/Labels",
+                            "items": [
+
+                            ],
+                            "disclosure": false,
+                            "leaf": true
+                        }
+                    ],
+                    "disclosure": true,
+                    "leaf": false
+                }
+            ],
+            "disclosure": true,
+            "leaf": false
+        }
+    ]
+}

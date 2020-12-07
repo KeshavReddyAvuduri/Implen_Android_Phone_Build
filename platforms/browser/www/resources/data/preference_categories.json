@@ -1,0 +1,32 @@
+{
+    "key": "Main",
+    "label": "Main",
+    "items": [
+        {
+            "key": "General",
+            "label": "General",
+            "leaf": true
+        },
+        {
+            "key": "Dyes",
+            "label": "Dyes",
+            "leaf": true,
+            "feature": "com.implen.nanophotometer.NanoApp.Preferences.Dyes"
+        },
+        {
+            "key": "WarningMessages",
+            "label": "Warning Messages",
+            "leaf": true
+        },
+        {
+            "key": "Network",
+            "label": "Network / Printer",
+            "leaf": true
+        },
+        {
+            "key": "WiFi",
+            "label": "WiFi",
+            "leaf": true
+        }
+    ]
+}

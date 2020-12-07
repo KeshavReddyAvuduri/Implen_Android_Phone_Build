@@ -1,0 +1,28 @@
+{
+  "enabled":
+          [
+            {
+              "key": "com.implen.nanophotometer.NanoApp.CustomApps",
+              "label": "Custom App"
+            },
+            {
+              "key": "com.implen.nanophotometer.NanoApp.CustomApps.NgsQc",
+              "label": "NGS QC"
+            },
+            {
+              "key": "com.implen.nanophotometer.NanoApp.CustomApps.DbMatching",
+              "label": "Cognito"
+            }
+          ],
+  "disabled":
+          [
+            {
+              "key": "com.implen.nanophotometer.NanoApp.StoredResults",
+              "label": "Stored Results"
+            },
+            {
+              "key": "com.implen.nanophotometer.NanoApp.Save",
+              "label": "Save"
+            }
+          ]
+}

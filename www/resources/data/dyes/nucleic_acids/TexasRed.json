@@ -1,0 +1,12 @@
+{
+    "key": "TexasRed",
+    "label": "Texas Red",
+    "category": "nucleic_acids",
+    "custom": false,
+    "lock": true,
+    "w": 593,
+    "coe": 85000,
+    "cor": 0.23,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

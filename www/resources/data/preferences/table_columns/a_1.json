@@ -1,0 +1,14 @@
+{
+    "key": "a_1",
+    "label": "Abs. 1",
+    "category": "",
+    "width": 108,
+    "style": "text-align: right;",
+    "format": "float",
+    "decimal": 3,
+    "dynamic": "w_{index}",
+    "header": "Abs. {index}",
+    "dataindex": "a_{index}",
+    "group": "wavescan",
+    "translation":"text_Abs1"
+}

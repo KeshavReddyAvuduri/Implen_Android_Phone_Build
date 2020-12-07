@@ -1,0 +1,6 @@
+{
+    "key": "smtp_host",
+    "label": "SMTP Mail Server Host",
+    "category": "email",
+    "value": "localhost"
+}

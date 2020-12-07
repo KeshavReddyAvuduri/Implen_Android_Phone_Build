@@ -1,0 +1,22 @@
+[
+  {
+    "label": "text_Date_Time",
+    "key":1
+  },
+  {
+    "label": "text_Display",
+    "key":3
+  },
+  {
+    "label": "text_About",
+    "key":2
+  },
+  {
+    "label": "text_Storage",
+    "key":5
+  },
+  {
+    "label": "text_Language",
+    "key":4
+  }
+]

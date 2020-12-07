@@ -1,0 +1,9 @@
+{
+    "key": "ec",
+    "label": "Ext. Coeff.",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 101,
+    "format": "float",
+    "decimal": 3
+}

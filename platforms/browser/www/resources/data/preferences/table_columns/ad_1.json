@@ -1,0 +1,14 @@
+{
+    "key": "ad_1",
+    "label": "Dye Abs. (max)",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 101,
+    "dynamic": "d_{index}",
+    "header": "Dye Abs. {index} (max)",
+    "translation":"text_DyeAbs",
+    "dataindex": "ad_{index}",
+    "group": "dye",
+    "format": "float",
+    "decimal": 3
+}

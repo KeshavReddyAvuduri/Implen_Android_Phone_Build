@@ -1,0 +1,8 @@
+{
+    "category": "CreateStandardCurve",
+    "key": "CreateStandardCurve_label",
+    "label": "label",
+    "order": 2,
+    "format": "cn",
+    "decimal": 4
+}

@@ -1,0 +1,68 @@
+[{
+    "key": "autoprint",
+    "label": "autoprint",
+    "category": "general",
+    "value": false
+},{
+    "key": "brightness",
+    "label": "Brightness",
+    "category": "general",
+    "value": 255
+}
+,{
+    "key": "date",
+    "label": "Date",
+    "category": "general"
+}
+,{
+    "key": "enable_nanovolume",
+    "label": "Enable NanoVolume",
+    "category": "general",
+    "value": false
+},{
+    "key": "englishexcel",
+    "label": "englishexcel",
+    "category": "general",
+    "value": false
+},{
+    "key": "englishpdf",
+    "label": "englishpdf",
+    "category": "general",
+    "value": false
+},{
+    "key": "englishprint",
+    "label": "englishprint",
+    "category": "general",
+    "value": false
+},{
+    "key": "illumination_sample_window",
+    "label": "Illumination Sample Window",
+    "category": "general",
+    "value": true
+}
+,{
+    "key": "labelprint",
+    "label": "labelprint",
+    "category": "general",
+    "value": false
+},{
+    "key": "language",
+    "label": "language",
+    "category": "general",
+    "value": "en"
+},{
+    "key": "sample_description",
+    "label": "Sample Description",
+    "category": "general",
+    "value": false
+},{"category":"general","key":"screensaver","label":"Screensaver","value":true},{
+    "key": "time",
+    "label": "Time",
+    "category": "general"
+}
+,{
+    "key": "wifi_access_point",
+    "label": "WiFi Access Point",
+    "category": "general",
+    "value": true
+}]

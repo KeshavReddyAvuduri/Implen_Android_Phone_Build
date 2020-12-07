@@ -1,0 +1,23 @@
+{
+    "key": "StoredMethods/NucleicAcids/MyWavescan",
+    "label": "My Wavescan.json",
+    "icon": "lib/resources/images/DNA_icon_114x.png",
+    "stem": "My Wavescan",
+    "scope": "Stored Methods/Nucleic Acids/My Wavescan.json",
+    "kind": "file",
+    "leaf": true,
+    "disclosure": false,
+    "model": "WavescanParameters",
+    "method": "Wavescan",
+    "v": "0.9 µl – 2 µl",
+    "lf": 100,
+    "wb": 200,
+    "we": 650,
+    "functions": false,
+    "smoothing": 0,
+    "derivatives": 0,
+    "wavescan_mode": "absorbance",
+    "md": false,
+    "vs": 1.0,
+    "vd": 1.0
+}

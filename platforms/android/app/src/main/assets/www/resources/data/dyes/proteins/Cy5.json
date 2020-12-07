@@ -1,0 +1,12 @@
+{
+    "key": "Cy5",
+    "label": "Cy5",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 649,
+    "coe": 250000,
+    "cor": 0.05,
+    "show": true,
+    "device_classes": "C40, N60, NP80, N120"
+}

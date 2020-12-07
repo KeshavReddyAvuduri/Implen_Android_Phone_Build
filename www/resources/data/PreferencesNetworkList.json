@@ -1,0 +1,18 @@
+[
+    {
+      "label": "text_Network_Settings",
+      "key":1
+    },
+    {
+      "label": "text_WLAN_Settings",
+      "key":2
+    },
+    {
+      "label": "text_File_Server_Access",
+      "key":3
+    },
+    {
+      "label": "text_Network_Folder",
+      "key":4
+    }
+]

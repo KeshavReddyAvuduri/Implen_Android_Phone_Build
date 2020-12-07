@@ -1,0 +1,134 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Antibodies",
+        "value": "Antibodies"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "Antibodies",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Antibodies",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Antibodies",
+        "value": 50
+    },
+    {
+        "key": "pf",
+        "label": "Protein Factor",
+        "category": "Antibodies",
+        "value": 0.71
+    },
+    {
+        "key": "pt",
+        "label": "Protein Type",
+        "category": "Antibodies",
+        "value": "IgGMouse"
+    },
+    {
+        "key": "mw",
+        "label": "Molecular Weight",
+        "category": "Antibodies",
+        "value": 69000
+    },
+    {
+        "key": "mec",
+        "label": "Mol. Ext. Coefficient",
+        "category": "Antibodies",
+        "value": 47800
+    },
+    {
+        "key": "ec",
+        "label": "Ext. Coefficient",
+        "category": "Antibodies",
+        "value": 0.69
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "Antibodies",
+        "value": "mgml"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength (nm)",
+        "category": "Antibodies",
+        "value": 280
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "Antibodies",
+        "value": true
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "Antibodies",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "Antibodies",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "Antibodies",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "Antibodies",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "Antibodies",
+        "value": true
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "Antibodies",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "Antibodies",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Antibodies",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "Antibodies",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "Antibodies",
+        "value": "fast"
+    }
+]

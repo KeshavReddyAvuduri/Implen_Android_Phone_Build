@@ -1,0 +1,9 @@
+{
+    "key": "guanine_and_cytosine",
+    "label": "% Guanine and Cytosine",
+    "category": "",
+    "style": "text-align: right;",
+    "width": 108,
+    "format": "float",
+    "decimal": 3
+}

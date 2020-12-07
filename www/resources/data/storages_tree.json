@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "key": "storages_tree:/home/nanophotometer/NanoPhotometer",
+            "label": "NanoPhotometer",
+            "kind": "folder",
+            "scope": "NanoPhotometer",
+            "items": [
+                {
+                    "key": "storages_tree:/home/nanophotometer/NanoPhotometer/Standard Curves",
+                    "label": "Standard Curves",
+                    "kind": "folder",
+                    "scope": "NanoPhotometer/Standard Curves",
+                    "items": [
+
+                    ],
+                    "disclosure": false,
+                    "leaf": true
+                },
+                {
+                    "key": "storages_tree:/home/nanophotometer/NanoPhotometer/Stored Methods",
+                    "label": "Stored Methods",
+                    "kind": "folder",
+                    "scope": "NanoPhotometer/Stored Methods",
+                    "items": [
+                        {
+                            "key": "storages_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/Nucleic Acids",
+                            "label": "Nucleic Acids",
+                            "kind": "folder",
+                            "scope": "NanoPhotometer/Stored Methods/Nucleic Acids",
+                            "items": [
+
+                            ],
+                            "disclosure": false,
+                            "leaf": true
+                        },
+                        {
+                            "key": "storages_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/General",
+                            "label": "General",
+                            "kind": "folder",
+                            "scope": "NanoPhotometer/Stored Methods/General",
+                            "items": [
+
+                            ],
+                            "disclosure": false,
+                            "leaf": true
+                        },
+                        {
+                            "key": "storages_tree:/home/nanophotometer/NanoPhotometer/Stored Methods/Proteins",
+                            "label": "Proteins",
+                            "kind": "folder",
+                            "scope": "NanoPhotometer/Stored Methods/Proteins",
+                            "items": [
+
+                            ],
+                            "disclosure": false,
+                            "leaf": true
+                        }
+                    ],
+                    "disclosure": true,
+                    "leaf": false
+                }
+            ],
+            "disclosure": true,
+            "leaf": false
+        }
+    ]
+}

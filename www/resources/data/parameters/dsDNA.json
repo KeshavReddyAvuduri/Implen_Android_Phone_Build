@@ -1,0 +1,230 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "dsDNA",
+        "value": "dsDNA"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "dsDNA",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "dsDNA",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "dsDNA",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "dsDNA",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "dsDNA",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "dsDNA",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "dsDNA",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "dsDNA",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "dsDNA",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "dsDNA",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "dsDNA",
+        "value": 1.0
+    },
+    {
+        "key": "dc",
+        "label": "Label Correction",
+        "category": "dsDNA",
+        "value": true
+    },
+    {
+        "key": "d_1",
+        "label": "Label 1",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_2",
+        "label": "Label 2",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_3",
+        "label": "Label 3",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_4",
+        "label": "Label 4",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_5",
+        "label": "Label 5",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_6",
+        "label": "Label 6",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_7",
+        "label": "Label 7",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_8",
+        "label": "Label 8",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_9",
+        "label": "Label 9",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_10",
+        "label": "Label 10",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_11",
+        "label": "Label 11",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_12",
+        "label": "Label 12",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_13",
+        "label": "Label 13",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_14",
+        "label": "Label 14",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_15",
+        "label": "Label 15",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_16",
+        "label": "Label 16",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_17",
+        "label": "Label 17",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_18",
+        "label": "Label 18",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_19",
+        "label": "Label 19",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "d_20",
+        "label": "Label 20",
+        "category": "dsDNA",
+        "value": null
+    },
+    {
+        "key": "du",
+        "label": "Units Label",
+        "category": "dsDNA",
+        "value": "pmolul"
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "dsDNA",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "dsDNA",
+        "value": false
+    },
+    {
+        "key": "loading",
+        "label": "Sample Loading",
+        "category": "dsDNA",
+        "value": "horizontally"
+    },
+    {
+        "key": "scan",
+        "label": "Scan Mode",
+        "category": "dsDNA",
+        "value": "fast"
+    }
+]

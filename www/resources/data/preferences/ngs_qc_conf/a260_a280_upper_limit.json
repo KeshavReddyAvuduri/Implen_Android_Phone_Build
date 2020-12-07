@@ -1,0 +1,6 @@
+{
+  "key": "a260_a280_upper_limit",
+  "label": "A260/A280 upper limit",
+  "category": "ngs_qc_conf",
+  "value": 2.5
+}

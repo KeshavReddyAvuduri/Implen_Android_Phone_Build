@@ -1,0 +1,86 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "NgsQcDsDNA",
+        "value": "NgsQcDsDNA"
+    },
+    {
+        "key": "v",
+        "label": "Volume",
+        "category": "NgsQcDsDNA",
+        "value": "1-2"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "NgsQcDsDNA",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "NgsQcDsDNA",
+        "value": 50
+    },
+    {
+        "key": "naf",
+        "label": "A260 Factor",
+        "category": "NgsQcDsDNA",
+        "value": 50
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "NgsQcDsDNA",
+        "value": "ngul"
+    },
+    {
+        "key": "bc",
+        "label": "Background",
+        "category": "NgsQcDsDNA",
+        "value": true
+    },
+    {
+        "key": "w320",
+        "label": "Background",
+        "category": "NgsQcDsDNA",
+        "value": 320
+    },
+    {
+        "key": "md",
+        "label": "Manual Dilution",
+        "category": "NgsQcDsDNA",
+        "value": false
+    },
+    {
+        "key": "vs",
+        "label": "Volume Sample",
+        "category": "NgsQcDsDNA",
+        "value": 1.0
+    },
+    {
+        "key": "vd",
+        "label": "Volume Diluent",
+        "category": "NgsQcDsDNA",
+        "value": 1.0
+    },
+    {
+        "key": "df",
+        "label": "Factor",
+        "category": "NgsQcDsDNA",
+        "value": 1.0
+    },
+    {
+        "key": "abr",
+        "label": "Air Bubble Recognition",
+        "category": "NgsQcDsDNA",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "NgsQcDsDNA",
+        "value": false
+    }
+]

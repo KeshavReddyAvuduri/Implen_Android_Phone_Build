@@ -1,0 +1,1105 @@
+[
+    {
+        "key": "method",
+        "label": "Method",
+        "category": "Bradford",
+        "value": "Bradford"
+    },
+    {
+        "key": "at",
+        "label": "Assays Type",
+        "category": "Bradford",
+        "value": "Bradford"
+    },
+    {
+        "key": "pl",
+        "label": "Pathlength",
+        "category": "Bradford",
+        "value": "10"
+    },
+    {
+        "key": "lid",
+        "label": "Lid",
+        "category": "Bradford",
+        "value": 50
+    },
+    {
+        "key": "ht37",
+        "label": "HeatTo37",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "curve_fit",
+        "label": "CurveFit",
+        "category": "Bradford",
+        "value": "linear_regression"
+    },
+    {
+        "key": "standards",
+        "label": "Standards",
+        "category": "Bradford",
+        "value": "new"
+    },
+    {
+        "key": "w",
+        "label": "Wavelength",
+        "category": "Bradford",
+        "value": "595"
+    },
+    {
+        "key": "u",
+        "label": "Units",
+        "category": "Bradford",
+        "value": "mgml"
+    },
+    {
+        "key": "vdf",
+        "label": "Dilution",
+        "category": "Bradford",
+        "value": 15
+    },
+    {
+        "key": "baseline",
+        "label": "Baseline Correction",
+        "category": "Bradford",
+        "value": 750
+    },
+    {
+        "key": "f",
+        "label": "Factor",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_1",
+        "label": "Standard Curve Parameter 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_2",
+        "label": "Standard Curve Parameter 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_3",
+        "label": "Standard Curve Parameter 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_4",
+        "label": "Standard Curve Parameter 4",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_5",
+        "label": "Standard Curve Parameter 5",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_6",
+        "label": "Standard Curve Parameter 6",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_7",
+        "label": "Standard Curve Parameter 7",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_8",
+        "label": "Standard Curve Parameter 8",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "p_9",
+        "label": "Standard Curve Parameter 9",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "cs",
+        "label": "Concentrations",
+        "category": "Bradford",
+        "value": 1
+    },
+    {
+        "key": "rs",
+        "label": "Replicates",
+        "category": "Bradford",
+        "value": 0
+    },
+    {
+        "key": "c_1",
+        "label": "Concentration 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_2",
+        "label": "Concentration 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_3",
+        "label": "Concentration 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_4",
+        "label": "Concentration 4",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_5",
+        "label": "Concentration 5",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_6",
+        "label": "Concentration 6",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_7",
+        "label": "Concentration 7",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_8",
+        "label": "Concentration 8",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_9",
+        "label": "Concentration 9",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_10",
+        "label": "Concentration 10",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_11",
+        "label": "Concentration 11",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_12",
+        "label": "Concentration 12",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_13",
+        "label": "Concentration 13",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_14",
+        "label": "Concentration 14",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_15",
+        "label": "Concentration 15",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_16",
+        "label": "Concentration 16",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_17",
+        "label": "Concentration 17",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_18",
+        "label": "Concentration 18",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_19",
+        "label": "Concentration 19",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "c_20",
+        "label": "Concentration 20",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_1",
+        "label": "Mean Absorbance 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_2",
+        "label": "Mean Absorbance 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_3",
+        "label": "Mean Absorbance 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_4",
+        "label": "Mean Absorbance 4",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_5",
+        "label": "Mean Absorbance 5",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_6",
+        "label": "Mean Absorbance 6",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_7",
+        "label": "Mean Absorbance 7",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_8",
+        "label": "Mean Absorbance 8",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_9",
+        "label": "Mean Absorbance 9",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_10",
+        "label": "Mean Absorbance 10",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_11",
+        "label": "Mean Absorbance 11",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_12",
+        "label": "Mean Absorbance 12",
+        "category": "Bradford"
+    },
+    {
+        "key": "a_13",
+        "label": "Mean Absorbance 13",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_14",
+        "label": "Mean Absorbance 14",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_15",
+        "label": "Mean Absorbance 15",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_16",
+        "label": "Mean Absorbance 16",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_17",
+        "label": "Mean Absorbance 17",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_18",
+        "label": "Mean Absorbance 18",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_19",
+        "label": "Mean Absorbance 19",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_20",
+        "label": "Mean Absorbance 20",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_1_1",
+        "label": "Absorbance 1 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_2_1",
+        "label": "Absorbance 2 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_3_1",
+        "label": "Absorbance 3 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_4_1",
+        "label": "Absorbance 4 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_5_1",
+        "label": "Absorbance 5 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_6_1",
+        "label": "Absorbance 6 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_7_1",
+        "label": "Absorbance 7 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_8_1",
+        "label": "Absorbance 8 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_9_1",
+        "label": "Absorbance 9 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_10_1",
+        "label": "Absorbance 10 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_11_1",
+        "label": "Absorbance 11 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_12_1",
+        "label": "Absorbance 12 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_13_1",
+        "label": "Absorbance 13 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_14_1",
+        "label": "Absorbance 14 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_15_1",
+        "label": "Absorbance 15 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_16_1",
+        "label": "Absorbance 16 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_17_1",
+        "label": "Absorbance 17 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_18_1",
+        "label": "Absorbance 18 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_19_1",
+        "label": "Absorbance 19 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_20_1",
+        "label": "Absorbance 20 Replicate 1",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_1_2",
+        "label": "Absorbance 1 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_2_2",
+        "label": "Absorbance 2 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_3_2",
+        "label": "Absorbance 3 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_4_2",
+        "label": "Absorbance 4 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_5_2",
+        "label": "Absorbance 5 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_6_2",
+        "label": "Absorbance 6 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_7_2",
+        "label": "Absorbance 7 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_8_2",
+        "label": "Absorbance 8 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_9_2",
+        "label": "Absorbance 9 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_10_2",
+        "label": "Absorbance 10 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_11_2",
+        "label": "Absorbance 11 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_12_2",
+        "label": "Absorbance 12 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_13_2",
+        "label": "Absorbance 13 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_14_2",
+        "label": "Absorbance 14 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_15_2",
+        "label": "Absorbance 15 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_16_2",
+        "label": "Absorbance 16 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_17_2",
+        "label": "Absorbance 17 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_18_2",
+        "label": "Absorbance 18 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_19_2",
+        "label": "Absorbance 19 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_20_2",
+        "label": "Absorbance 20 Replicate 2",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_1_3",
+        "label": "Absorbance 1 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_2_3",
+        "label": "Absorbance 2 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_3_3",
+        "label": "Absorbance 3 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_4_3",
+        "label": "Absorbance 4 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_5_3",
+        "label": "Absorbance 5 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_6_3",
+        "label": "Absorbance 6 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_7_3",
+        "label": "Absorbance 7 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_8_3",
+        "label": "Absorbance 8 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_9_3",
+        "label": "Absorbance 9 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_10_3",
+        "label": "Absorbance 10 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_11_3",
+        "label": "Absorbance 11 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_12_3",
+        "label": "Absorbance 12 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_13_3",
+        "label": "Absorbance 13 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_14_3",
+        "label": "Absorbance 14 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_15_3",
+        "label": "Absorbance 15 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_16_3",
+        "label": "Absorbance 16 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_17_3",
+        "label": "Absorbance 17 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_18_3",
+        "label": "Absorbance 18 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_19_3",
+        "label": "Absorbance 19 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "a_20_3",
+        "label": "Absorbance 20 Replicate 3",
+        "category": "Bradford",
+        "value": 0.0
+    },
+    {
+        "key": "i_1_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_1_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_1_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_2_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_2_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_2_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_3_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_3_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_3_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_4_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_4_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_4_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_5_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_5_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_5_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_6_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_6_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_6_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_7_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_7_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_7_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_8_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_8_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_8_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_9_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_9_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_9_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_10_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_10_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_10_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_11_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_11_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_11_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_12_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_12_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_12_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_13_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_13_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_13_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_14_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_14_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_14_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_15_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_15_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_15_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_16_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_16_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_16_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_17_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_17_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_17_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_18_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_18_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_18_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_19_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_19_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_19_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_20_1",
+        "label": "Ignore 1",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_20_2",
+        "label": "Ignore 2",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "i_20_3",
+        "label": "Ignore 3",
+        "category": "Bradford",
+        "value": false
+    },
+    {
+        "key": "ht37",
+        "label": "Heat To 37°C",
+        "category": "Bradford",
+        "value": false
+    }
+]

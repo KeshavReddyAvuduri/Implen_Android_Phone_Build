@@ -1,0 +1,12 @@
+{
+    "key": "pHrodoRed",
+    "label": "pHrodo Red",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 560,
+    "coe": 65000,
+    "cor": 0.12,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

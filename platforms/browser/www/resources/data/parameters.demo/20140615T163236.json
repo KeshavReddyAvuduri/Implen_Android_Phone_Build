@@ -1,0 +1,22 @@
+{
+    "a230" : 0.354,
+    "a260" : 0.764,
+    "a260_a230" : 2.187,
+    "a260_a280" : 1.39,
+    "a280" : 0.552,
+    "a320" : 0.008,
+    "amax" : 1.20669,
+    "amin" : -0.00448,
+    "c" : 249,
+    "category" : "",
+    "created" : "20140918T133015",
+    "description" : "",
+    "key" : "20140615T163236",
+    "label" : "Sample7",
+    "lf" : 10.0,
+    "method" : "miRNAsequence",
+    "n" : 8,
+    "reference" : false,
+    "saved" : true,
+    "u" : "ugml"
+}

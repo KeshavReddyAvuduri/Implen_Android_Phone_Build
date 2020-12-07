@@ -1,0 +1,13 @@
+{
+    "key": "du",
+    "label": "Dye Units",
+    "category": "",
+    "style": "text-align: center;",
+    "width": 85,
+    "dynamic": "d_{index}",
+    "header": "Dye Units",
+    "dataindex": "du",
+    "group": "dye",
+    "format": "du",
+    "translation":"text_Dye_Units"
+}

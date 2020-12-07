@@ -1,0 +1,12 @@
+{
+    "key": "Cy3",
+    "label": "Cy3",
+    "category": "proteins",
+    "custom": false,
+    "lock": true,
+    "w": 550,
+    "coe": 150000,
+    "cor": 0.05,
+    "show": true,
+    "device_classes": "C40, N50, N60, NP80, N120"
+}

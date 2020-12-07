@@ -1,0 +1,13 @@
+{
+    "key": "vdf",
+    "label": "Dilution",
+    "category": "",
+    "width": 100,
+    "dynamic": "vdf",
+    "header": "Vdf",
+    "style": "text-align: center;",
+    "dataindex": "vdf",
+    "group": "vdf",
+    "placeholder": null,
+    "translation":"Dilution"
+}

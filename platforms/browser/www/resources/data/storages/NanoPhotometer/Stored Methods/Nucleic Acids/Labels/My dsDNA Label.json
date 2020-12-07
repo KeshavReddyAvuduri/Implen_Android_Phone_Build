@@ -1,0 +1,21 @@
+{
+    "key": "StoredMethods/NucleicAcids/Labels/MydsDNALabel",
+    "label": "My dsDNA Label.json",
+    "icon": "lib/resources/images/DNA_icon_114x.png",
+    "stem": "My dsDNA Label",
+    "scope": "Stored Methods/Nucleic Acids/Labels/My dsDNA Label.json",
+    "kind": "file",
+    "leaf": true,
+    "disclosure": false,
+    "model": "NucleicAcidParameters",
+    "method": "dsDNALabel",
+    "v"     : "0.9 µl – 2 µl",
+    "lf"    : 10,
+    "naf"   : 47,
+    "u"     : "ugml",
+    "bc"    : false,
+    "md"    : false,
+    "vs"    : 1.0,
+    "vd"    : 1.0,
+    "d_1"   : "TexasRed"
+}
