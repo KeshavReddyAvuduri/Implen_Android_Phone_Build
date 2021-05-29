@@ -35,4 +35,4 @@ value="org.apache.cordova.splashscreen.SplashScreen" />
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-</widget> 
+</widget>
