@@ -34,5 +34,5 @@ value="org.apache.cordova.splashscreen.SplashScreen" />
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
-    </platform>
+    </platform> 
 </widget>
