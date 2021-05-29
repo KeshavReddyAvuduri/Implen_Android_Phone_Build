@@ -630,7 +630,7 @@ Lang = {
     UserManual: 'Benutzerhandbuch',
     UserManual_Scan: 'Für Benutzerhandbuch QR-Code einscannen',
     UserManual_Download: 'oder herunterladen:',
-
+    RemoteAccess:'Remote Access',
     info_DataSavedSuccessfully: 'Daten erfolgreich gespeichert.',
     information_BackupCreatedOnUsbFlashDrive: 'Sicherung auf USB Stick erstellt.',
     information_BackupStarted: 'Sicherung gestartet.<br/>Bitte schalten Sie das NanoPhotometer nicht aus!',
@@ -827,6 +827,7 @@ Lang = {
     warning_LidOpenedDuringMeasurement: 'Messkopfdeckel wurde während der Messung geöffnet. Messung abgebrochen.',
     alert_LidOpenedDuringMeasurement: 'Messkopfdeckel wurde während der Messung geöffnet. Messung abgebrochen.',
     warning_MaximumLimitExceededOnly960samplesPossible: 'Maximales Limit überschritten. 960 Proben sind möglich.',
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
 
     /*
      *  Implen Extended MultiChannel

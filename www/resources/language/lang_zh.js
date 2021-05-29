@@ -630,6 +630,7 @@ Lang = {
     UserManual: '用户手册',
     UserManual_Scan: '查看用户手册',
     UserManual_Download: '或下载',
+    RemoteAccess:'Remote Access',
 
     info_DataSavedSuccessfully: '数据保存成功。',
     information_BackupCreatedOnUsbFlashDrive: '在USB设备中创建备份。',
@@ -827,6 +828,8 @@ Lang = {
     warning_LidOpenedDuringMeasurement: '测量时盖子打开，测量中止。',
     alert_LidOpenedDuringMeasurement: '测量时盖子打开，测量中止。',
     warning_MaximumLimitExceededOnly960samplesPossible: '已超最大测量限度。至多可测960个样品。',
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
+    
 
     /*
      *  Implen Extended MultiChannel

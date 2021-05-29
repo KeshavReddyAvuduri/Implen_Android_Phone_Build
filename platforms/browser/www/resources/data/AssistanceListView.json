@@ -40,6 +40,14 @@
       "B2":true
     },
     {
+      "label": "RemoteAccess",
+      "key":7,
+      "Phone":true,
+      "Tablet":true,
+      "Desktop":true,
+      "B2":true
+    },
+    {
       "label": "Legal",
       "key":5,
       "Phone":true,

@@ -630,6 +630,7 @@ Lang = {
     UserManual: 'Manual de Usuario',
     UserManual_Scan: 'Escanear para ver el manual de usuario',
     UserManual_Download: 'o descargar',
+    RemoteAccess:'Remote Access',
 
     info_DataSavedSuccessfully: 'Datos guardados exitosamente.',
     information_BackupCreatedOnUsbFlashDrive: 'Copia de respaldo creada en memoria Flash USB.',
@@ -827,6 +828,7 @@ Lang = {
     warning_LidOpenedDuringMeasurement: 'Tapa abierta durante la medición. Mediciones abortadas.',
     warning_LidOpenedDuringMeasurement: 'Tapa abierta durante la medición. Mediciones abortadas.',
     warning_MaximumLimitExceededOnly960samplesPossible: 'Límite máximo excedido. Solo 960 muestras posibles.',
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
 
     /*
      *  Implen Extended MultiChannel

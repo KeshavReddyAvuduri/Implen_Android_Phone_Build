@@ -630,6 +630,7 @@ Lang = {
     UserManual: 'Руководство пользователя',
     UserManual_Scan: 'Отсканируйте QR-код для загрузки руководства пользователя',
     UserManual_Download: 'или скачайте, перейдя по ссылке',
+    RemoteAccess:'Remote Access',
 
     info_DataSavedSuccessfully: 'Данные успешно сохранены.',
     information_BackupCreatedOnUsbFlashDrive: 'Резервная копия создана на USB-накопителе.',
@@ -827,6 +828,8 @@ Lang = {
     warning_LidOpenedDuringMeasurement: 'Крышка открыта во время измерения. Измерение прекращено.',
     alert_LidOpenedDuringMeasurement: 'Крышка открыта во время измерения. Измерение прекращено.',
     warning_MaximumLimitExceededOnly960samplesPossible: 'Превышен максимальный предел. Возможно только 960 образцов.',
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
+    
 
     /*
      *  Implen Extended MultiChannel

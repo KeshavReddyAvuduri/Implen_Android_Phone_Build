@@ -673,6 +673,7 @@ Lang = {
     UserManual: 'User Manual',
     UserManual_Scan: 'Scan for User Manual',
     UserManual_Download: 'or download',
+    RemoteAccess:'Remote Access',
     
     info_DataSavedSuccessfully: 'Data saved successfully.',
     information_BackupCreatedOnUsbFlashDrive: 'Backup created on USB Flash Drive.',
@@ -877,6 +878,7 @@ Lang = {
     UpgradeToN50Touch: 'UPGRADE TO N50-TOUCH',
     warning_UpgradeToN50TouchFailedPleaseContactImplenCustomerSupport: 'Upgrade to N50-Touch failed.<br/>Please contact Implen customer support.',
     alert_FileCannotBeOpenedAnUpgradeOfTheUnitIsNecessary: 'File cannot be opened, an upgrade of the unit is necessary. Please visit www.implen-go.com/n50-go-upgrade or contact the Implen Go Support Team support@implen-go.com for assistance.',
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
 
     /*
      *  Implen Extended MultiChannel

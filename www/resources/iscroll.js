@@ -1183,7 +1183,9 @@ IScroll.prototype = {
 
 	_wheel: function (e) {
 		if ( !this.enabled ) {
-			return;
+			//strange scroll errors in replicate switches
+			// NANOWEB-5256
+			//return;
 		}
 
 		e.preventDefault();

@@ -39,7 +39,7 @@ function fail(error) {
 }
 
 function onDeviceReady() {
-    if (Ext.os.is.iOS) {
+    if (Ext.os.is && Ext.os.is.iOS) {
      if (window.screen.width >= 768 && screen) {
      screen.lockOrientation('landscape');
      //alert("is a Tablet");
@@ -71,10 +71,10 @@ function onRequestFileSystemSuccess(fileSystem) {
 
 }
 function onErrorCreateFile(err){
-    alert("Error in creating file");
+    console.log("Error in creating file");
 }
 function onRequestFileSystemError(err) {
-    alert("Error in reading file");
+    console.log("Error in reading file");
 }
 
 
@@ -90,10 +90,10 @@ function onGetDirectorySuccess(dir) {
 }
 
 function onGetDirectoryFail(error) {
-    alert("Error creating directory " + error.code);
+    console.log("Error creating directory " + ((error && error.code) ? error.code:''));
 }
 function errorHandler(err) {
-    alert("Error Handler");
+    console.log("Error Handler");
 
 }
 

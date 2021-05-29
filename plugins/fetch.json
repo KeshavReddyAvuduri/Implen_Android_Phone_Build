@@ -94,5 +94,29 @@
     },
     "is_top_level": true,
     "variables": {}
+  },
+  "integrator-cordova-plugin-downloader": {
+    "source": {
+      "type": "registry",
+      "id": "integrator-cordova-plugin-downloader"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-androidx": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-androidx-adapter": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx-adapter"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }

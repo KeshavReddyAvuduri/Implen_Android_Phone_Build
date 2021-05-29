@@ -630,6 +630,7 @@ Lang = {
     UserManual: 'ユーザーマニュアル',
     UserManual_Scan: 'QRコードをスキャンしてください',
     UserManual_Download: 'またはURLよりダウンロードしてください',
+    RemoteAccess:'Remote Access',
 
     info_DataSavedSuccessfully: 'データを保存しました。',
     information_BackupCreatedOnUsbFlashDrive: 'USBメモリにバックアップを保存しました。',
@@ -826,7 +827,8 @@ Lang = {
     warning_LidOpenedDuringMeasurement: '測定中にLidが開いたため、測定を中止しました。',
     alert_LidOpenedDuringMeasurement: '測定中にLidが開いたため、測定を中止しました。',
     warning_MaximumLimitExceededOnly960samplesPossible: '測定サンプル数の上限を超えています。960サンプルまでです。',
-
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
+   
     /*
      *  Implen Extended MultiChannel
      */

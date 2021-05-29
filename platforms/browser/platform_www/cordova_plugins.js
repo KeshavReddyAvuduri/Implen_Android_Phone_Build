@@ -308,6 +308,14 @@ module.exports = [
         "clobbers": [
             "cordova.plugins.permissions"
         ]
+    },
+    {
+        "file": "plugins/integrator-cordova-plugin-downloader/www/Downloader.js",
+        "id": "integrator-cordova-plugin-downloader.Downloader",
+        "pluginId": "integrator-cordova-plugin-downloader",
+        "clobbers": [
+            "cordova.plugins.Downloader"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -324,7 +332,10 @@ module.exports.metadata =
     "cordova-plugin-screen-orientation": "1.4.2",
     "cordova-plugin-splashscreen": "5.0.3",
     "cordova-plugin-whitelist": "1.3.4",
-    "cordova-plugin-android-permissions": "1.1.0"
+    "cordova-plugin-android-permissions": "1.1.0",
+    "integrator-cordova-plugin-downloader": "0.0.1",
+    "cordova-plugin-androidx": "3.0.0",
+    "cordova-plugin-androidx-adapter": "1.1.3"
 }
 // BOTTOM OF METADATA
 });

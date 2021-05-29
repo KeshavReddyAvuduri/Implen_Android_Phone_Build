@@ -20,6 +20,10 @@
       "label": "Printer",
       "key":4,
       "save":false
+    },
+    {
+      "label": "CFR21",
+      "key":5
     }
 
   ]

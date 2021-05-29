@@ -2596,9 +2596,8 @@
           "key":"label",
           "label":"Sample Name",
           "category":"",
-          "short":"Name",
-          "translation":"text_Name",
-          "width":108,
+          "translation":"text_name",
+          "flex":1,
           "editable":true
         }
       },
@@ -2622,12 +2621,10 @@
       {
         "key":"DbMatching_match",
         "label":"match",
-        "order":3,
         "details":{
           "key":"match",
           "label":"Analyzed Result",
-          "category":"",
-          "width":475
+          "category":""
         }
       },
       {
@@ -2650,19 +2647,17 @@
           "key":"pathlength",
           "label":"Pathlength",
           "category":"",
-          "style":"text-align: right;",
-          "width":108
+          "style":"text-align: right;"
         }
       },
       {
         "key":"DbMatching_prob",
         "label":"prob",
-        "order":4,
         "details":{
           "key":"prob",
           "label":"% Probability",
           "category":"",
-          "width":120,
+
           "style":"text-align: right;",
           "format":"float"
         }
@@ -2676,7 +2671,7 @@
           "label":"Saved",
           "category":"",
           "short":"&nbsp;",
-          "width":59,
+
           "sortable":false,
           "format":"saved"
         }
@@ -2689,7 +2684,7 @@
           "key":"vdf",
           "label":"Dilution",
           "category":"",
-          "width":100,
+          "flex":0.2,
           "dynamic":"vdf",
           "header":"Vdf",
           "style":"text-align: center;",

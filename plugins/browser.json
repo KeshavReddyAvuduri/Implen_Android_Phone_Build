@@ -39,6 +39,15 @@
     },
     "cordova-plugin-android-permissions": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "integrator-cordova-plugin-downloader": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
     }
   },
   "dependent_plugins": {

@@ -7,22 +7,23 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
-    },
-    "cordova-plugin-splashscreen": {
+    "cordova-plugin-android-permissions": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
     "cordova-plugin-device": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
+    "cordova-plugin-downloader": {
+      "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
+    },
     "cordova-plugin-file": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
-    "cordova-plugin-file-transfer": {
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
-    "cordova-plugin-screen-orientation": {
+    "cordova-plugin-file-transfer": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
     "cordova-plugin-inappbrowser": {
@@ -31,14 +32,22 @@
     "cordova-plugin-network-information": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
-    "cordova-plugin-file-opener2": {
-      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+    "cordova-plugin-screen-orientation": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
-    "cordova-plugin-downloader": {
+    "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     },
-    "cordova-plugin-android-permissions": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
+    },
+    "integrator-cordova-plugin-downloader": {
+      "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
+    },
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
+    },
+    "cordova-plugin-androidx-adapter": {
       "PACKAGE_NAME": "com.implen.nanophotometer.nanogap"
     }
   },

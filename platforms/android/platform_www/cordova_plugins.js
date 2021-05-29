@@ -1,11 +1,11 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
   module.exports = [
     {
-      "id": "cordova-plugin-splashscreen.SplashScreen",
-      "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
-      "pluginId": "cordova-plugin-splashscreen",
+      "id": "cordova-plugin-android-permissions.Permissions",
+      "file": "plugins/cordova-plugin-android-permissions/www/permissions.js",
+      "pluginId": "cordova-plugin-android-permissions",
       "clobbers": [
-        "navigator.splashscreen"
+        "cordova.plugins.permissions"
       ]
     },
     {
@@ -190,6 +190,30 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       "runs": true
     },
     {
+      "id": "cordova-plugin-zip.Zip",
+      "file": "plugins/cordova-plugin-zip/zip.js",
+      "pluginId": "cordova-plugin-zip",
+      "clobbers": [
+        "zip"
+      ]
+    },
+    {
+      "id": "cordova-plugin-downloader.download",
+      "file": "plugins/cordova-plugin-downloader/www/download.js",
+      "pluginId": "cordova-plugin-downloader",
+      "clobbers": [
+        "download"
+      ]
+    },
+    {
+      "id": "cordova-plugin-file-opener2.FileOpener2",
+      "file": "plugins/cordova-plugin-file-opener2/www/plugins.FileOpener2.js",
+      "pluginId": "cordova-plugin-file-opener2",
+      "clobbers": [
+        "cordova.plugins.fileOpener2"
+      ]
+    },
+    {
       "id": "cordova-plugin-file-transfer.FileTransferError",
       "file": "plugins/cordova-plugin-file-transfer/www/FileTransferError.js",
       "pluginId": "cordova-plugin-file-transfer",
@@ -203,22 +227,6 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       "pluginId": "cordova-plugin-file-transfer",
       "clobbers": [
         "window.FileTransfer"
-      ]
-    },
-    {
-      "id": "cordova-plugin-screen-orientation.screenorientation",
-      "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.js",
-      "pluginId": "cordova-plugin-screen-orientation",
-      "clobbers": [
-        "cordova.plugins.screenorientation"
-      ]
-    },
-    {
-      "id": "cordova-plugin-screen-orientation.screenorientation.android",
-      "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.android.js",
-      "pluginId": "cordova-plugin-screen-orientation",
-      "merges": [
-        "cordova.plugins.screenorientation"
       ]
     },
     {
@@ -248,50 +256,53 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       ]
     },
     {
-      "id": "cordova-plugin-file-opener2.FileOpener2",
-      "file": "plugins/cordova-plugin-file-opener2/www/plugins.FileOpener2.js",
-      "pluginId": "cordova-plugin-file-opener2",
+      "id": "cordova-plugin-screen-orientation.screenorientation",
+      "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.js",
+      "pluginId": "cordova-plugin-screen-orientation",
       "clobbers": [
-        "cordova.plugins.fileOpener2"
+        "cordova.plugins.screenorientation"
       ]
     },
     {
-      "id": "cordova-plugin-zip.Zip",
-      "file": "plugins/cordova-plugin-zip/zip.js",
-      "pluginId": "cordova-plugin-zip",
-      "clobbers": [
-        "zip"
+      "id": "cordova-plugin-screen-orientation.screenorientation.android",
+      "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.android.js",
+      "pluginId": "cordova-plugin-screen-orientation",
+      "merges": [
+        "cordova.plugins.screenorientation"
       ]
     },
     {
-      "id": "cordova-plugin-downloader.download",
-      "file": "plugins/cordova-plugin-downloader/www/download.js",
-      "pluginId": "cordova-plugin-downloader",
+      "id": "cordova-plugin-splashscreen.SplashScreen",
+      "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+      "pluginId": "cordova-plugin-splashscreen",
       "clobbers": [
-        "download"
+        "navigator.splashscreen"
       ]
     },
     {
-      "id": "cordova-plugin-android-permissions.Permissions",
-      "file": "plugins/cordova-plugin-android-permissions/www/permissions.js",
-      "pluginId": "cordova-plugin-android-permissions",
+      "id": "integrator-cordova-plugin-downloader.Downloader",
+      "file": "plugins/integrator-cordova-plugin-downloader/www/Downloader.js",
+      "pluginId": "integrator-cordova-plugin-downloader",
       "clobbers": [
-        "cordova.plugins.permissions"
+        "cordova.plugins.Downloader"
       ]
     }
   ];
   module.exports.metadata = {
-    "cordova-plugin-whitelist": "1.3.4",
-    "cordova-plugin-splashscreen": "5.0.3",
+    "cordova-plugin-android-permissions": "1.1.0",
     "cordova-plugin-device": "2.0.3",
     "cordova-plugin-file": "6.0.2",
-    "cordova-plugin-file-transfer": "1.7.1",
-    "cordova-plugin-screen-orientation": "1.4.2",
-    "cordova-plugin-inappbrowser": "3.1.0",
-    "cordova-plugin-network-information": "2.0.3-dev",
-    "cordova-plugin-file-opener2": "2.2.1",
     "cordova-plugin-zip": "3.1.0",
     "cordova-plugin-downloader": "0.0.4",
-    "cordova-plugin-android-permissions": "1.1.0"
+    "cordova-plugin-file-opener2": "2.2.1",
+    "cordova-plugin-file-transfer": "1.7.1",
+    "cordova-plugin-inappbrowser": "3.1.0",
+    "cordova-plugin-network-information": "2.0.3-dev",
+    "cordova-plugin-screen-orientation": "1.4.2",
+    "cordova-plugin-splashscreen": "5.0.3",
+    "cordova-plugin-whitelist": "1.3.4",
+    "integrator-cordova-plugin-downloader": "0.0.1",
+    "cordova-plugin-androidx": "3.0.0",
+    "cordova-plugin-androidx-adapter": "1.1.3"
   };
 });

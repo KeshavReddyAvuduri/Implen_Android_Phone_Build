@@ -1,13 +1,57 @@
+/* special class to enable check if keyboard.css is loaded */
+#css_anchor {
+	display: none;
+}
+
 /* keyboard - jQuery UI Widget */
-.ui-keyboard { padding: .3em; position: absolute; left: 0; top: 0; z-index: 16000; background: rgba(0, 0, 0, 0.12);}
-.ui-keyboard-has-focus { z-index: 16001; }
-.ui-keyboard div { font-size: 1.1em; }
-.ui-keyboard-button { height: 2em; min-width: 2em; margin: .1em; cursor: pointer; overflow: hidden; line-height: 2em; -moz-user-focus: ignore; }
-.ui-keyboard-button span { padding: 0; margin: 0; white-space:nowrap; display: inline-block; }
-.ui-keyboard-button-endrow { clear: left; }
-.ui-keyboard-space { width: 15em; }
+.ui-keyboard {
+	padding: .3em;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 16000;
+	background: rgba(0, 0, 0, 0.12);
+}
+
+.ui-keyboard-has-focus {
+	z-index: 16001;
+}
+
+.ui-keyboard div {
+	font-size: 1.1em;
+}
+
+.ui-keyboard-button {
+	height: 2em;
+	min-width: 2em;
+	margin: .1em;
+	cursor: pointer;
+	overflow: hidden;
+	line-height: 2em;
+	-moz-user-focus: ignore;
+}
+
+.ui-keyboard-button span {
+	padding: 0;
+	margin: 0;
+	white-space: nowrap;
+	display: inline-block;
+}
+
+.ui-keyboard-button-endrow {
+	clear: left;
+}
+
+.ui-keyboard-space {
+	width: 15em;
+}
+
 /* see http://nicolasgallagher.com/another-css-image-replacement-technique/ */
-.ui-keyboard-space span, .ui-keyboard-empty span { font: 0/0 a; text-shadow: none; color: transparent; }
+.ui-keyboard-space span, .ui-keyboard-empty span {
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent;
+}
 .ui-keyboard-preview-wrapper { text-align: center; position: relative; overflow: hidden; }
 /* width is calculated in IE, since 99% = 99% full browser width =( */
 .ui-keyboard-preview { text-align: left; margin: 0 0 3px 0; display: inline; width: 99%;}

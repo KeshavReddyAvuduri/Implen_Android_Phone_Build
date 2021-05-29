@@ -630,6 +630,7 @@ Lang = {
     UserManual: 'Manual do Usuário',
     UserManual_Scan: 'Scan para Manual do Utilizador',
     UserManual_Download: 'ou descarregar',
+    RemoteAccess:'Remote Access',
 
     info_DataSavedSuccessfully: 'Dados salvos com sucesso.',
     information_BackupCreatedOnUsbFlashDrive: 'Backup criado no dispositivo USB.',
@@ -715,8 +716,8 @@ Lang = {
     status_not_connected: 'Não conectado',
     status_no_network: 'Conexão falhou (rede indisponível)',
     status_no_address: 'Conexão falhou (sem endereço IP)',
-    status_not_available: 'Conexão falhou (senha incorreta)',
-    status_incorrect_password: 'Conexão falhou (caminho de rede não disponível)',
+    status_not_available: 'Conexão falhou (caminho de rede não disponível)',
+    status_incorrect_password: 'Conexão falhou (senha incorreta)',
 
     helptextDHCP: 'Por favor faça sua seleção e pressione o ícone de disco acima para salvar a configuração desejada.<br\>' +
         'Para acessar todos os arquivos salvos e resultados do seu computador favor digitar \\\\{serial number} ou {IP-Address} na barra de endereço do Windows Explorer<br\>' +
@@ -827,7 +828,8 @@ Lang = {
     warning_LidOpenedDuringMeasurement: 'Tampa aberta durante medição. Medição abortada.',
     alert_LidOpenedDuringMeasurement: 'Tampa aberta durante medição. Medição abortada.',
     warning_MaximumLimitExceededOnly960samplesPossible: 'Limite máximo atingido. Apenas 960 amostras possíveis.',
-
+    cognito_software_is_not_available_on_smartPhone_app:'Cognito software is activated. Smartphone App is not available for this mode.',
+    
     /*
      *  Implen Extended MultiChannel
      */
