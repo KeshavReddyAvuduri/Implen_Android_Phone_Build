@@ -31,7 +31,8 @@
     "eslint-config-standard": "^13.0.1",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-standard": "^4.0.0",
-    "integrator-cordova-plugin-downloader": "^1.1.0"
+    "integrator-cordova-plugin-downloader": "^1.1.0",
+    "recursive-readdir": "^2.2.2"
   },
   "devDependencies": {
     "cordova-plugin-whitelist": "git+https://github.com/apache/cordova-plugin-whitelist.git",
